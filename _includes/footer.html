@@ -1,0 +1,104 @@
+<div id="footer" class="panel">
+	<div class="panel-footer">
+		<div class="container-fluid">
+			<div class="left">
+				<div class="col-sm-6">
+					<h2> Copyright &copy  </h2>
+					<p> Copyright &copy 2022-2023 Peixiao Wang (王培晓). All rights reserved.</p>
+					<p> Powered by <a href="https://jekyllrb.com">Jekyll</a>.</p>
+					<p> Last updated on 2023.5.7</a>.</p>
+					<p>Current Time: <span id="dateTime"></span></p>
+					<p>The Website has run: <span id="run_time"></span></p>
+					<h2> Advance Notice  </h2>
+					<p> <font color="red">2</font> new journal paper and <font color="blue">1</font> new conference paper is <a href="https://giserwang.github.io/404"><font color="gery">coming soon</font></a>, please wait and 
+					<a href="{{ site.url }}{{ site.baseurl }}/images/logo/wechat.jpg"><font color="gery">find me</font></a>.</p>
+					<p> Deadline Notice: <a href="https://ccfddl.github.io/"><font color="red">CCF</font></a> & <a href="https://aideadlin.es/?sub=ML,CV"><font color="red">AI</font></a> Conference Deadlines</p>
+					<ul style="overflow: hidden">
+					<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cartoon.gif" class="img-responsive" width="50%" /> -->
+					<a href ="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/cartoon.gif" width="50%"></a>
+					</ul>
+				</div>		
+			</div>
+	
+	
+<div class="middle">
+	<div class="social-links clearfix">
+		<div class="col-sm-6">
+			<h2>Contact &amp Visit Me</h2>
+			E-mail (main): <a href=" ">peixiaowang@outlook.com</a> <br>
+			Github: <a href="https://github.com/giserwang" target="_blank">GISerWang</a><br>
+			ORCID: <a href="https://orcid.org/0000-0002-1209-6340" target="_blank">0000-0002-1209-6340</a> <br>  
+			ResearchGate: <a href="https://www.researchgate.net/profile/Peixiao-Wang" target="_blank">Peixiao Wang</a> <br>  
+			Google Scholar: <a href="https://scholar.google.com.hk/citations?user=2kn8SysAAAAJ" target="_blank">Peixiao Wang (王培晓)</a> <br>
+			CSDN: <a href="https://blog.csdn.net/LoveCarpenter" target="_blank">GISer.Wang</a> <br>
+			Zhihu (知乎): <a href="https://www.zhihu.com/people/wangpeixiao" target="_blank">GISer.Wang</a> <br>
+			Publons: <a href="https://www.webofscience.com/wos/author/record/2032573" target="_blank">AAS-7558-2020</a> <br>
+			<h2>Popular &amp Important</h2>
+			<p>Scan the QR code to visit and save my homepage</a>.</p>
+			<!-- <ul style="overflow: hidden"> -->
+			<!-- <center class="left"> -->
+				<!-- align="" 可以去掉 -->
+				<a href="https://giserwang.github.io"><img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/QR CodeR.png" class="img-responsive" width="25%" /></a>
+				<a href="https://github.com/giserwang" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/QRCodeX.png" width="25%"/></a>
+				<a href="https://github.com/GISerWang/giserwang.github.io" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/gis.png" width="25%"/></a>
+			<!-- </center> -->
+			</ul>
+		</div>
+	</div>
+</div>
+		
+
+
+		</div>	
+	</div>
+</div>
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+
+<script>
+        Date.prototype.format = function (fmt) {
+            var o = {
+                "y+": this.getFullYear, //年
+                "M+": this.getMonth() + 1, //月份
+                "d+": this.getDate(), //日
+                "h+": this.getHours(), //小时
+                "m+": this.getMinutes(), //分
+                "s+": this.getSeconds() //秒
+            };
+            if (/(y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+            for (var k in o)
+                if (new RegExp("(" + k + ")").test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
+            return fmt;
+        }
+        setInterval("document.getElementById('dateTime').innerHTML = (new Date()).format('yyyy.MM.dd hh:mm:ss');", 1000);
+</script>
+
+
+<script>
+	function runTime() {
+		var d = new Date(), str = '';
+		BirthDay = new Date("June 27,2021");
+		today = new Date();
+		timeold = (today.getTime() - BirthDay.getTime());
+		sectimeold = timeold / 1000
+		secondsold = Math.floor(sectimeold);
+		msPerDay = 24 * 60 * 60 * 1000
+		msPerYear = 365 * 24 * 60 * 60 * 1000
+		e_daysold = timeold / msPerDay
+		e_yearsold = timeold / msPerYear
+		daysold = Math.floor(e_daysold);
+		yearsold = Math.floor(e_yearsold);
+		//str = yearsold + "年";
+		str += daysold + "days" + " ";
+		str += d.getHours() + 'h' + " ";
+		str += d.getMinutes() + 'min' + " ";
+		str += d.getSeconds() + 'sec';
+		return str;
+	}
+	setInterval(function () { $('#run_time').html(runTime()) }, 1000);
+</script>
