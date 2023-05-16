@@ -1,0 +1,21 @@
+- title: 'National Outstanding Work'
+  competition: 'Geological Data Data Innovation Application Competition'
+  image: IJGIS-2022-06.jpg
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  year: 2020
+  department: <a href="http://en.ngac.org.cn/" target="_blank">National Geological Data Museum</a>
+
+- title: 'National First Prize'
+  competition: 'ESRI Cup GIS Software Development Competition for Chinese College Students'
+  image: IJGIS-2022-06.jpg
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  year: 2018
+  department: <a href="https://www.csgpc.org/" target="_blank">Chinese Society of Geodesy Photogrammetry and Cartography</a>/<a href="https://contest.geoscene.cn/" target="_blank">GeoScene Information Technology Co., Ltd.</a>
+  
+- title: 'Provincial Third Prize'
+  competition: 'Jiangsu Province Mathematical Modeling Competition'
+  image: IJGIS-2022-06.jpg
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  year: 2016
+  department: <a href="http://www.jsiam.js.cn/" target="_blank">Industrial and Applied Mathematics Society of Jiangsu Province</a>/<a href="https://www.cumt.edu.cn/" target="_blank">China University of Mining and Technology</a>/Industrial and Applied Mathematics Society of Xuzhou City
+  

@@ -1,0 +1,75 @@
+- name: 'Acta Geodaetica et Cartographica Sinica : 测绘学报'
+  url: http://xb.chinasmp.com/CN/1001-1595/home.shtml
+  type: 'Journal'
+
+- name: 'Geomatics and Information Science of Wuhan University : 武汉大学学报信息科学版'
+  url: http://ch.whu.edu.cn/
+  type: 'Journal'
+
+- name: 'International Journal of Geographical Information Science'
+  url: https://www.tandfonline.com/toc/tgis20/current
+  type: 'Journal'
+
+- name: 'IEEE Transactions on Intelligent Transportation Systems'
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979
+  type: 'Journal'
+  
+- name: 'Transportation Research Part A : Policy and Practice'
+  url: https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice
+  type: 'Journal'
+
+- name: 'Sustainable Cities and Society'
+  url: https://www.sciencedirect.com/journal/sustainable-cities-and-society
+  type: 'Journal'
+
+- name: 'Building and Environment'
+  url: https://www.sciencedirect.com/journal/building-and-environment
+  type: 'Journal'
+
+- name: 'International Journal of Applied Earth Observation and Geoinformation'
+  url: https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation
+  type: 'Journal'
+
+- name: 'Transactions in GIS'
+  url: https://onlinelibrary.wiley.com/journal/14679671
+  type: 'Journal'
+
+- name: 'Neurocomputing'
+  url: https://www.sciencedirect.com/journal/neurocomputing
+  type: 'Journal'
+
+- name: 'Environment and Planning B: Urban Analytics and City Science'
+  url: https://journals.sagepub.com/home/epb
+  type: 'Journal'
+
+- name: 'Future Generation Computer Systems'
+  url: https://www.sciencedirect.com/journal/future-generation-computer-systems
+  type: 'Journal'
+
+- name: 'Science of the Total Environment'
+  url: https://www.sciencedirect.com/journal/science-of-the-total-environment
+  type: 'Journal'
+
+- name: 'ISPRS International Journal of Geo-Information'
+  url: https://www.tandfonline.com/toc/taem20/current
+  type: 'Journal'
+
+- name: 'Science of the Total Environment'
+  url: https://www.mdpi.com/journal/ijgi
+  type: 'Journal'
+
+- name: 'Scientific Reports'
+  url: https://www.nature.com/srep/
+  type: 'Journal'
+
+- name: 'Sustainability'
+  url: https://www.mdpi.com/journal/sustainability
+  type: 'Journal'
+  
+- name: 'Sensors'
+  url: https://www.mdpi.com/journal/sensors
+  type: 'Journal'
+  
+- name: 'IEEE Access'
+  url: https://ieeeaccess.ieee.org/
+  type: 'Journal'

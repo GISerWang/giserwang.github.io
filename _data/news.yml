@@ -1,0 +1,70 @@
+- date: 2023.05.01
+  headline: 'A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2023-05.pdf">Physics-informed Machine Learning and Its Research Prospects in GeoAI</a> is accepted by Geo-Information Science (Geo-Inf Sci).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
+- date: 2023.04.01
+  headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2023-04.pdf">Urban traffic flow prediction&#58; a dynamic temporal graph network considering missing values</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  
+- date: 2022.09.15
+  headline: 'A paper on <a href="https://giserwang.github.io/papers/CHXB-2022-09.pdf">A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction</a> is accepted by Acta Geodaetica et Cartographica Sinica (Acta Geod Cartogr Sin).'
+  news: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
+- date: 2022.09.10
+  headline: A paper on <a href="https://giserwang.github.io/papers/IOTJ-2022-09.pdf">A Hybrid Data-Driven Framework for Spatiotemporal Traffic Flow Data Imputation</a> is accepted by IEEE Internet of Things Journal(IOTJ).  
+
+- date: 2022.07.10
+  headline: A paper on <a href="https://giserwang.github.io/papers/JAIHC-2022-07.pdf">Traffic condition estimation and data quality assessment for signalized road networks using massive vehicle trajectories</a> is accepted by Journal of Ambient Intelligence and Humanized Computing(JAIHC).  
+
+- date: 2022.06.10
+  headline: A paper on <a href="https://giserwang.github.io/papers/IJGIS-2022-06.pdf">A multi-view bidirectional spatiotemporal graph network for urban traffic flow imputation</a> is accepted by International Journal of Geographical Information Science (IJGIS).
+
+- date: 2022.04.10
+  headline: A paper on <a href="https://giserwang.github.io/papers/Cities-2022-04.pdf">Exploring the impact of under-reported cases on the COVID-19 spatiotemporal distributions using healthcare workers infection data</a> is accepted by Cities.  
+
+- date: 2021.10.10
+  headline: A paper on <a href="https://giserwang.github.io/papers/IJGI-2021-10.pdf">Exploring the Spatiotemporal Characteristics of COVID-19 Infections among Healthcare Workers &#58; A Multi-Scale Perspective</a> is accepted by ISPRS International Journal of Geo-Information (IJGI).
+
+- date: 2021.07.08
+  headline: A paper on <a href="https://giserwang.github.io/papers/IJDE-2021-07.pdf">Human mobility data in the COVID-19 pandemic&#58;characteristics, applications, and challenges</a> is accepted by International Journal of Digital Earth (IJDE).
+
+- date: 2021.03.08
+  headline: A paper on <a href="https://giserwang.github.io/papers/IJGI-2021-03.pdf">Automatic Construction of Indoor 3D Navigation Graph from Crowdsourcing Trajectories</a> is accepted by ISPRS International Journal of Geo-Information (IJGI).
+
+- date: 2021.02.10
+  headline: A paper on <a href="https://giserwang.github.io/papers/JHI-2021-02.pdf">Spatiotemporal characteristics and factor analysis of SARS-CoV-2 infections among healthcare workers in Wuhan, China</a> is accepted by Journal of Hospital Infection (JHI).
+
+- date: 2021.02.06
+  headline: A paper on <a href="https://giserwang.github.io/papers/Access-2021-02.pdf">Spatiotemporal Differences of COVID-19 Infection Among Healthcare Workers and Patients in China From January to March 2020</a> is accepted by IEEE Access.
+
+- date: 2020.09.07
+  headline: A paper on <a href="https://giserwang.github.io/papers/Sensors-2020-09.pdf">Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data</a> is accepted by Sensors.
+
+- date: 2020.03.30
+  headline:  A paper on <a href="https://giserwang.github.io/papers/DIM-2020-06.pdf">Building an Open Resources Repository for COVID-19 Research</a> is accepted by Data and Information Management(DIM).
+
+- date: 2020.03.13
+  headline:  A paper on <a href="https://giserwang.github.io/papers/W2GIS-2020-03.pdf">Predicting Indoor Location based on a Hybrid Markov-LSTM Model</a> is accepted by The 18th International Symposium on Web and Wireless Geographical Information Systems(W2GIS).
+
+- date: 2020.02.28
+  headline:  A paper on <a href="https://giserwang.github.io/papers/WDXB-2021-05.pdf">A Method for Identifying Spatial and Temporal Aggregation Area of Indoor Crowd</a> is accepted by Geomatics and Information Science of Wuhan University.
+
+- date: 2019.12.19
+  headline:  A paper on <a href="https://giserwang.github.io/papers/Access-2019-12.pdf">A Hybrid Markov and LSTM Model for Indoor Location Prediction</a> is accepted by IEEE Access.
+
+- date: 2019.11.03
+  headline:  A paper on <a href="https://giserwang.github.io/papers/IJGI-2019-11.pdf">Indoor Location Prediction Method for Shopping Malls Based on Location Sequence Similarity</a> is accepted by ISPRS International Journal of Geo-Information (IJGI).
+
+- date: 2019.06.03
+  headline:  A paper on <a href="https://giserwang.github.io/papers/CHXB-2019-11.pdf">Spatial-temporal clustering by fast search and find of density peak</a> is accepted by Acta Geodaetica et Cartographica Sinica (Acta Geod Cartogr Sin).
+  
+- date: 2019.03.11
+  headline:  A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2019-03.pdf">A Method for Constructing Indoor Navigation Networks based on Moving Object Trajectory</a> is accepted by Geo-Information Science (Geo-Inf Sci).
+
+- date: 2019.01.31
+  headline:  A paper on <a href="https://giserwang.github.io/papers/CHKXJS-2019-01.pdf">A Crowdsourcing Method for Indoor Navigation Network</a> is accepted by Journal of Geomatics Science and Technology.
+
+- date: 2018.10.30
+  headline:  A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2018-12.pdf">Research on Semantic Location Prediction of Indoor Users</a> is accepted by Geo-Information Science (Geo-Inf Sci).

@@ -1,0 +1,34 @@
+- title: 'Outstanding postgraduate'
+  image: Outstandingpostgraduate_WHU.jpg
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  names: <strong>Peixiao Wang</strong>
+  year: 2023
+  department: <a href="http://liesmars.whu.edu.cn/" target="_blank">State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University</a>
+
+- title: 'Outstanding graduate'
+  image: Outstandinggraduate_WHU.jpg
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  names: <strong>Peixiao Wang</strong>
+  year: 2022
+  department: <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a>
+  
+- title: 'Provincial Outstanding Master Thesis'
+  image: OutstandingMasterThesis_FJ.png
+  names: <strong>Peixiao Wang</strong>
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  year: 2021
+  department: <a href="http://jyt.fujian.gov.cn/xxgk/zywj/202107/t20210702_5639750.htm" target="_blank">Fujian Provincial Academic Degrees Committee</a>
+
+- title: 'Outstanding postgraduate'
+  image: Outstandingpostgraduate_FZU.jpg
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  names: <strong>Peixiao Wang</strong>
+  year: 2020
+  department: <a href="https://www.fzu.edu.cn/" target="_blank">Fuzhou University</a>
+
+- title: 'Outstanding Master Thesis'
+  image: OutstandingMasterThesis_FZU.png
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  names: <strong>Peixiao Wang</strong>
+  year: 2020
+  department: <a href="https://www.fzu.edu.cn/" target="_blank">Fuzhou University</a>
