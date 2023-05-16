@@ -17,7 +17,7 @@ I am currently a Postdoctoral Fellow under the supervision of <a href="http://ww
 I received Ph.D. degree under the supervision of <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a> from <a href="http://liesmars.whu.edu.cn/" target="_blank">State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</a>, <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a> in 2023, 
 and received the M.S. degree under the supervision of <a href="http://adcfj.cn/sirc/door/team/TeacherList/Detail?personId=422" target="_blank">Prof. Sheng Wu</a> from <a href="https://adc.fzu.edu.cn/" target="_blank">The Academy of Digital China</a>, <a href="https://www.fzu.edu.cn/" target="_blank">Fuzhou University</a> in 2020.
 <br>
-My research interests including Spatiotemporal data mining, Spatiotemporal prediction, Social computing, and Public health., especially focus on Spatiotemporal prediction of transportation systems.
+My research interests including Spatiotemporal data mining, Spatiotemporal prediction, Social computing, and Public health, especially focus on Spatiotemporal prediction of transportation systems.
 <br>
 
 ### **CV**
