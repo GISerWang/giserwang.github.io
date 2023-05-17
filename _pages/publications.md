@@ -76,6 +76,7 @@ permalink: /publications
    {% for publi in site.data.publist %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
+  <p color="red"><strong>Note:</strong>The Geographical Society of China (GSC), Journal Citation Reports (JCR)</p>
  </div>
 </div>
 
