@@ -10,7 +10,7 @@ permalink: /experience
   <ul style="overflow: hidden">
   <a href ="https://giserwang.github.io"> <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/pages/admin.jpg" class="img-responsive" width="100%" /></a>
   </ul>
-  Photoed at Beijing in 2020<br>
+  Photoed at Wuhan University in 2023<br>
 </div>
 
 <div class="col-sm-8">
