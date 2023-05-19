@@ -20,7 +20,7 @@
   image: IJGIS-2023-04.jpg
   description: We proposed a dynamic temporal graph neural network for traffic flow prediction with missing values.The proposed model was validated on an actual traffic dataset collected in Wuhan, China. Experimental results showed that D-TGNM achieved good prediction results under four missing data scenarios, and outperformed ten existing state-of-the-art baselines.
   authors: <strong>Peixiao Wang</strong> , Yan Zhang, Tao Hu, and Tong Zhang*
-  venue: 2023,37(4):885-912 <font color="red">(Journal Paper)</font> 
+  venue: 2023,37(4):885-912. <font color="red">(Journal Paper)</font> 
   name: <strong>International Journal of Geographical Information Science</strong> (SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.152)
   DOI: 'DOI: 10.1080/13658816.2022.2146120'
   number_link: 3
@@ -38,7 +38,7 @@
   image: IOTJ-2022-09.jpg
   description: We treated the complex patterns in traffic flow as integrating multiple simple patterns and proposed a hybrid missing data imputation framework called ST-PTD. We applied the framework in actual traffic flow data sets collected in Wuhan, China. The results showed that the ST-PTD framework outperformed the eight existing baselines in terms of imputation accuracy.
   authors: <strong>Peixiao Wang</strong> , Tao Hu, Fei Gao, Ruijie Wu, Wei Guo*, and Xinyan Zhu
-  venue: 2022,9(17):16343-16352 <font color="red">(Journal Paper)</font> 
+  venue: 2022,9(17):16343-16352. <font color="red">(Journal Paper)</font> 
   name: <strong>IEEE Internet of Things Journal</strong> (SCI, JCR Q1, CIC Rank T, IF=10.238)
   DOI: 'DOI: 10.1109/JIOT.2022.3151238'
   number_link: 3
@@ -56,7 +56,7 @@
   image: Cities-2022-04.jpg
   description: In this paper, a novel framework was proposed to explore the impact of under-reporting on COVID-19 spatiotemporal distributions. The proposed framework of this study is highly extensible, and relevant researchers can use data sources from other counties to carry out similar research.
   authors: <strong>Peixiao Wang</strong> , Tao Hu*, Hongqiang Liu, and Xinyan Zhu
-  venue: 2022,123(5):103593 <font color="red">(Journal Paper)</font> 
+  venue: 2022,123(5):103593. <font color="red">(Journal Paper)</font> 
   name: <strong>Cities</strong> (SSCI, JCR Q1, GSC Rank T1, IF=6.077)
   DOI: 'DOI: 10.1016/j.cities.2022.103593'
   number_link: 3
