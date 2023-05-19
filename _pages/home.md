@@ -47,9 +47,9 @@ CV was last updated on 2023.5.07. <br>
 
   <!-- <br clear="all" /> -->
 
-  Peixiao Wang (The left one)<br> 
+  Peixiao Wang<br> 
   
-  王培晓 (左一)<br> 
+  王培晓<br> 
   
   100101 post code, A11 Datun Road, Chaoyang District (<a href="https://map.baidu.com/poi/%E4%B8%AD%E5%9B%AD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%A9%E5%9C%B0%E7%A7%91%E5%AD%A6%E5%9B%AD%E5%8C%BA%E5%9C%B0%E7%90%86%E6%89%80/@12956533.208889542,4839511.725141569,19z?uid=8f6901329d9d933d9b68b4ac&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl">Maps</a>).<br>
   
