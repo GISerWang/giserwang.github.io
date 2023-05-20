@@ -58,7 +58,7 @@ CV was last updated on 2023.5.07. <br>
   <a href="http://www.igsnrr.ac.cn/" target="_blank">Institute of Geographic Sciences and Nature Resources Research, Chinese Academy of Sciences</a>
   ,Beijing, China. <br> 
   
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LApw56d6sOaj2ITovU21uzUMrlCCVzPAna_WqNKoZPk"></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=LApw56d6sOaj2ITovU21uzUMrlCCVzPAna_WqNKoZPk&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 </div>
 
 </div>
