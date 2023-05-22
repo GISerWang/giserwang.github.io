@@ -56,35 +56,7 @@ permalink: /ProjectsAndHonors
 
 {% endfor %}
 -->
-## Scholarship
 
-<ol>
-	{% for scholarship in site.data.scholarships %}
-		<li> {{scholarship.title}}, {{scholarship.year}}, {{scholarship.department}}. </li>
-	{% endfor %}
-</ol>
-<!--
-{% for scholarship in site.data.scholarships %}
-
-<div class="col-sm-12 clearfix">
- <div class="well">
- <pubtit>{{ scholarship.title }}</pubtit>
-
- <img src="{{ site.url }}{{ site.baseurl }}/images/honors/{{ scholarship.image }}" class="img-responsive" width="180px" style="float: left" />
-
- <p>{{ scholarship.description }}</p>
-
- <p><em>{{ scholarship.names }}</em></p>
-
- <p>{{ scholarship.year }}, {{ scholarship.department }}</p>
- 
- <p></p>
- 
- </div>
-</div>
-
-{% endfor %}
--->
 
 ## Competition
 
@@ -114,6 +86,36 @@ permalink: /ProjectsAndHonors
  <p>{{ competition.name }}</p>
  
  <p>{{ competition.DOI }}</p>
+ </div>
+</div>
+
+{% endfor %}
+-->
+
+## Scholarship
+
+<ol>
+	{% for scholarship in site.data.scholarships %}
+		<li> {{scholarship.title}}, {{scholarship.year}}, {{scholarship.department}}. </li>
+	{% endfor %}
+</ol>
+<!--
+{% for scholarship in site.data.scholarships %}
+
+<div class="col-sm-12 clearfix">
+ <div class="well">
+ <pubtit>{{ scholarship.title }}</pubtit>
+
+ <img src="{{ site.url }}{{ site.baseurl }}/images/honors/{{ scholarship.image }}" class="img-responsive" width="180px" style="float: left" />
+
+ <p>{{ scholarship.description }}</p>
+
+ <p><em>{{ scholarship.names }}</em></p>
+
+ <p>{{ scholarship.year }}, {{ scholarship.department }}</p>
+ 
+ <p></p>
+ 
  </div>
 </div>
 
