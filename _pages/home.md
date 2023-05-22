@@ -173,19 +173,19 @@ CV was last updated on 2023.5.07. <br>
 </ul>
 
 <ul>
-    <li><strong>Scholarship</strong></li>
+    <li><strong>Competition</strong></li>
 	<ul>
-	{% for scholarship in site.data.scholarships %}
-		<li> {{scholarship.title}}, {{scholarship.year}}, {{scholarship.department}}. </li>
+	{% for c in site.data.competitions %}
+		<li> {{c.title}}, {{c.competition}}, {{c.year}}, {{c.department}}. </li>
 	{% endfor %}
 	</ul>
 </ul>
 
 <ul>
-    <li><strong>Competition</strong></li>
+    <li><strong>Scholarship</strong></li>
 	<ul>
-	{% for c in site.data.competitions %}
-		<li> {{c.title}}, {{c.competition}}, {{c.year}}, {{c.department}}. </li>
+	{% for scholarship in site.data.scholarships %}
+		<li> {{scholarship.title}}, {{scholarship.year}}, {{scholarship.department}}. </li>
 	{% endfor %}
 	</ul>
 </ul>
