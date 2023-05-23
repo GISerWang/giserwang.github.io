@@ -62,6 +62,10 @@
   url: https://www.nature.com/srep/
   type: 'Journal'
 
+- name: 'Mathematics'
+  url: https://www.mdpi.com/journal/mathematics
+  type: 'Journal'
+  
 - name: 'Sustainability'
   url: https://www.mdpi.com/journal/sustainability
   type: 'Journal'
