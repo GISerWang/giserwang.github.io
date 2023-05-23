@@ -36,26 +36,6 @@ permalink: /ProjectsAndHonors
 		<li> {{honor.title}}, {{honor.year}}, {{honor.department}}. </li>
 	{% endfor %}
 </ol>
-<!--
-{% for honor in site.data.honors %}
-
-<div class="col-sm-12 clearfix">
- <div class="well">
- <pubtit>{{ honor.title }}</pubtit>
-
- <img src="{{ site.url }}{{ site.baseurl }}/images/honors/{{ honor.image }}" class="img-responsive" width="180px" style="float: left" />
-
- <p>{{ honor.description }}</p>
-
- <p><em>{{ honor.names }}</em></p>
-
- <p>{{ honor.year }}, {{ honor.department }} </p>
-
- </div>
-</div>
-
-{% endfor %}
--->
 
 
 ## Competition
@@ -68,29 +48,7 @@ permalink: /ProjectsAndHonors
 		<li> {{cproject.type}}: {{cproject.name}}, {{cproject.span}}, {{cproject.fundingamount}}, {{cproject.role}}.<font color='white'>{{cproject.grant}}</font></li>
 	{% endfor %}-->
 </ol>
-<!--
-{% for competition in site.data.competitions %}
 
-<div class="col-sm-12 clearfix">
- <div class="well">
- <pubtit>{{ honor.title }}</pubtit>
-
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ competition.image }}" class="img-responsive" width="180px" style="float: left" />
-
- <p>{{ competition.description }}</p>
-
- <p><em>{{ competition.authors }}</em></p>
-
- <p>{{ competition.venue }}</p>
- 
- <p>{{ competition.name }}</p>
- 
- <p>{{ competition.DOI }}</p>
- </div>
-</div>
-
-{% endfor %}
--->
 
 ## Scholarship
 
@@ -99,26 +57,5 @@ permalink: /ProjectsAndHonors
 		<li> {{scholarship.title}}, {{scholarship.year}}, {{scholarship.department}}. </li>
 	{% endfor %}
 </ol>
-<!--
-{% for scholarship in site.data.scholarships %}
 
-<div class="col-sm-12 clearfix">
- <div class="well">
- <pubtit>{{ scholarship.title }}</pubtit>
-
- <img src="{{ site.url }}{{ site.baseurl }}/images/honors/{{ scholarship.image }}" class="img-responsive" width="180px" style="float: left" />
-
- <p>{{ scholarship.description }}</p>
-
- <p><em>{{ scholarship.names }}</em></p>
-
- <p>{{ scholarship.year }}, {{ scholarship.department }}</p>
- 
- <p></p>
- 
- </div>
-</div>
-
-{% endfor %}
--->
 </div>
