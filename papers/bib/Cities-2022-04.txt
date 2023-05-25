@@ -1,0 +1,11 @@
+@article{WANG2022103593,
+title = {Exploring the impact of under-reported cases on the COVID-19 spatiotemporal distributions using healthcare workers infection data},
+journal = {Cities},
+volume = {123},
+pages = {103593},
+year = {2022},
+issn = {0264-2751},
+doi = {https://doi.org/10.1016/j.cities.2022.103593},
+url = {https://www.sciencedirect.com/science/article/pii/S0264275122000324},
+author = {Peixiao Wang and Tao Hu and Hongqiang Liu and Xinyan Zhu}
+}
