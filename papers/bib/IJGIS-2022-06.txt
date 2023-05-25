@@ -1,0 +1,11 @@
+@article{wang2022IJGIS,
+  title={A multi-view bidirectional spatiotemporal graph network for urban traffic flow imputation},
+  author={Wang, Peixiao and Zhang, Tong and Zheng, Yueming and Hu, Tao},
+  journal={International Journal of Geographical Information Science},
+  volume = {36},
+  number = {6},
+  pages = {1231-1257},
+  year  = {2022},
+  publisher = {Taylor & Francis},
+  doi = {10.1080/13658816.2022.2032081},
+}
