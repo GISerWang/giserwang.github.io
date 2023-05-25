@@ -1,0 +1,10 @@
+@ARTICLE{Wang2022IOTJ,
+  author={Wang, Peixiao and Hu, Tao and Gao, Fei and Wu, Ruijie and Guo, Wei and Zhu, Xinyan},
+  journal={IEEE Internet of Things Journal}, 
+  title={A Hybrid Data-Driven Framework for Spatiotemporal Traffic Flow Data Imputation}, 
+  year={2022},
+  volume={9},
+  number={17},
+  pages={16343-16352},
+  doi={10.1109/JIOT.2022.3151238}
+}
