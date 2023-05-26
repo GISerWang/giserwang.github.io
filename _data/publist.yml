@@ -108,7 +108,14 @@
   Year: 2023
   REF: 'Tong Zhang, Renyu Liu, <strong>Peixiao Wang</strong> , et al. Physics-informed Machine Learning and Its Research Prospects in GeoAI[J]. <strong>Geo-Information Science &#58; 地球信息科学学报</strong>, 2023,7 (in Chinese). (<strong>EI, GSC Rank T2</strong>)'
   URL: https://giserwang.github.io/papers/DQXXKX-2023-05.pdf
-  
+
+- title: 'Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks'
+  DOI: 'DOI: XXXXX'
+  Year: 2023
+  TYPE: 'Journal Paper'
+  REF: 'Jie Liu, Tong Zhang, Chulin Gao, and <strong>Peixiao Wang</strong>. Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks[J]. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2023. (<strong>SCI, JCR Q1, GSC Rank T1, IF=8.125</strong>) '
+  URL: https://giserwang.github.io/papers/TGRS-2023-05.pdf
+
 - title: 'Human mobility data in the COVID-19 pandemic: characteristics, applications, and challenges'
   DOI: 'DOI: 10.1080/17538947.2021.1952324'
   TYPE: 'Journal Paper'
@@ -122,13 +129,6 @@
   Year: 2021
   REF: 'Hui Ren, <strong>Peixiao Wang</strong> , Wei Guo, el at.Exploring the Spatiotemporal Characteristics of COVID-19 Infections among Healthcare Workers: A Multi-Scale Perspective[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2021,10(10):691. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.099</strong>)'
   URL: https://giserwang.github.io/papers/IJGI-2021-10.pdf
-  
-- title: 'Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks'
-  DOI: 'DOI: XXXXX'
-  Year: 2023
-  TYPE: 'Journal Paper'
-  REF: 'Jie Liu, Tong Zhang, Chulin Gao, and <strong>Peixiao Wang</strong>. Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks[J]. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2023. (<strong>SCI, JCR Q1, GSC Rank T1, IF=8.125</strong>) '
-  URL: https://giserwang.github.io/papers/TGRS-2023-05.pdf
 
 - title: 'Automatic Construction of Indoor 3D Navigation Graph from Crowdsourcing Trajectories'
   DOI: 'DOI: 10.3390/ijgi10030146'
