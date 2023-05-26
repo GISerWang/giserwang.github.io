@@ -127,7 +127,7 @@
   DOI: 'DOI: XXXXX'
   Year: 2023
   TYPE: 'Journal Paper'
-  REF: 'Jie Liu, Tong Zhang, Chulin Gao, <strong>Peixiao Wang</strong>. Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks[J]. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2023. (<strong>SCI, JCR Q1, GSC Rank T1, IF=8.125</strong>) '
+  REF: 'Jie Liu, Tong Zhang, Chulin Gao, and <strong>Peixiao Wang</strong>. Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks[J]. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2023. (<strong>SCI, JCR Q1, GSC Rank T1, IF=8.125</strong>) '
   URL: https://giserwang.github.io/papers/TGRS-2023-05.pdf
 
 - title: 'Automatic Construction of Indoor 3D Navigation Graph from Crowdsourcing Trajectories'
