@@ -2,6 +2,10 @@
   headline: 'A paper on <a href="https://giserwang.github.io/papers/TGRS-2023-05.pdf">Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks</a> is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).'
   news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
  
+- date: 2023.05.25
+  headline: 'I passed the defense of my doctoral thesis (Thesis Title: Missing Imputation and Short-Term Prediction of Urban Traffic Flow Based on Spatiotemporal View Learning).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+ 
 - date: 2023.05.01
   headline: 'A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2023-05.pdf">Physics-informed Machine Learning and Its Research Prospects in GeoAI</a> is accepted by Geo-Information Science (Geo-Inf Sci).'
   news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
