@@ -113,6 +113,7 @@
   DOI: 'DOI: 10.1109/ACCESS.2019.2961559'
   TYPE: 'Journal Paper'
   Year: 2019
+  Online: https://doi.org/10.1109/ACCESS.2019.2961559
   REF: '<strong>Peixiao Wang</strong>, Hongen Wang, Hengcai Zhang, el at. A Hybrid Markov and LSTM Model for Indoor Location Prediction[J]. <strong>IEEE Access</strong>, 2019,7:185928-185940. (<strong>SCI, JCR Q2, IF=3.476</strong>) '
   URL: https://giserwang.github.io/papers/Access-2019-12.pdf
   
@@ -120,6 +121,7 @@
   DOI: 'DOI: 10.12082/dqxxkx.2023.220795'
   TYPE: 'Journal Paper'
   Year: 2023
+  Online: https://doi.org/10.12082/dqxxkx.2023.220795
   REF: 'Tong Zhang, Renyu Liu, <strong>Peixiao Wang</strong> , et al. Physics-informed Machine Learning and Its Research Prospects in GeoAI[J]. <strong>Geo-Information Science &#58; 地球信息科学学报</strong>, 2023,7 (in Chinese). (<strong>EI, GSC Rank T2</strong>)'
   URL: https://giserwang.github.io/papers/DQXXKX-2023-05.pdf
 
@@ -127,13 +129,15 @@
   DOI: 'DOI: 10.1109/TGRS.2023.3281784'
   Year: 2023
   TYPE: 'Journal Paper'
-  REF: 'Jie Liu, Tong Zhang, Chulin Gao, and <strong>Peixiao Wang</strong>. Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks[J]. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2023. doi:10.1109/TGRS.2023.3281784 (<strong>SCI, JCR Q1, GSC Rank T1, IF=8.125</strong>) '
+  Online: https://doi.org/10.1109/TGRS.2023.3281784
+  REF: 'Jie Liu, Tong Zhang, Chulin Gao, and <strong>Peixiao Wang</strong>. Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks[J]. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2023. (<strong>SCI, JCR Q1, GSC Rank T1, IF=8.125</strong>) '
   URL: https://giserwang.github.io/papers/TGRS-2023-05.pdf
 
 - title: 'Human mobility data in the COVID-19 pandemic: characteristics, applications, and challenges'
   DOI: 'DOI: 10.1080/17538947.2021.1952324'
   TYPE: 'Journal Paper'
   Year: 2021
+  Online: https://doi.org/10.1080/17538947.2021.1952324
   REF: 'Tao Hu, Siqin Wang, Bing She, Mengxi Zhang, Xiao Huang, Yunhe Cui, Jacob Khuri, Yaxin Hu, Xiaokang Fu, Xiaoyue Wang, <strong>Peixiao Wang</strong>, el at.Human mobility data in the COVID-19 pandemic: characteristics, applications, and challenges[J]. <strong>International Journal of Digital Earth</strong>,2021,14(9):1126-1147. (<strong>SCI, JCR Q1, GSC Rank T1, IF=4.606</strong>)'
   URL: https://giserwang.github.io/papers/IJDE-2021-07.pdf
   
@@ -141,6 +145,7 @@
   DOI: 'DOI: 10.3390/ijgi10100691'
   TYPE: 'Journal Paper'
   Year: 2021
+  Online: https://doi.org/10.3390/ijgi10100691
   REF: 'Hui Ren, <strong>Peixiao Wang</strong> , Wei Guo, el at.Exploring the Spatiotemporal Characteristics of COVID-19 Infections among Healthcare Workers: A Multi-Scale Perspective[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2021,10(10):691. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.099</strong>)'
   URL: https://giserwang.github.io/papers/IJGI-2021-10.pdf
 
@@ -148,6 +153,7 @@
   DOI: 'DOI: 10.3390/ijgi10030146'
   TYPE: 'Journal Paper'
   Year: 2021
+  Online: https://doi.org/10.3390/ijgi10030146
   REF: 'Xin Fu, Hengcai Zhang*, and <strong>Peixiao Wang</strong>. Automatic Construction of Indoor 3D Navigation Graph from Crowdsourcing Trajectories[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2021,10(3):146. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.099</strong>)'
   URL: https://giserwang.github.io/papers/IJGI-2021-03.pdf
 
@@ -155,18 +161,21 @@
   DOI: 'DOI: XXXX'
   TYPE: 'Journal Paper'
   Year: 2019
+  Online: https://kns.cnki.net/kcms/detail/41.1385.P.20190722.0941.038.html
   REF: 'Mengying Fu, <strong>Peixiao Wang</strong>, Hengcai Zhang, el at. A Crowdsourcing Method for Indoor Navigation Network[J]. <strong>Journal of Geomatics Science and Technology &#58;  测绘科学技术学报</strong>, 2019, 36(01): 100-104 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
   URL: https://giserwang.github.io/papers/CHKXJS-2019-01.pdf
 
 - title: 'A Method for Constructing Indoor Navigation Networks based on Moving Object Trajectory'
   DOI: 'DOI: 10.12082/dqxxkx.2019.190024'
   Year: 2019
+  Online: http://www.dqxxkx.cn/CN/10.12082/dqxxkx.2019.190024
   TYPE: 'Journal Paper'
   REF: 'Mengying Fu, Hengcai Zhang, <strong>Peixiao Wang</strong>, el at. A Method for Constructing Indoor Navigation Networks based on Moving Object Trajectory[J]. <strong>Geo-Information Science &#58;  地球信息科学学报</strong>, 2019, 21(5): 631-640 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
   URL: https://giserwang.github.io/papers/DQXXKX-2019-03.pdf
   
 - title: 'Building an Open Resources Repository for COVID-19 Research'
   DOI: 'DOI: 10.2478/dim-2020-0012'
+  Online: https://doi.org/10.2478/dim-2020-0012
   TYPE: 'Journal Paper'
   Year: 2020
   REF: 'Tao Hu, Weihe Wendy Guan, Xinyan Zhu, Yuanzheng Shao, Lingbo Liu, Jing Du, Hongqiang Liu, Huan Zhou, Jialei Wang, Bing She, Luyao Zhang, Zhibin Li, <strong>Peixiao Wang</strong>, el at. Building an Open Resources Repository for COVID-19 Research[J]. <strong>Data and Information Management</strong>, 2020,4(3):130-147.'
