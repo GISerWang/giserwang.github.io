@@ -35,6 +35,7 @@
   TYPE: 'Journal Paper'
   Year: 2021
   REF: '<strong>Peixiao Wang</strong>, Hui Ren, Xinyan Zhu, et al. Spatiotemporal Characteristics and Factor Analysis of SARS-CoV-2 Infections among Healthcare Workers in Wuhan, China[J].<strong>Journal of Hospital Infection </strong>, 2021, 110: 172-177. (<strong>SCI, JCR Q1, IF=8.944</strong>)'
+  Online: https://doi.org/10.1016/j.jhin.2021.02.002
   URL: https://giserwang.github.io/papers/JHI-2021-02.pdf
 
 - title: 'Traffic condition estimation and data quality assessment for signalized road networks using massive vehicle trajectories'
@@ -42,6 +43,7 @@
   TYPE: 'Journal Paper'
   Year: 2022
   REF: '<strong>Peixiao Wang</strong> , Tong Zhang*, and Tao Hu. Traffic condition estimation and data quality assessment for signalized road networks using massive vehicle trajectories[J].<strong>Journal of Ambient Intelligence and Humanized Computing</strong>,2022.(<strong>SCI/EI, JCR Q2, IF=3.662</strong>)'
+  Online: https://doi.org/10.1007/s12652-022-03892-z
   URL: https://giserwang.github.io/papers/JAIHC-2022-07.pdf
   
 - title: 'A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction'
@@ -49,12 +51,14 @@
   TYPE: 'Journal Paper'
   Year: 2023
   REF: '<strong>Peixiao Wang</strong> , Tong Zhang, Shichao Nie, el at. A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction[J]. <strong>Acta Geodaetica et Cartographica Sinica&#58; 测绘学报</strong>, 2023,52(5): 818-830 (in Chinese). (<strong>EI, GSC Rank T1</strong>) '
+  Online: http://xb.chinasmp.com/CN/10.11947/j.AGCS.2023.20220021
   URL: https://giserwang.github.io/papers/CHXB-2022-09.pdf
   
 - title: 'Spatial-temporal clustering by fast search and find of density peak'
   DOI: 'DOI: 10.11947/j.AGCS.2019.20180538'
   TYPE: 'Journal Paper'
   REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang, Haibo Wang, el at. Spatial-temporal clustering by fast search and find of density peak[J]. <strong>Acta Geodaetica et Cartographica Sinica&#58; 测绘学报</strong>, 2019,48(11):1380-1390 (in Chinese). (<strong>EI, GSC Rank T1</strong>) '
+  Online: http://xb.chinasmp.com/CN/10.11947/j.AGCS.2019.20180538
   URL: https://giserwang.github.io/papers/CHXB-2019-11.pdf
   
 - title: 'A Method for Identifying Spatial and Temporal Aggregation Area of Indoor Crowd'
@@ -62,12 +66,14 @@
   TYPE: 'Journal Paper'
   Year: 2021
   REF: '<strong>Peixiao Wang</strong>, Sheng Wu, Hengcai Zhang, el at. A Method for Identifying Spatial and Temporal Aggregation Area of Indoor Crowd[J]. <strong>Geomatics and Information Science of Wuhan University&#58; 武汉大学学报信息科学版</strong>, 2021,46(5):790-798 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
+  Online: https://doi.org/10.13203/j.whugis20190228
   URL: https://giserwang.github.io/papers/WDXB-2021-05.pdf
 
 - title: 'Indoor Location Prediction Method for Shopping Malls Based on Location Sequence Similarity'
   DOI: 'DOI: 10.3390/ijgi8110517'
   TYPE: 'Journal Paper'
   Year: 2019
+  Online: https://doi.org/10.3390/ijgi8110517
   REF: '<strong>Peixiao Wang</strong>, Sheng Wu, Hengcai Zhang, el at. Indoor Location Prediction Method for Shopping Malls Based on Location Sequence Similarity[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2019,8(11):517. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.099</strong>) '
   URL: https://giserwang.github.io/papers/IJGI-2019-11.pdf
 
@@ -75,6 +81,7 @@
   DOI: 'DOI: 10.1007/978-3-030-60952-8_4'
   TYPE: 'Conference Paper'
   Year: 2020
+  Online: https://doi.org/10.1007/978-3-030-60952-8_4
   REF: '<strong>Peixiao Wang</strong>, Sheng Wu, and Hengcai Zhang. Predicting Indoor Location based on a Hybrid Markov-LSTM Model[C]. //<strong>The 18th International Symposium on Web and Wireless Geographical Information Systems</strong>,Springer,2020:33-38. (<strong>EI</strong>) '
   URL: https://giserwang.github.io/papers/W2GIS-2020-03.pdf
    
@@ -82,6 +89,7 @@
   DOI: 'DOI: 10.12082/dqxxkx.2018.180411'
   TYPE: 'Journal Paper'
   Year: 2018
+  Online: http://www.dqxxkx.cn/CN/10.12082/dqxxkx.2018.180411
   REF: '<strong>Peixiao Wang</strong>, Haibo Wang, Mengying Fu, el at. Research on Semantic Location Prediction of Indoor Users[J]. <strong>Geo-Information Science &#58;  地球信息科学学报</strong>, 2018, 20(12): 1689-1698 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
   URL: https://giserwang.github.io/papers/DQXXKX-2018-12.pdf
 
@@ -89,6 +97,7 @@
   DOI: 'DOI: 10.1109/ACCESS.2021.3058155'
   TYPE: 'Journal Paper'
   Year: 2021
+  Online: https://doi.org/10.1109/ACCESS.2021.3058155
   REF: '<strong>Peixiao Wang</strong>, Xinyan Zhu, Wei Guo, el at. Spatiotemporal Differences of COVID-19 Infection Among Healthcare Workers and Patients in China From January to March 2020[J]. <strong>IEEE Access</strong>, 2021,9:28646-28657. (<strong>SCI, JCR Q2, IF=3.476</strong>) '
   URL: https://giserwang.github.io/papers/Access-2021-02.pdf
   
@@ -96,6 +105,7 @@
   DOI: 'DOI: 10.3390/s20185078'
   TYPE: 'Journal Paper'
   Year: 2020
+  Online: https://doi.org/10.3390/s20185078
   REF: '<strong>Peixiao Wang</strong>, Fei Gao, Yuhui Zhao, el at. Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data[J]. <strong>sensors</strong>, 2020, 20(18): 5078. (<strong>SCI, JCR Q2, IF=3.847</strong>) '
   URL: https://giserwang.github.io/papers/Sensors-2020-09.pdf
   
