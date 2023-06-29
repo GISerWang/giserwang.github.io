@@ -1,6 +1,6 @@
 - title: 'A multi-view bidirectional spatiotemporal graph network for urban traffic flow imputation'
   DOI: 'DOI: 10.1080/13658816.2022.2032081'
-  REF: '<strong>Peixiao Wang</strong>, Tong Zhang, et al. A multi-view bidirectional spatiotemporal graph network for urban traffic flow imputation[J]. <strong>International Journal of Geographical Information Science</strong>, 2022, 36(6):1231-1257. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.152</strong>)'
+  REF: '<strong>Peixiao Wang</strong>, Tong Zhang, et al. A multi-view bidirectional spatiotemporal graph network for urban traffic flow imputation[J]. <strong>International Journal of Geographical Information Science</strong>, 2022, 36(6):1231-1257. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7</strong>)'
   Year: 2022
   TYPE: 'Journal Paper'
   Online: https://doi.org/10.1080/13658816.2022.2032081
@@ -8,7 +8,7 @@
 
 - title: 'Urban traffic flow prediction: a dynamic temporal graph network considering missing values'
   DOI: 'DOI: 10.1080/13658816.2022.2146120'
-  REF: '<strong>Peixiao Wang</strong>, Yan Zhang, et al. Urban traffic flow prediction: a dynamic temporal graph network considering missing values[J]. <strong>International Journal of Geographical Information Science</strong>, 2023, 37(4):885-912. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.152</strong>)'
+  REF: '<strong>Peixiao Wang</strong>, Yan Zhang, et al. Urban traffic flow prediction: a dynamic temporal graph network considering missing values[J]. <strong>International Journal of Geographical Information Science</strong>, 2023, 37(4):885-912. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7</strong>)'
   TYPE: 'Journal Paper'
   Year: 2023
   Online: https://doi.org/10.1080/13658816.2022.2146120
@@ -18,7 +18,7 @@
   DOI: 'DOI: 10.1109/JIOT.2022.3151238'
   TYPE: 'Journal Paper'
   Year: 2022
-  REF: '<strong>Peixiao Wang</strong>, Tao Hu, Fei Gao, Ruijie Wu, et al. A Hybrid Data-Driven Framework for Spatiotemporal Traffic Flow Data Imputation[J]. <strong>IEEE Internet of Things Journal</strong>, 2022, 9(17):16343-16352. (<strong>SCI, JCR Q1, CIC Rank T, IF=10.238</strong>)'
+  REF: '<strong>Peixiao Wang</strong>, Tao Hu, Fei Gao, Ruijie Wu, et al. A Hybrid Data-Driven Framework for Spatiotemporal Traffic Flow Data Imputation[J]. <strong>IEEE Internet of Things Journal</strong>, 2022, 9(17):16343-16352. (<strong>SCI, JCR Q1, CIC Rank T, IF=10.7</strong>)'
   Online: https://doi.org/10.1109/JIOT.2022.3151238
   URL: https://giserwang.github.io/papers/IOTJ-2022-09.pdf
   
@@ -27,14 +27,14 @@
   TYPE: 'Journal Paper'
   Year: 2022
   Online: https://doi.org/10.1016/j.cities.2022.103593
-  REF: '<strong>Peixiao Wang</strong>, Tao Hu, Hongqiang Liu, et al. Exploring the impact of under-reported cases on the COVID-19 spatiotemporal distributions using healthcare workers infection data. <strong>Cities</strong>, 2022, 123:103593.(<strong>SSCI, JCR Q1, GSC Rank T1, IF=6.077</strong>)'
+  REF: '<strong>Peixiao Wang</strong>, Tao Hu, Hongqiang Liu, et al. Exploring the impact of under-reported cases on the COVID-19 spatiotemporal distributions using healthcare workers infection data. <strong>Cities</strong>, 2022, 123:103593.(<strong>SSCI, JCR Q1, GSC Rank T1, IF=6.7</strong>)'
   URL: https://giserwang.github.io/papers/Cities-2022-04.pdf
   
 - title: 'Spatiotemporal characteristics and factor analysis of SARS-CoV-2 infections among healthcare workers in Wuhan, China'
   DOI: 'DOI: 10.1016/j.jhin.2021.02.002'
   TYPE: 'Journal Paper'
   Year: 2021
-  REF: '<strong>Peixiao Wang</strong>, Hui Ren, Xinyan Zhu, et al. Spatiotemporal Characteristics and Factor Analysis of SARS-CoV-2 Infections among Healthcare Workers in Wuhan, China[J].<strong>Journal of Hospital Infection </strong>, 2021, 110: 172-177. (<strong>SCI, JCR Q1, IF=8.944</strong>)'
+  REF: '<strong>Peixiao Wang</strong>, Hui Ren, Xinyan Zhu, et al. Spatiotemporal Characteristics and Factor Analysis of SARS-CoV-2 Infections among Healthcare Workers in Wuhan, China[J].<strong>Journal of Hospital Infection </strong>, 2021, 110: 172-177. (<strong>SCI, JCR Q1, IF=6.9</strong>)'
   Online: https://doi.org/10.1016/j.jhin.2021.02.002
   URL: https://giserwang.github.io/papers/JHI-2021-02.pdf
 
@@ -74,7 +74,7 @@
   TYPE: 'Journal Paper'
   Year: 2019
   Online: https://doi.org/10.3390/ijgi8110517
-  REF: '<strong>Peixiao Wang</strong>, Sheng Wu, Hengcai Zhang, el at. Indoor Location Prediction Method for Shopping Malls Based on Location Sequence Similarity[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2019,8(11):517. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.099</strong>) '
+  REF: '<strong>Peixiao Wang</strong>, Sheng Wu, Hengcai Zhang, el at. Indoor Location Prediction Method for Shopping Malls Based on Location Sequence Similarity[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2019,8(11):517. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.4</strong>) '
   URL: https://giserwang.github.io/papers/IJGI-2019-11.pdf
 
 - title: 'Predicting Indoor Location based on a Hybrid Markov-LSTM Model'
@@ -98,7 +98,7 @@
   TYPE: 'Journal Paper'
   Year: 2021
   Online: https://doi.org/10.1109/ACCESS.2021.3058155
-  REF: '<strong>Peixiao Wang</strong>, Xinyan Zhu, Wei Guo, el at. Spatiotemporal Differences of COVID-19 Infection Among Healthcare Workers and Patients in China From January to March 2020[J]. <strong>IEEE Access</strong>, 2021,9:28646-28657. (<strong>SCI, JCR Q2, IF=3.476</strong>) '
+  REF: '<strong>Peixiao Wang</strong>, Xinyan Zhu, Wei Guo, el at. Spatiotemporal Differences of COVID-19 Infection Among Healthcare Workers and Patients in China From January to March 2020[J]. <strong>IEEE Access</strong>, 2021,9:28646-28657. (<strong>SCI, JCR Q2, IF=3.9</strong>) '
   URL: https://giserwang.github.io/papers/Access-2021-02.pdf
   
 - title: 'Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data'
@@ -106,7 +106,7 @@
   TYPE: 'Journal Paper'
   Year: 2020
   Online: https://doi.org/10.3390/s20185078
-  REF: '<strong>Peixiao Wang</strong>, Fei Gao, Yuhui Zhao, el at. Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data[J]. <strong>sensors</strong>, 2020, 20(18): 5078. (<strong>SCI, JCR Q2, IF=3.847</strong>) '
+  REF: '<strong>Peixiao Wang</strong>, Fei Gao, Yuhui Zhao, el at. Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data[J]. <strong>sensors</strong>, 2020, 20(18): 5078. (<strong>SCI, JCR Q2, IF=3.9</strong>) '
   URL: https://giserwang.github.io/papers/Sensors-2020-09.pdf
   
 - title: 'A Hybrid Markov and LSTM Model for Indoor Location Prediction'
@@ -114,7 +114,7 @@
   TYPE: 'Journal Paper'
   Year: 2019
   Online: https://doi.org/10.1109/ACCESS.2019.2961559
-  REF: '<strong>Peixiao Wang</strong>, Hongen Wang, Hengcai Zhang, el at. A Hybrid Markov and LSTM Model for Indoor Location Prediction[J]. <strong>IEEE Access</strong>, 2019,7:185928-185940. (<strong>SCI, JCR Q2, IF=3.476</strong>) '
+  REF: '<strong>Peixiao Wang</strong>, Hongen Wang, Hengcai Zhang, el at. A Hybrid Markov and LSTM Model for Indoor Location Prediction[J]. <strong>IEEE Access</strong>, 2019,7:185928-185940. (<strong>SCI, JCR Q2, IF=3.9</strong>) '
   URL: https://giserwang.github.io/papers/Access-2019-12.pdf
   
 - title: 'Physics-informed Machine Learning and Its Research Prospects in GeoAI'
