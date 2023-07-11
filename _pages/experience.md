@@ -21,8 +21,8 @@ permalink: /experience
 
 * <em>2023.07 - now</em>
     - <strong>State Key Laboratory of Resources and Environmental Information System</strong>, IGSNRR, Chinese Academy of Sciences, Beijing, China
-	- Doctor in Cartography and Geographical Information System
-	- Supervisor: <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a>
+	- Postdoc in Geography
+	- Supervisor: <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Feng Lu</a> and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">A.P. Hengcai Zhang</a>
 <br>
 
 ## Education Experience
