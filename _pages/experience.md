@@ -5,7 +5,7 @@ excerpt: "Peixiao Wang: Experience"
 sitemap: false
 permalink: /experience
 ---
-<div class="col-sm-3" align="right" style="display:table-cell; vertical-align:middle; text-align:center">
+<div class="col-sm-4" align="right" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
   <a href ="https://giserwang.github.io"> <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/pages/admin.jpg" class="img-responsive" width="100%" /></a>
@@ -13,7 +13,7 @@ permalink: /experience
   Photoed at Wuhan University in 2023<br>
 </div>
 
-<div class="col-sm-9">
+<div class="col-sm-8">
 
 
 ## Employment Experience
