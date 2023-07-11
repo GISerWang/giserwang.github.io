@@ -50,7 +50,7 @@ permalink: /experience
 <a href="http://www.sdust.edu.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/sdust.jpg" width="12%"  /></a>
 
 * <em>2013.09 - 2017.06</em>
-    - <strong>Shandong University of Science and Technology</strong>, Qingdao, Shandong, China
+    - <strong>College of Geodesy and Geomatics</strong>, Shandong University of Science and Technology, Qingdao, Shandong, China
 	- Bachelor in Geographic Information Science
 	- Supervisor: <a href="http://gc.sdust.edu.cn/info/1071/2896.htm" target="_blank">Prof. Naixia Mou</a>
 
