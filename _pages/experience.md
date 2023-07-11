@@ -20,11 +20,17 @@ permalink: /experience
 <a href="http://www.igsnrr.ac.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/IGSNRR.png" width="12%"  /></a>
 
 <p>
-	
-* <em>2023.07 - now</em>
-	- <strong>State Key Laboratory of Resources and Environmental Information System</strong>, Institute of Geographic Sciences and Nature Resources Research, Chinese Academy of Sciences, Beijing, China
-	- Postdoctoral fellow in Geography
-	- Supervisor: <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/zjrck/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> and <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/zjrck/ysdw_fyjy/yjdw_zyyhjgj/202007/t20200730_5647814.html" target="_blank">A.P. Hengcai Zhang</a>
+	<ul>
+		<li>
+			<em>2020.09 - 2023.06</em>
+			<ul>
+        <li><strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</strong>, Wuhan University, Wuhan, Hubei, China</li>
+        <li>Doctor in Cartography and Geographical Information System</li>
+        <li>Supervisor: <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a></li>
+      </ul>
+		</li>
+	</ul>
+
 
 </p>
 <br>
