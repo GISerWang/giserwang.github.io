@@ -32,7 +32,7 @@ permalink: /experience
 <a href="https://www.whu.edu.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/whu.jpg" width="12%"  /></a>
 
 * <em>2020.09 - 2023.06</em>
-    - <strong>Wuhan University</strong>, Wuhan, Hubei, China
+    - <strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</strong>, Wuhan University, Wuhan, Hubei, China
 	- Doctor in Cartography and Geographical Information System
 	- Supervisor: <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a>
 
@@ -41,7 +41,7 @@ permalink: /experience
 <a href="https://www.fzu.edu.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/fzu.png" width="12%"  /></a>
 
 * <em>2017.09 - 2020.06</em>
-    - <strong>Fuzhou University</strong>, Fuzhou, Fujian, China
+    - <strong>The Academy of Digital China</strong>, Fuzhou University, Fuzhou, Fujian, China
 	- Master in Surveying and Mapping Engineering
 	- Supervisor: <a href="http://adcfj.cn/sirc/door/team/TeacherList/Detail?personId=422" target="_blank">Prof. Sheng Wu</a>
 
