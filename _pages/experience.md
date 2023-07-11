@@ -17,15 +17,13 @@ permalink: /experience
 
 
 ## Employment Experience
-<div class="col-sm-4">
+
 <a href="http://www.igsnrr.ac.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/IGSNRR.png" width="12%"  /></a>
-</div>
-<div class="col-sm-8">
+
 * <em>2023.07 - now</em>
     - <strong>State Key Laboratory of Resources and Environmental Information System</strong>, Institute of Geographic Sciences and Nature Resources Research, Chinese Academy of Sciences, Beijing, China
 	- Postdoctoral fellow in Geography
 	- Supervisor: <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/zjrck/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> and <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/zjrck/ysdw_fyjy/yjdw_zyyhjgj/202007/t20200730_5647814.html" target="_blank">A.P. Hengcai Zhang</a>
-</div>
 <br>
 
 ## Education Experience
