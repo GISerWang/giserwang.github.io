@@ -18,7 +18,7 @@ permalink: /experience
 
 ## Employment Experience
 
-<a href="http://www.igsnrr.ac.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/IGSNRR.png" width="12%"  /></a>
+<a href="http://www.igsnrr.ac.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/IGSNRR.png" width="15%"  /></a>
 
 * <em>2023.07 - now</em>
     - <strong>State Key Laboratory of Resources and Environmental Information System</strong>, Institute of Geographic Sciences and Nature Resources Research, Chinese Academy of Sciences, Beijing, China
