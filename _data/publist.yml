@@ -154,7 +154,7 @@
   TYPE: 'Journal Paper'
   Year: 2023
   Online: https://doi.org/10.1111/tgis.13095
-  REF: 'Chen Chu, Hengcai Zhang*,  <strong>Peixiao Wang</strong>, Feng Lu. DeepIndoorCrowd: Predicting crowd flow in indoor shopping malls with an interpretable transformer network[J]. <strong>Transactions in GIS</strong>, 2023,1-16. (<strong>SCI, JCR Q2, GSC Rank T2, IF=3.4</strong>)'
+  REF: 'Chen Chu, Hengcai Zhang*,  <strong>Peixiao Wang</strong>, Feng Lu. DeepIndoorCrowd: Predicting crowd flow in indoor shopping malls with an interpretable transformer network[J]. <strong>Transactions in GIS</strong>, 2023,1-16. (<strong>SSCI, JCR Q2, GSC Rank T2, IF=2.4</strong>)'
   URL: https://giserwang.github.io/papers/TGIS-2023-09.pdf
   
 - title: 'Automatic Construction of Indoor 3D Navigation Graph from Crowdsourcing Trajectories'
