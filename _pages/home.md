@@ -146,7 +146,7 @@ CV was last updated on 2023.5.07. <br>
     <li><strong>Project in Progress</strong></li>
 	<ul>
 	{% for pproject  in site.data.pprojects limit:5 %}
-		<li> {{pproject.type}}, {{pproject.span}}, {{pproject.fundingamount}}, {{pproject.role}}.</li>
+		<li> {{pproject.type}}:{{pproject.name}}, {{pproject.span}}, {{pproject.fundingamount}}, {{pproject.role}}.</li>
 	{% endfor %}
 	</ul>
 </ul>
