@@ -21,7 +21,7 @@ permalink: /ProjectsAndHonors
 
 <ol>
 	{% for pproject  in site.data.pprojects %}
-		<li> {{pproject.type}}: {{pproject.name}}, {{pproject.span}}, {{pproject.fundingamount}}, {{pproject.status}}, {{pproject.role}}.<font color='white'>{{pproject.grant}}</font></li>
+		<li> {{pproject.type}}, {{pproject.span}}, {{pproject.fundingamount}}, {{pproject.status}}, {{pproject.role}}.<font color='white'>{{pproject.grant}}</font></li>
 	{% endfor %}
 	<!--{% for cproject  in site.data.cprojects %}
 		<li> {{cproject.type}}: {{cproject.name}}, {{cproject.span}}, {{cproject.fundingamount}}, {{cproject.role}}.<font color='white'>{{cproject.grant}}</font></li>
