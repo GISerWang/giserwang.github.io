@@ -33,6 +33,24 @@
   link3:
     url: https://giserwang.github.io/papers/bib/IJGIS-2023-04.txt
     display: Cite by bib
+
+- title: 'A novel attentional neural ordinary differential equation for spatio-temporal prediction'
+  image: IJGIS-2023-10.jpg
+  description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
+  authors: <strong>Peixiao Wang</strong> , Tong Zhang*, Hengcai Zhang, Shifen Cheng, and Wangshu Wang
+  venue: 2023. <font color="red">(Journal Paper)</font> 
+  name: <strong>International Journal of Geographical Information Science</strong> (SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7)
+  DOI: 'DOI: In production'
+  number_link: 3
+  link1:
+    url: https://giserwang.github.io/papers/IJGIS-2023-10.pdf
+    display: PDF
+  link2:
+    url: In production
+    display: Website Online
+  link3:
+    url: https://giserwang.github.io/papers/bib/IJGIS-2023-10.txt
+    display: Cite by bib
     
 - title: 'A hybrid data-driven framework for spatiotemporal traffic flow data imputation'
   image: IOTJ-2022-09.jpg
