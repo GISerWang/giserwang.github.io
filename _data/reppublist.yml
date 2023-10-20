@@ -34,7 +34,7 @@
     url: https://giserwang.github.io/papers/bib/IJGIS-2023-04.txt
     display: Cite by bib
 
-- title: 'A novel attentional neural ordinary differential equation for spatio-temporal prediction'
+- title: 'Adding attention to the neural ordinary differential equation for spatio-temporal prediction'
   image: IJGIS-2023-10.jpg
   description: In this study, we propose a novel spatiotemporal attentional neural differential equation (STA-ODE) model for interpretable spatiotemporal prediction tasks.The proposed model was validated on three real-world spatiotemporal datasets. Experimental results showed that STA-ODE outperformed seven existing baselines in terms of prediction accuracy. In addition, we also demonstrated the good interpretation and good prediction accuracy of the STA-ODE model from the perspective of visualization.
   authors: <strong>Peixiao Wang</strong> , Tong Zhang*, Hengcai Zhang, Shifen Cheng, and Wangshu Wang
