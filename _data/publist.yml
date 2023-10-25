@@ -16,10 +16,10 @@
 
 - title: 'Adding attention to the neural ordinary differential equation for spatio-temporal prediction'
   DOI: 'DOI: In Production'
-  REF: '<strong>Peixiao Wang</strong>, Tong Zhang, et al. Adding attention to the neural ordinary differential equation for spatio-temporal prediction[J]. <strong>International Journal of Geographical Information Science</strong>, 2023: In Production. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7</strong>)'
+  REF: '<strong>Peixiao Wang</strong>, Tong Zhang, et al. Adding attention to the neural ordinary differential equation for spatio-temporal prediction[J]. <strong>International Journal of Geographical Information Science</strong>, 2023. 10.1080/13658816.2023.2275160 (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7</strong>)'
   TYPE: 'Journal Paper'
   Year: 2023
-  Online: In Production
+  Online: http://dx.doi.org/10.1080/13658816.2023.2275160
   URL: https://giserwang.github.io/papers/IJGIS-2023-10.pdf
 
 - title: 'A Hybrid Data-Driven Framework for Spatiotemporal Traffic Flow Data Imputation'
