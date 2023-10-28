@@ -21,8 +21,8 @@ permalink: /experience
 
 * <em>2023.07 - now</em>
     - Postdoctoral Fellow in Geography
-        - <strong>State Key Laboratory of Resources and Environmental Information System</strong>, IGSNRR, Chinese Academy of Sciences, Beijing, China
-	- Supervisor: <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/dsjs/bssds/dtxydlxx/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> and <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/dsjs/sssds/dtxydlxxxt/202007/t20200730_5647814.html" target="_blank">A.P. Hengcai Zhang</a>
+    - <strong>State Key Laboratory of Resources and Environmental Information System</strong>, IGSNRR, Chinese Academy of Sciences, Beijing, China
+    - Supervisor: <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/dsjs/bssds/dtxydlxx/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> and <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/dsjs/sssds/dtxydlxxxt/202007/t20200730_5647814.html" target="_blank">A.P. Hengcai Zhang</a>
 <br>
 
 ## Education Experience
@@ -31,8 +31,8 @@ permalink: /experience
 
 * <em>2020.09 - 2023.06</em>
     - Doctor in Cartography and Geographical Information System
-        - <strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</strong>, Wuhan University, Wuhan, Hubei, China
-	- Supervisor: <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a>
+    - <strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</strong>, Wuhan University, Wuhan, Hubei, China
+    - Supervisor: <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a>
 
 <br>
 
@@ -40,8 +40,8 @@ permalink: /experience
 
 * <em>2017.09 - 2020.06</em>
     - Master in Surveying and Mapping Engineering
-        - <strong>The Academy of Digital China</strong>, Fuzhou University, Fuzhou, Fujian, China
-	- Supervisor: <a href="http://adcfj.cn/sirc/door/team/TeacherList/Detail?personId=422" target="_blank">Prof. Sheng Wu</a>
+    - <strong>The Academy of Digital China</strong>, Fuzhou University, Fuzhou, Fujian, China
+    - Supervisor: <a href="http://adcfj.cn/sirc/door/team/TeacherList/Detail?personId=422" target="_blank">Prof. Sheng Wu</a>
 
 <br>
 
@@ -49,8 +49,8 @@ permalink: /experience
 
 * <em>2013.09 - 2017.06</em>
     - Bachelor in Geographic Information Science
-        - <strong>College of Geodesy and Geomatics</strong>, Shandong University of Science and Technology, Qingdao, Shandong, China
-	- Supervisor: <a href="http://gc.sdust.edu.cn/info/1071/2896.htm" target="_blank">Prof. Naixia Mou</a>
+    - <strong>College of Geodesy and Geomatics</strong>, Shandong University of Science and Technology, Qingdao, Shandong, China
+    - Supervisor: <a href="http://gc.sdust.edu.cn/info/1071/2896.htm" target="_blank">Prof. Naixia Mou</a>
 
 <br>
 
