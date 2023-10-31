@@ -7,8 +7,8 @@
   status: '<strong>Project in Progress</strong>'
   span: 2023.07 - now
   
-- name: '<em>A geography-aware spatiotemporal ordinary differential equation for continuous spatiotemporal prediction</em>'
-  type: 'Special Research Assistant Program of Chinese Academy of Sciences (CAS Matching Funds for the National Postdoctoral Innovation Talents Support Program)'
+- name: '<em>Short-Term Prediction of Urban Traffic Flow Based on Spatiotemporal View Learning</em>'
+  type: 'Special Research Assistant Program of Chinese Academy of Sciences'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: 'BX20230360'
   fundingamount: 'CNY 200000'
