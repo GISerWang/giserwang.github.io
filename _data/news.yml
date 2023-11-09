@@ -9,30 +9,22 @@
 
 - date: 2023.10.06
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2023-10.pdf">Adding attention to the neural ordinary differential equation for spatio-temporal prediction</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2023.07.29
   headline: 'A paper on <a href="https://giserwang.github.io/papers/TGIS-2023-08.pdf">DeepIndoorCrowd: Predicting Crowd Flow in Indoor Shopping Malls with an Interpretable Transformer Network</a> is accepted by Transactions in GIS (TGIS).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  
+
 - date: 2023.05.26
   headline: 'A paper on <a href="https://giserwang.github.io/papers/TGRS-2023-05.pdf">Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks</a> is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
  
 - date: 2023.05.25
   headline: 'I passed the defense of my doctoral thesis (Thesis Title: Missing Imputation and Short-Term Prediction of Urban Traffic Flow Based on Spatiotemporal View Learning).'
  
 - date: 2023.05.01
   headline: 'A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2023-05.pdf">Physics-informed Machine Learning and Its Research Prospects in GeoAI</a> is accepted by Geo-Information Science (Geo-Inf Sci).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2023.04.01
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2023-04.pdf">Urban traffic flow prediction&#58; a dynamic temporal graph network considering missing values</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  
+
 - date: 2022.09.15
   headline: 'A paper on <a href="https://giserwang.github.io/papers/CHXB-2022-09.pdf">A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction</a> is accepted by Acta Geodaetica et Cartographica Sinica (Acta Geod Cartogr Sin).'
 
