@@ -15,6 +15,15 @@
   sponsor: 'Chinese Academy of Sciences'
   status: '<strong>Project in Progress</strong>'
   span: 2023.07 - now
+
+- name: '<em>Spatiotemporal prediction on urban traffic congestion events guided by geographical prior knowledge</em>'
+  type: 'China Postdoctoral Science Foundation'
+  role: '<font color="red">Principle Investigator: 主持</font>'
+  grant: ''
+  fundingamount: 'CNY 80000'
+  sponsor: 'China Postdoctoral Science Foundation'
+  status: '<strong>Project in Progress</strong>'
+  span: 2023.11 - now
   
 - name: '<em>Online missing imputation and short-term prediction of urban real-time road condition based on massive vehicle trajectories</em>'
   type: 'Open Fund of Wuhan University-Huawei Geoinformatics Innovation Laboratory'
