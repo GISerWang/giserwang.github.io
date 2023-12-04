@@ -1,0 +1,8 @@
+@article{wang2023SCSI,
+  title={A lightweight spatiotemporal graph dilated convolutional network for urban sensor state prediction},
+  author={Wang, Peixiao and Zhang, Hengcai and Cheng, Shifen and Zhang, Tong and Lu, Feng and Wu, Sheng},
+  journal={Sustainable Cities and Society},
+  year  = {2024},
+  publisher = {Elsevier},
+  doi = {XXX},
+}
