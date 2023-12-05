@@ -70,20 +70,20 @@
     url: https://giserwang.github.io/papers/bib/IOTJ-2022-09.txt
     display: Cite by bib
 
-- title: 'Exploring the impact of under-reported cases on the COVID-19 spatiotemporal distributions using healthcare workers infection data'
-  image: Cities-2022-04.jpg
-  description: In this paper, a novel framework was proposed to explore the impact of under-reporting on COVID-19 spatiotemporal distributions. The proposed framework of this study is highly extensible, and relevant researchers can use data sources from other counties to carry out similar research.
-  authors: <strong>Peixiao Wang</strong> , Tao Hu*, Hongqiang Liu, and Xinyan Zhu
-  venue: 2022,123(5):103593. <font color="red">(Journal Paper)</font> 
-  name: <strong>Cities</strong> (SSCI, JCR Q1, GSC Rank T1, IF=6.7)
-  DOI: 'DOI: 10.1016/j.cities.2022.103593'
+- title: 'A lightweight spatiotemporal graph dilated convolutional network for urban sensor state prediction'
+  image: SCSI-2023-12.jpg
+  description: In this study, we propose a lightweight spatiotemporal graph dilated convolutional network called STGDN with satisfactory prediction accuracy and lower model complexity. We conducted on multi experiments on three real-world spatiotemporal datasets, and the experimental results show that the proposed STGDN model outperforms or achieves comparable prediction accuracy of the existing nine baselines with higher operational efficiency and fewer model parameters. 
+  authors: <strong>Peixiao Wang</strong> , Hengcai Zhang*, Shifen Cheng, Tong Zhang, Feng Lu and Sheng Wu
+  venue: 2024:In Production. <font color="red">(Journal Paper)</font> 
+  name: <strong>Sustainable Cities and Society</strong> (SCI, JCR Q1, IF=11.7)
+  DOI: 'DOI: In Production'
   number_link: 3
   link1:
-    url: https://giserwang.github.io/papers/Cities-2022-04.pdf
+    url: https://giserwang.github.io/papers/SCSI-2023-12.pdf
     display: PDF
   link2:
-    url: https://linkinghub.elsevier.com/retrieve/pii/S0264275122000324
+    url: XXXXX
     display: Website Online
   link3:
-    url: https://giserwang.github.io/papers/bib/Cities-2022-04.txt
+    url: https://giserwang.github.io/papers/bib/SCSI-2023-12.txt
     display: Cite by bib
