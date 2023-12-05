@@ -2,7 +2,9 @@
   title={Adding attention to the neural ordinary differential equation for spatio-temporal prediction},
   author={Wang, Peixiao and Zhang, Tong and Zhang, Hengcai and Cheng, Shifen and Wang, Wangshu},
   journal={International Journal of Geographical Information Science},
-  year  = {2023},
+  volume = {38},
+  issue = {1},
+  year  = {2024},
   publisher = {Taylor & Francis},
   doi = {10.1080/13658816.2023.2275160},
 }
