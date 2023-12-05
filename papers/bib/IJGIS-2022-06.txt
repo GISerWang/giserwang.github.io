@@ -3,7 +3,7 @@
   author={Wang, Peixiao and Zhang, Tong and Zheng, Yueming and Hu, Tao},
   journal={International Journal of Geographical Information Science},
   volume = {36},
-  number = {6},
+  issue = {6},
   pages = {1231-1257},
   year  = {2022},
   publisher = {Taylor & Francis},
