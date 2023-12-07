@@ -75,7 +75,7 @@
   description: In this study, we propose a lightweight spatiotemporal graph dilated convolutional network called STGDN with satisfactory prediction accuracy and lower model complexity. We conducted on multi experiments on three real-world spatiotemporal datasets, and the experimental results show that the proposed STGDN model outperforms or achieves comparable prediction accuracy of the existing nine baselines with higher operational efficiency and fewer model parameters. 
   authors: <strong>Peixiao Wang</strong> , Hengcai Zhang*, Shifen Cheng, Tong Zhang, Feng Lu and Sheng Wu
   venue: 2024:In Production. <font color="red">(Journal Paper)</font> 
-  name: <strong>Sustainable Cities and Society</strong> (SCI, JCR Q1, IF=11.7)
+  name: <strong>Sustainable Cities and Society</strong> (SCI, JCR Q1, ASC Rank T1, IF=11.7)
   DOI: 'DOI: 10.1016/j.scs.2023.105105'
   number_link: 3
   link1:
