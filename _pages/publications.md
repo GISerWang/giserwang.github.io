@@ -76,7 +76,7 @@ permalink: /publications
    {% for publi in site.data.publist %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
-  <p><font color="red"><strong>Note:</strong>The Geographical Society of China (GSC), China Institute of Communications (CIC), The Architectural Society of China (ASC), Journal Citation Reports (JCR)</font></p>
+  <p><font color="red"><strong>Note:</strong>The Geographical Society of China (GSC), China Institute of Communications (CIC), Architectural Society of China (ASC), Journal Citation Reports (JCR)</font></p>
  </div>
 </div>
 
