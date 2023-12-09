@@ -69,13 +69,22 @@
   REF: '<strong>Peixiao Wang</strong> , Tong Zhang, Shichao Nie, el at. A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction[J]. <strong>Acta Geodaetica et Cartographica Sinica&#58; 测绘学报</strong>, 2023,52(5): 818-830 (in Chinese). (<strong>EI, GSC Rank T1</strong>) '
   Online: http://xb.chinasmp.com/CN/10.11947/j.AGCS.2023.20220021
   URL: https://giserwang.github.io/papers/CHXB-2022-09.pdf
-  
+
 - title: 'Spatial-temporal clustering by fast search and find of density peak'
   DOI: 'DOI: 10.11947/j.AGCS.2019.20180538'
   TYPE: 'Journal Paper'
+  Year: 2019
   REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang, Haibo Wang, el at. Spatial-temporal clustering by fast search and find of density peak[J]. <strong>Acta Geodaetica et Cartographica Sinica&#58; 测绘学报</strong>, 2019,48(11):1380-1390 (in Chinese). (<strong>EI, GSC Rank T1</strong>) '
   Online: http://xb.chinasmp.com/CN/10.11947/j.AGCS.2019.20180538
   URL: https://giserwang.github.io/papers/CHXB-2019-11.pdf
+
+- title: 'An attentional ordinary differential equation for predicting PM2.5 concentration and its interpretability analysis'
+  DOI: 'DOI: 10.12082/dqxxkx.2024.230678'
+  Year: 2024
+  TYPE: 'Journal Paper'
+  REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang, Tong Zhang, Feng Lu. An attentional ordinary differential equation for predicting PM2.5 concentration and its interpretability analysis[J]. <strong>Geo-Information Science &#58;  地球信息科学学报</strong>, 2024, DOI: 10.12082/dqxxkx.2024.230678 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
+  Online: http://doi.org/10.12082/dqxxkx.2024.230678
+  URL: https://giserwang.github.io/papers/DQXXKX-2023-11.pdf
   
 - title: 'A Method for Identifying Spatial and Temporal Aggregation Area of Indoor Crowd'
   DOI: 'DOI: 10.13203/j.whugis20190228'
