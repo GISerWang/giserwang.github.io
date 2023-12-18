@@ -1,3 +1,8 @@
+- date: 2023.12.18
+  headline: 'I was awarded by Open Fund of National Engineering Research Center of Geographic Information System, China University of Geosciences, Wuhan 430074, China (Program Title: A novel prior aware graph process model for s patiotemporal event prediction).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 - date: 2023.12.04
   headline: 'A paper on <a href="https://giserwang.github.io/papers/SCSI-2023-12.pdf">A lightweight spatiotemporal graph dilated convolutional network for urban sensor state prediction</a> is accepted by Sustainable Cities and Society (SCSI).'
   news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
