@@ -148,6 +148,7 @@ CV was last updated on 2023.5.07. <br>
 	{% for pproject  in site.data.pprojects limit:4 %}
 		<li> {{pproject.type}}:{{pproject.name}}, {{pproject.span}}, {{pproject.fundingamount}}, {{pproject.role}}.</li>
 	{% endfor %}
+		<li> <a href="{{ site.url }}{{ site.baseurl }}/ProjectsAndHonors" class="btn-xs btn-success">See All Projects</a> </li>
 	</ul>
 </ul>
 
