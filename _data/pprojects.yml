@@ -4,7 +4,7 @@
   grant: 'BX20230360'
   fundingamount: 'CNY 640000'
   sponsor: 'China Postdoctoral Science Foundation'
-  status: '<strong>Project in Progress</strong>'
+  status: '<strong>Program in Progress</strong>'
   span: 2023.07 - now
 
 - name: '<em>Research on sensing and forecasting adaptation of regional economic situation with high spatiotemporal resolution</em>'
@@ -13,7 +13,7 @@
   grant: '2023YFB3906804'
   fundingamount: 'CNY 270000'
   sponsor: 'Ministry of Science and Technology of the People’s Republic of China'
-  status: '<strong>Project in Progress</strong>'
+  status: '<strong>Program in Progress</strong>'
   span: 2023.12 - now
 
 - name: '<em>Short-term prediction of urban traffic flow based on spatiotemporal view learning</em>'
@@ -22,7 +22,7 @@
   grant: 'BX20230360'
   fundingamount: 'CNY 200000'
   sponsor: 'Chinese Academy of Sciences'
-  status: '<strong>Project in Progress</strong>'
+  status: '<strong>Program in Progress</strong>'
   span: 2023.07 - now
 
 - name: '<em>Spatiotemporal prediction on urban traffic congestion events guided by geographical prior knowledge</em>'
@@ -31,7 +31,7 @@
   grant: '2023M743454'
   fundingamount: 'CNY 80000'
   sponsor: 'China Postdoctoral Science Foundation'
-  status: '<strong>Project in Progress</strong>'
+  status: '<strong>Program in Progress</strong>'
   span: 2023.11 - now
 
 - name: '<em>A novel prior aware graph process model for s patiotemporal event prediction</em>'
@@ -40,7 +40,7 @@
   grant: '2023KFJJ09'
   fundingamount: 'CNY 25000'
   sponsor: 'National Engineering Research Center of Geographic Information System, China University of Geosciences'
-  status: '<strong>Project in Progress</strong>'
+  status: '<strong>Program in Progress</strong>'
   span: 2024.01 - now
   
 - name: '<em>Online missing imputation and short-term prediction of urban real-time road condition based on massive vehicle trajectories</em>'
@@ -49,5 +49,5 @@
   grant: 'TC20210901025-2023-04'
   fundingamount: 'CNY 400000'
   sponsor: 'Wuhan University-Huawei Geoinformatics Innovation Laboratory'
-  status: '<strong>Project in Progress</strong>'
+  status: '<strong>Program in Progress</strong>'
   span: 2023.04 - now
