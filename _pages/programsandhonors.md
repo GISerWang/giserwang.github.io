@@ -20,11 +20,11 @@ permalink: /ProgramsAndHonors
 ## Program
 
 <ol>
-	{% for pproject  in site.data.pprojects %}
-		<li> {{pproject.type}}:{{pproject.name}}, {{pproject.span}}, {{pproject.fundingamount}}, {{pproject.status}}, {{pproject.role}}.<font color='white'>{{pproject.grant}}</font></li>
+	{% for pprogram  in site.data.pprograms %}
+		<li> {{pprogram.type}}:{{pprogram.name}}, {{pprogram.span}}, {{pprogram.fundingamount}}, {{pprogram.status}}, {{pprogram.role}}.<font color='white'>{{pprogram.grant}}</font></li>
 	{% endfor %}
-	<!--{% for cproject  in site.data.cprojects %}
-		<li> {{cproject.type}}: {{cproject.name}}, {{cproject.span}}, {{cproject.fundingamount}}, {{cproject.role}}.<font color='white'>{{cproject.grant}}</font></li>
+	<!--{% for cprogram  in site.data.cprograms %}
+		<li> {{cprogram.type}}: {{cprogram.name}}, {{cprogram.span}}, {{cprogram.fundingamount}}, {{cprogram.role}}.<font color='white'>{{cprogram.grant}}</font></li>
 	{% endfor %}-->
 </ol>
 
