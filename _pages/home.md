@@ -145,7 +145,7 @@ CV was last updated on 2023.5.07. <br>
 <ul>
     <li><strong>Program in Progress</strong></li>
 	<ul>
-	{% for pprogram  in site.data.pprograms limit:4 %}
+	{% for pprogram in site.data.pprograms limit:4 %}
 		<li> {{pprogram.type}}:{{pprogram.name}}, {{pprogram.span}}, {{pprogram.fundingamount}}, {{pprogram.role}}.</li>
 	{% endfor %}
 		<li> <a href="{{ site.url }}{{ site.baseurl }}/ProjectsAndHonors" class="btn-xs btn-success">See All Projects</a> </li>
