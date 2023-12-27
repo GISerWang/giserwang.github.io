@@ -148,7 +148,7 @@ CV was last updated on 2023.5.07. <br>
 	{% for pprogram in site.data.pprograms limit:4 %}
 		<li> {{pprogram.type}}:{{pprogram.name}}, {{pprogram.span}}, {{pprogram.fundingamount}}, {{pprogram.role}}.</li>
 	{% endfor %}
-		<li> <a href="{{ site.url }}{{ site.baseurl }}/ProjectsAndHonors" class="btn-xs btn-success">See All Projects</a> </li>
+		<li> <a href="{{ site.url }}{{ site.baseurl }}/ProgramsAndHonors" class="btn-xs btn-success">See All Programs</a> </li>
 	</ul>
 </ul>
 
