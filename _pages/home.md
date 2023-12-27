@@ -1,4 +1,4 @@
-![image](https://github.com/GISerWang/giserwang.github.io/assets/18157927/85c5ba00-1b7b-4411-bdb4-0543fccd480f)---
+---
 title: "Peixiao Wang (王培晓) - Homepage"
 layout: gridlay
 excerpt: "Peixiao Wang"
