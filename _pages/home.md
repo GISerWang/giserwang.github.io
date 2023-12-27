@@ -1,4 +1,4 @@
----
+![image](https://github.com/GISerWang/giserwang.github.io/assets/18157927/85c5ba00-1b7b-4411-bdb4-0543fccd480f)---
 title: "Peixiao Wang (王培晓) - Homepage"
 layout: gridlay
 excerpt: "Peixiao Wang"
@@ -140,10 +140,10 @@ CV was last updated on 2023.5.07. <br>
 
 ### **Academic Related**
 
-#### **Project (<font color="red">Principle Investigator</font> <font color="green">&</font> <font color="blue">Co-Principle Investigator</font>)**
+#### **Program (<font color="red">Principle Investigator</font> <font color="green">&</font> <font color="blue">Co-Principle Investigator</font>)**
 
 <ul>
-    <li><strong>Project in Progress</strong></li>
+    <li><strong>Program in Progress</strong></li>
 	<ul>
 	{% for pproject  in site.data.pprojects limit:4 %}
 		<li> {{pproject.type}}:{{pproject.name}}, {{pproject.span}}, {{pproject.fundingamount}}, {{pproject.role}}.</li>
