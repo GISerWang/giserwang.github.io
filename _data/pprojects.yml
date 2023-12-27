@@ -6,6 +6,15 @@
   sponsor: 'China Postdoctoral Science Foundation'
   status: '<strong>Project in Progress</strong>'
   span: 2023.07 - now
+
+- name: '<em>Research on sensing and forecasting adaptation of regional economic situation with high spatiotemporal resolution</em>'
+  type: 'Special Research Assistant Program of Chinese Academy of Sciences'
+  role: '<font color="red">Principle Investigator: 主持</font>'
+  grant: 'BX20230360'
+  fundingamount: 'CNY 270000'
+  sponsor: 'Chinese Academy of Sciences'
+  status: '<strong>Project in Progress</strong>'
+  span: 2023.12 - now
   
 - name: '<em>Short-term prediction of urban traffic flow based on spatiotemporal view learning</em>'
   type: 'Special Research Assistant Program of Chinese Academy of Sciences'
