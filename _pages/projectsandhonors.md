@@ -3,7 +3,7 @@ title: "Peixiao Wang (王培晓) - Gallery"
 layout: gridlay
 excerpt: "Peixiao Wang"
 sitemap: false
-permalink: /ProjectsAndHonors
+permalink: /ProgramsAndHonors
 ---
 
 <div class="col-sm-4" align="right" style="display:table-cell; vertical-align:middle; text-align:center">
@@ -17,7 +17,7 @@ permalink: /ProjectsAndHonors
 
 <div class="col-sm-8">
 
-## Project
+## Program
 
 <ol>
 	{% for pproject  in site.data.pprojects %}
