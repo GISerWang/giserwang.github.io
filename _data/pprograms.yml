@@ -35,6 +35,15 @@
   span: 2023.11 - now
 
 - name: '<em>A novel prior aware graph process model for s patiotemporal event prediction</em>'
+  type: 'Open Fund of State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University'
+  role: '<font color="red">Principle Investigator: 主持</font>'
+  grant: '23I03'
+  fundingamount: 'CNY 50000'
+  sponsor: 'State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing,Wuhan University'
+  status: '<strong>Program in Progress</strong>'
+  span: 2024.01 - now
+
+- name: '<em>A novel prior aware graph process model for s patiotemporal event prediction</em>'
   type: 'Open Fund of National Engineering Research Center of Geographic Information System, China University of Geosciences, Wuhan 430074, China'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: '2023KFJJ09'
