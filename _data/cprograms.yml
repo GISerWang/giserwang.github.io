@@ -1,8 +1,8 @@
-- name: '<em>Real-time representation and semantic analysis of pedestrian trajectories for intelligent applications in 3D indoor and outdoor scenes</em>'
-  type: 'National Key  Research and Development Program of China (International Scientific & Technological Cooperation Program)'
-  role: '<font color="blue">Co-Principle Investigator</font>'
-  grant: '2019YFE0106500'
-  fundingamount: 'CNY 20500000'
-  sponsor: 'China Science and Technology Exchange Center'
-  status: 'Completed Program'
-  span: 2020.07 - 2022.12
+- name: '<em>Online missing imputation and short-term prediction of urban real-time road condition based on massive vehicle trajectories</em>'
+  type: 'Open Fund of Wuhan University-Huawei Geoinformatics Innovation Laboratory'
+  role: '<font color="blue">Co-Principle Investigator: 参与</font>'
+  grant: 'TC20210901025-2023-04'
+  fundingamount: 'CNY 400000'
+  sponsor: 'Wuhan University-Huawei Geoinformatics Innovation Laboratory'
+  status: '<strong>Completed Program</strong>'
+  span: 2023.04 - 2024.04
