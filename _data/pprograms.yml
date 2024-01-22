@@ -51,12 +51,4 @@
   sponsor: 'National Engineering Research Center of Geographic Information System, China University of Geosciences'
   status: '<strong>Program in Progress</strong>'
   span: 2024.01 - now
-  
-- name: '<em>Online missing imputation and short-term prediction of urban real-time road condition based on massive vehicle trajectories</em>'
-  type: 'Open Fund of Wuhan University-Huawei Geoinformatics Innovation Laboratory'
-  role: '<font color="blue">Co-Principle Investigator: 参与</font>'
-  grant: 'TC20210901025-2023-04'
-  fundingamount: 'CNY 400000'
-  sponsor: 'Wuhan University-Huawei Geoinformatics Innovation Laboratory'
-  status: '<strong>Program in Progress</strong>'
-  span: 2023.04 - now
+
