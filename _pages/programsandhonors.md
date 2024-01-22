@@ -23,9 +23,9 @@ permalink: /ProgramsAndHonors
 	{% for pprogram  in site.data.pprograms %}
 		<li> {{pprogram.type}}:{{pprogram.name}}, {{pprogram.span}}, {{pprogram.status}}, {{pprogram.role}}.<font color='white'>{{pprogram.grant}}</font></li>
 	{% endfor %}
-	<!--{% for cprogram  in site.data.cprograms %}
-		<li> {{cprogram.type}}: {{cprogram.name}}, {{cprogram.span}}, {{cprogram.fundingamount}}, {{cprogram.role}}.<font color='white'>{{cprogram.grant}}</font></li>
-	{% endfor %}-->
+	{% for cprogram  in site.data.cprograms %}
+		<li> {{cprogram.type}}: {{cprogram.name}}, {{cprogram.span}}, {{cprogram.role}}.<font color='white'>{{cprogram.grant}}</font></li>
+	{% endfor %}
 </ol>
 
 
