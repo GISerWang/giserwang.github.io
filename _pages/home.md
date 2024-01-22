@@ -152,14 +152,15 @@ CV was last updated on 2023.5.07. <br>
 	</ul>
 </ul>
 
-<!--<ul>
+<ul>
     <li><strong>Completed Project</strong></li>
 	<ul>
     {% for cprogram  in site.data.cprograms limit:4 %}
-		<li> {{cprogram.type}}: {{cprogram.name}}, {{cprogram.span}}, {{cprogram.fundingamount}}, {{cprogram.role}}.</li>
+		<li> {{cprogram.type}}: {{cprogram.name}}, {{cprogram.span}}, {{cprogram.role}}.</li>
 	{% endfor %}
+		<li> <a href="{{ site.url }}{{ site.baseurl }}/ProgramsAndHonors" class="btn-xs btn-success">See All Programs</a> </li>
 	</ul>
-</ul>-->
+</ul>
 
 
 #### **Award & Honor**
