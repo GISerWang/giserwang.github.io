@@ -48,15 +48,15 @@
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: '2023KFJJ09'
   fundingamount: 'CNY 25000'
-  sponsor: 'National Engineering Research Center of Geographic Information System, China University of Geosciences'
+  sponsor: 'National Engineering Research Center of Geographic Information System, China University of Geosciences, Wuhan 430074, China'
   status: '<strong>Program in Progress</strong>'
   span: 2024.01 - now
 
 - name: '<em>Short-term spatiotemporal prediction model based on classical laws of geography</em>'
-  type: 'Open Fund of Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd., Nanjing 211500, China'
+  type: 'Open Fund of Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd.'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: '20240503'
   fundingamount: 'CNY 20000'
-  sponsor: 'Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd.'
+  sponsor: 'Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd., Nanjing 211500, China'
   status: '<strong>Program in Progress</strong>'
   span: 2024.07 - now
