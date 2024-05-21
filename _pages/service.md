@@ -26,10 +26,10 @@ permalink: service
 
 <a href="https://www.whu.edu.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/whu.jpg" width="12%"  /></a>
 
-* <em>2020.09 - 2023.06</em>
+* <em>{{specialissue.duration}}</em>
     - Doctor in Cartography and Geographical Information System
-    - <strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</strong>, Wuhan University, Wuhan, Hubei, China
-    - Supervisor: <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a>
+    - <strong>{{specialissue.journal}}</strong>
+    - Guest Editors: {{specialissue.guesteditors}}
 
 <br>
 
