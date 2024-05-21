@@ -24,17 +24,14 @@ permalink: service
 
 {% for specialissue in site.data.guesteditor %}
 
-<div class="col-sm-12 clearfix">
- <div class="well">
- <pubtit>{{ specialissue.name }}</pubtit>
+<a href="https://www.whu.edu.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/whu.jpg" width="12%"  /></a>
 
- <p>{{ specialissue.description }}</p>
+* <em>2020.09 - 2023.06</em>
+    - Doctor in Cartography and Geographical Information System
+    - <strong>State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</strong>, Wuhan University, Wuhan, Hubei, China
+    - Supervisor: <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a>
 
- <p>{{ specialissue.guesteditors }}</p>
- <p>{{ specialissue.duration }}</p>
- <p>{{ specialissue.journal }}</p>
- </div>
-</div>
+<br>
 
 {% endfor %}
 
