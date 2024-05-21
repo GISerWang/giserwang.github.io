@@ -27,8 +27,8 @@ permalink: service
 <a href="https://www.whu.edu.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/whu.jpg" width="12%"  /></a>
 
 * <em>{{specialissue.duration}}</em>
-    - Doctor in Cartography and Geographical Information System
-    - <strong>{{specialissue.journal}}</strong>
+    - <strong>{{specialissue.name}}<strong>
+    - {{specialissue.journal}}
     - Guest Editors: {{specialissue.guesteditors}}
 
 <br>
