@@ -26,8 +26,7 @@ permalink: service
 
 <a href="https://www.whu.edu.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/whu.jpg" width="12%"  /></a>
 
-* <em>{{specialissue.duration}}</em>
-    - <strong>{{specialissue.name}}<strong>
+* <strong>{{specialissue.name}}<strong>
     - <a href="{{specialissue.url}}" target="_blank">{{specialissue.journal}}</a>
     - Guest Editors: {{specialissue.guesteditors}}
 
