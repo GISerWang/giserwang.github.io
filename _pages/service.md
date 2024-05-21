@@ -26,8 +26,8 @@ permalink: service
 
 <a href="{{specialissue.url}}" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ specialissue.image }}" width="12%"  /></a>
 
-* <strong>{{specialissue.name}}<strong>
-    - <a href="{{specialissue.url}}" target="_blank">{{specialissue.journal}}</a>
+* <a href="{{specialissue.url}}" target="_blank"><strong>{{specialissue.name}}<strong></a>
+    - {{specialissue.journal}}
     - <strong>Guest Editors</strong>: {{specialissue.guesteditors}}
 
 <br>
