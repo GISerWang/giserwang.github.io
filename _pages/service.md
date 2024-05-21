@@ -22,19 +22,15 @@ permalink: service
 
 ### Guest Editor
 
-{% for publi in site.data.reppublist %}
+{% for specialissue in site.data.guesteditor %}
 
 <div class="col-sm-12 clearfix">
  <div class="well">
- <pubtit>{{ publi.title }}</pubtit>
+ <pubtit>{{ specialissue.name }}</pubtit>
 
  <p>{{ publi.description }}</p>
 
- <p><em>{{ publi.authors }}</em></p>
-
- <p>{{ publi.venue }}</p>
- 
- <p>{{ publi.name }}</p>
+ <p>Guest Editors: {{ publi.editor }}</p>
  
  </div>
 </div>
