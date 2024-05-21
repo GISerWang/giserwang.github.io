@@ -1,6 +1,6 @@
 - name: 'Street View Imagery and GeoAI'
   journal: <strong>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</strong> 
   description: In this study, we propose a novel multi-view bidirectional spatiotemporal graph network called Multi-BiSTGN to impute urban traffic data with complex missing patterns.The proposed model was validated on real-world traffic datasets collected in Wuhan, China. Experimental results showed that Multi-BiSTGN outperformed ten existing baselines under different missing types (random missing, block missing, and mixed missing) and missing rates.
-  duration: Jun 1, 2024~Dec 31, 2024
+  duration: 'Jun 1, 2024 — Dec 31, 2024'
   guesteditors: 'Guest Editors: Yan Zhang, Mei-Po Kwan, Nengcheng Chen,  Marco Helbich, and <strong>Peixiao Wang</strong>'
   
