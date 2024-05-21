@@ -28,7 +28,7 @@ permalink: service
 
 * <em>{{specialissue.duration}}</em>
     - <strong>{{specialissue.name}}<strong>
-    - {{specialissue.journal}}
+    - <a href="{{specialissue.url}}" target="_blank">{{specialissue.journal}}</a>
     - Guest Editors: {{specialissue.guesteditors}}
 
 <br>
