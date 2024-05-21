@@ -26,6 +26,10 @@
   url: https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice
   type: 'Journal'
 
+- name: 'Transportation Research Part D: Transport and Environment'
+  url: https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment
+  type: 'Journal'
+  
 - name: 'International Journal of Digital Earth'
   url: https://www.tandfonline.com/journals/tjde20
   type: 'Journal'
