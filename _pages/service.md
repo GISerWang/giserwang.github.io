@@ -28,9 +28,9 @@ permalink: service
  <div class="well">
  <pubtit>{{ specialissue.name }}</pubtit>
 
- <p>{{ publi.description }}</p>
+ <p>{{ specialissue.description }}</p>
 
- <p>Guest Editors: {{ publi.editor }}</p>
+ <p>Guest Editors: {{ specialissue.editors }}</p>
  
  </div>
 </div>
