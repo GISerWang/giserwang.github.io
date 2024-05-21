@@ -30,8 +30,9 @@ permalink: service
 
  <p>{{ specialissue.description }}</p>
 
- <p>Guest Editors: {{ specialissue.editors }}</p>
- 
+ <p>{{ specialissue.editors }}</p>
+ <p>{{ specialissue.duration }}</p>
+ <p>{{ specialissue.journal }}</p>
  </div>
 </div>
 
