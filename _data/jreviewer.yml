@@ -46,6 +46,10 @@
   url: https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation
   type: 'Journal'
 
+- name: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
+  url: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334
+  type: 'Journal'
+  
 - name: 'Transactions in GIS'
   url: https://onlinelibrary.wiley.com/journal/14679671
   type: 'Journal'
