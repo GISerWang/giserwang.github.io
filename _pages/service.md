@@ -22,6 +22,24 @@ permalink: service
 
 ### Guest Editor
 
+{% for publi in site.data.reppublist %}
+
+<div class="col-sm-12 clearfix">
+ <div class="well">
+ <pubtit>{{ publi.title }}</pubtit>
+
+ <p>{{ publi.description }}</p>
+
+ <p><em>{{ publi.authors }}</em></p>
+
+ <p>{{ publi.venue }}</p>
+ 
+ <p>{{ publi.name }}</p>
+ 
+ </div>
+</div>
+
+{% endfor %}
 
 ### Journal Reviewer
 
