@@ -193,6 +193,15 @@ CV was last updated on 2023.5.07. <br>
 </ul>
 
 #### **Academic Service**
+<ul>
+    <li><strong>Guest Editor</strong></li>
+	<ul>
+	{% for journal  in site.data.jreviewer limit:5 %}
+		<li> <a href="{{journal.url}}" target="_blank" >{{journal.name}}</a> </li>
+	{% endfor %}
+	    <li> <a href="{{ site.url }}{{ site.baseurl }}/service" class="btn-xs btn-success">See All Special Issues</a> </li>
+	</ul>
+</ul>
 
 <ul>
     <li><strong>Journal Reviewer</strong></li>
