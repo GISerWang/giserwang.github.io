@@ -1,0 +1,41 @@
+
+- title: 'Urban traffic flow prediction: a dynamic temporal graph network considering missing values'
+  DOI: 'DOI: 10.1080/13658816.2022.2146120'
+  REF: '<strong>Peixiao Wang</strong>, Yan Zhang, et al. Urban traffic flow prediction: a dynamic temporal graph network considering missing values[J]. <strong>International Journal of Geographical Information Science</strong>, 2023, 37(4):885-912. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7</strong>)'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  Online: https://doi.org/10.1080/13658816.2022.2146120
+  URL: https://giserwang.github.io/papers/IJGIS-2023-04.pdf
+
+- title: 'A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction'
+  DOI: 'DOI: 10.11947/j.AGCS.2023.20220021'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  REF: '<strong>Peixiao Wang</strong> , Tong Zhang, Shichao Nie, el at. A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction[J]. <strong>Acta Geodaetica et Cartographica Sinica&#58; 测绘学报</strong>, 2023,52(5): 818-830 (in Chinese). (<strong>EI, GSC Rank T1</strong>) '
+  Online: http://xb.chinasmp.com/CN/10.11947/j.AGCS.2023.20220021
+  URL: https://giserwang.github.io/papers/CHXB-2022-09.pdf
+
+- title: 'Physics-informed Machine Learning and Its Research Prospects in GeoAI'
+  DOI: 'DOI: 10.12082/dqxxkx.2023.220795'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  Online: https://doi.org/10.12082/dqxxkx.2023.220795
+  REF: 'Tong Zhang, Renyu Liu, <strong>Peixiao Wang</strong> , et al. Physics-informed Machine Learning and Its Research Prospects in GeoAI[J]. <strong>Geo-Information Science &#58; 地球信息科学学报</strong>, 2023,25(7):1297-1311. (in Chinese). (<strong>EI, GSC Rank T2</strong>)'
+  URL: https://giserwang.github.io/papers/DQXXKX-2023-05.pdf
+
+- title: 'Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks'
+  DOI: 'DOI: 10.1109/TGRS.2023.3281784'
+  Year: 2023
+  TYPE: 'Journal Paper'
+  Online: https://doi.org/10.1109/TGRS.2023.3281784
+  REF: 'Jie Liu, Tong Zhang, Chulin Gao, and <strong>Peixiao Wang</strong>. Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks[J]. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2023, 61:1-13, Art no. 5911413. (<strong>SCI, JCR Q1, GSC Rank T1, IF=8.2</strong>) '
+  URL: https://giserwang.github.io/papers/TGRS-2023-05.pdf
+
+- title: 'DeepIndoorCrowd: Predicting crowd flow in indoor shopping malls with an interpretable transformer network'
+  DOI: 'DOI: 10.1111/tgis.13095'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  Online: https://doi.org/10.1111/tgis.13095
+  REF: 'Chen Chu, Hengcai Zhang*,  <strong>Peixiao Wang</strong>, Feng Lu. DeepIndoorCrowd: Predicting crowd flow in indoor shopping malls with an interpretable transformer network[J]. <strong>Transactions in GIS</strong>, 2023, 27(6): 1699-1723. (<strong>SSCI, JCR Q2, GSC Rank T2, IF=2.4</strong>)'
+  URL: https://giserwang.github.io/papers/TGIS-2023-08.pdf
+  
