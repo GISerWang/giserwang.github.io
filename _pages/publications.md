@@ -73,7 +73,6 @@ permalink: /publications
 ##  All Publications
 <div class="col-sm-12 clearfix">
  <div class="well well-sm">
-   <p style="font-weight:bold;">2019：</p>
    {% for publi in site.data.publist_2019 %}
       <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
