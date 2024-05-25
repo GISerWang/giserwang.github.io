@@ -1,1 +1,25 @@
-1
+- title: 'Predicting Indoor Location based on a Hybrid Markov-LSTM Model'
+  DOI: 'DOI: 10.1007/978-3-030-60952-8_4'
+  TYPE: 'Conference Paper'
+  Year: 2020
+  Online: https://doi.org/10.1007/978-3-030-60952-8_4
+  REF: '<strong>Peixiao Wang</strong>, Sheng Wu, and Hengcai Zhang. Predicting Indoor Location based on a Hybrid Markov-LSTM Model[C]. //<strong>The 18th International Symposium on Web and Wireless Geographical Information Systems</strong>,Springer,2020:33-38. (<strong>EI</strong>) '
+  URL: https://giserwang.github.io/papers/W2GIS-2020-03.pdf
+   
+
+- title: 'Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data'
+  DOI: 'DOI: 10.3390/s20185078'
+  TYPE: 'Journal Paper'
+  Year: 2020
+  Online: https://doi.org/10.3390/s20185078
+  REF: '<strong>Peixiao Wang</strong>, Fei Gao, Yuhui Zhao, el at. Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data[J]. <strong>Sensors</strong>, 2020, 20(18): 5078. (<strong>SCI, JCR Q2, IF=3.9</strong>) '
+  URL: https://giserwang.github.io/papers/Sensors-2020-09.pdf
+  
+
+- title: 'Building an Open Resources Repository for COVID-19 Research'
+  DOI: 'DOI: 10.2478/dim-2020-0012'
+  Online: https://doi.org/10.2478/dim-2020-0012
+  TYPE: 'Journal Paper'
+  Year: 2020
+  REF: 'Tao Hu, Weihe Wendy Guan, Xinyan Zhu, Yuanzheng Shao, Lingbo Liu, Jing Du, Hongqiang Liu, Huan Zhou, Jialei Wang, Bing She, Luyao Zhang, Zhibin Li, <strong>Peixiao Wang</strong>, el at. Building an Open Resources Repository for COVID-19 Research[J]. <strong>Data and Information Management</strong>, 2020,4(3):130-147.'
+  URL: https://giserwang.github.io/papers/DIM-2020-06.pdf
