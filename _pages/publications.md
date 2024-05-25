@@ -73,6 +73,15 @@ permalink: /publications
 ##  All Publications
 <div class="col-sm-12 clearfix">
  <div class="well well-sm">
+  <p style="color: red; font-weight: bold;">2021:</p>
+  {% for publi in site.data.publist_2021 %}
+   <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
+   {% endfor %}
+  
+  <p style="color: red; font-weight: bold;">2020:</p>
+  {% for publi in site.data.publist_2020 %}
+   <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
+   {% endfor %}
   
   <p style="color: red; font-weight: bold;">2019:</p>
   {% for publi in site.data.publist_2019 %}
