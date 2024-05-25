@@ -1,0 +1,247 @@
+- title: 'A multi-view bidirectional spatiotemporal graph network for urban traffic flow imputation'
+  DOI: 'DOI: 10.1080/13658816.2022.2032081'
+  REF: '<strong>Peixiao Wang</strong>, Tong Zhang, et al. A multi-view bidirectional spatiotemporal graph network for urban traffic flow imputation[J]. <strong>International Journal of Geographical Information Science</strong>, 2022, 36(6):1231-1257. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7</strong>)'
+  Year: 2022
+  TYPE: 'Journal Paper'
+  Online: https://doi.org/10.1080/13658816.2022.2032081
+  URL: https://giserwang.github.io/papers/IJGIS-2022-06.pdf
+
+- title: 'Urban traffic flow prediction: a dynamic temporal graph network considering missing values'
+  DOI: 'DOI: 10.1080/13658816.2022.2146120'
+  REF: '<strong>Peixiao Wang</strong>, Yan Zhang, et al. Urban traffic flow prediction: a dynamic temporal graph network considering missing values[J]. <strong>International Journal of Geographical Information Science</strong>, 2023, 37(4):885-912. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7</strong>)'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  Online: https://doi.org/10.1080/13658816.2022.2146120
+  URL: https://giserwang.github.io/papers/IJGIS-2023-04.pdf
+
+- title: 'Adding attention to the neural ordinary differential equation for spatio-temporal prediction'
+  DOI: 'DOI: In Production'
+  REF: '<strong>Peixiao Wang</strong>, Tong Zhang, et al. Adding attention to the neural ordinary differential equation for spatio-temporal prediction[J]. <strong>International Journal of Geographical Information Science</strong>, 2024, 38(1):156-181. (<strong>SSCI/SCI, JCR Q1, GSC Rank T1, IF=5.7</strong>)'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  Online: http://dx.doi.org/10.1080/13658816.2023.2275160
+  URL: https://giserwang.github.io/papers/IJGIS-2023-10.pdf
+
+- title: 'A lightweight spatiotemporal graph dilated convolutional network for urban sensor state prediction'
+  DOI: 'DOI: 10.1016/j.scs.2023.105105'
+  REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang, et al. A lightweight spatiotemporal graph dilated convolutional network for urban sensor state prediction[J]. <strong>Sustainable Cities and Society</strong>, 2024, 101:105105. (<strong>SCI, JCR Q1, ASC Rank T1, IF=11.7</strong>)'
+  TYPE: 'Journal Paper'
+  Year: 2024
+  Online: https://doi.org/10.1016/j.scs.2023.105105
+  URL: https://giserwang.github.io/papers/SCSI-2023-12.pdf
+
+- title: 'A Hybrid Data-Driven Framework for Spatiotemporal Traffic Flow Data Imputation'
+  DOI: 'DOI: 10.1109/JIOT.2022.3151238'
+  TYPE: 'Journal Paper'
+  Year: 2022
+  REF: '<strong>Peixiao Wang</strong>, Tao Hu, Fei Gao, Ruijie Wu, et al. A Hybrid Data-Driven Framework for Spatiotemporal Traffic Flow Data Imputation[J]. <strong>IEEE Internet of Things Journal</strong>, 2022, 9(17):16343-16352. (<strong>SCI, JCR Q1, CIC Rank T, IF=10.7</strong>)'
+  Online: https://doi.org/10.1109/JIOT.2022.3151238
+  URL: https://giserwang.github.io/papers/IOTJ-2022-09.pdf
+  
+- title: 'Exploring the impact of under-reported cases on the COVID-19 spatiotemporal distributions using healthcare workers infection data'
+  DOI: 'DOI: 10.1016/j.cities.2022.103593'
+  TYPE: 'Journal Paper'
+  Year: 2022
+  Online: https://doi.org/10.1016/j.cities.2022.103593
+  REF: '<strong>Peixiao Wang</strong>, Tao Hu, Hongqiang Liu, et al. Exploring the impact of under-reported cases on the COVID-19 spatiotemporal distributions using healthcare workers infection data. <strong>Cities</strong>, 2022, 123:103593.(<strong>SSCI, JCR Q1, GSC Rank T1, IF=6.7</strong>)'
+  URL: https://giserwang.github.io/papers/Cities-2022-04.pdf
+  
+- title: 'Spatiotemporal characteristics and factor analysis of SARS-CoV-2 infections among healthcare workers in Wuhan, China'
+  DOI: 'DOI: 10.1016/j.jhin.2021.02.002'
+  TYPE: 'Journal Paper'
+  Year: 2021
+  REF: '<strong>Peixiao Wang</strong>, Hui Ren, Xinyan Zhu, et al. Spatiotemporal Characteristics and Factor Analysis of SARS-CoV-2 Infections among Healthcare Workers in Wuhan, China[J].<strong>Journal of Hospital Infection </strong>, 2021, 110: 172-177. (<strong>SCI, JCR Q1, IF=6.9</strong>)'
+  Online: https://doi.org/10.1016/j.jhin.2021.02.002
+  URL: https://giserwang.github.io/papers/JHI-2021-02.pdf
+
+- title: 'Traffic condition estimation and data quality assessment for signalized road networks using massive vehicle trajectories'
+  DOI: 'DOI: 10.1007/s12652-022-03892-z'
+  TYPE: 'Journal Paper'
+  Year: 2024
+  REF: '<strong>Peixiao Wang</strong> , Tong Zhang*, and Tao Hu. Traffic condition estimation and data quality assessment for signalized road networks using massive vehicle trajectories[J].<strong>Journal of Ambient Intelligence and Humanized Computing</strong>,2024, 15(1):305–322.(<strong>SCI/EI, JCR Q2, IF=3.662</strong>)'
+  Online: https://doi.org/10.1007/s12652-022-03892-z
+  URL: https://giserwang.github.io/papers/JAIHC-2022-07.pdf
+  
+- title: 'A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction'
+  DOI: 'DOI: 10.11947/j.AGCS.2023.20220021'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  REF: '<strong>Peixiao Wang</strong> , Tong Zhang, Shichao Nie, el at. A Causal Graph Convolutional Network Considering Missing Values for Spatiotemporal Prediction[J]. <strong>Acta Geodaetica et Cartographica Sinica&#58; 测绘学报</strong>, 2023,52(5): 818-830 (in Chinese). (<strong>EI, GSC Rank T1</strong>) '
+  Online: http://xb.chinasmp.com/CN/10.11947/j.AGCS.2023.20220021
+  URL: https://giserwang.github.io/papers/CHXB-2022-09.pdf
+
+- title: 'Spatial-temporal clustering by fast search and find of density peak'
+  DOI: 'DOI: 10.11947/j.AGCS.2019.20180538'
+  TYPE: 'Journal Paper'
+  Year: 2019
+  REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang, Haibo Wang, el at. Spatial-temporal clustering by fast search and find of density peak[J]. <strong>Acta Geodaetica et Cartographica Sinica&#58; 测绘学报</strong>, 2019,48(11):1380-1390 (in Chinese). (<strong>EI, GSC Rank T1</strong>) '
+  Online: http://xb.chinasmp.com/CN/10.11947/j.AGCS.2019.20180538
+  URL: https://giserwang.github.io/papers/CHXB-2019-11.pdf
+
+- title: 'An attentional ordinary differential equation for predicting PM2.5 concentration and its interpretability analysis'
+  DOI: 'DOI: 10.12082/dqxxkx.2024.230678'
+  Year: 2024
+  TYPE: 'Journal Paper'
+  REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang, Tong Zhang, Feng Lu. An attentional ordinary differential equation for predicting PM2.5 concentration and its interpretability analysis[J]. <strong>Geo-Information Science &#58;  地球信息科学学报</strong>, 2024, DOI: 10.12082/dqxxkx.2024.230678 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
+  Online: http://doi.org/10.12082/dqxxkx.2024.230678
+  URL: https://giserwang.github.io/papers/DQXXKX-2023-11.pdf
+  
+- title: 'A Method for Identifying Spatial and Temporal Aggregation Area of Indoor Crowd'
+  DOI: 'DOI: 10.13203/j.whugis20190228'
+  TYPE: 'Journal Paper'
+  Year: 2021
+  REF: '<strong>Peixiao Wang</strong>, Sheng Wu, Hengcai Zhang, el at. A Method for Identifying Spatial and Temporal Aggregation Area of Indoor Crowd[J]. <strong>Geomatics and Information Science of Wuhan University&#58; 武汉大学学报信息科学版</strong>, 2021,46(5):790-798 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
+  Online: https://doi.org/10.13203/j.whugis20190228
+  URL: https://giserwang.github.io/papers/WDXB-2021-05.pdf
+
+- title: 'Indoor Location Prediction Method for Shopping Malls Based on Location Sequence Similarity'
+  DOI: 'DOI: 10.3390/ijgi8110517'
+  TYPE: 'Journal Paper'
+  Year: 2019
+  Online: https://doi.org/10.3390/ijgi8110517
+  REF: '<strong>Peixiao Wang</strong>, Sheng Wu, Hengcai Zhang, el at. Indoor Location Prediction Method for Shopping Malls Based on Location Sequence Similarity[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2019,8(11):517. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.4</strong>) '
+  URL: https://giserwang.github.io/papers/IJGI-2019-11.pdf
+
+- title: 'Predicting Indoor Location based on a Hybrid Markov-LSTM Model'
+  DOI: 'DOI: 10.1007/978-3-030-60952-8_4'
+  TYPE: 'Conference Paper'
+  Year: 2020
+  Online: https://doi.org/10.1007/978-3-030-60952-8_4
+  REF: '<strong>Peixiao Wang</strong>, Sheng Wu, and Hengcai Zhang. Predicting Indoor Location based on a Hybrid Markov-LSTM Model[C]. //<strong>The 18th International Symposium on Web and Wireless Geographical Information Systems</strong>,Springer,2020:33-38. (<strong>EI</strong>) '
+  URL: https://giserwang.github.io/papers/W2GIS-2020-03.pdf
+   
+- title: 'Research on Semantic Location Prediction of Indoor Users'
+  DOI: 'DOI: 10.12082/dqxxkx.2018.180411'
+  TYPE: 'Journal Paper'
+  Year: 2018
+  Online: http://www.dqxxkx.cn/CN/10.12082/dqxxkx.2018.180411
+  REF: '<strong>Peixiao Wang</strong>, Haibo Wang, Mengying Fu, el at. Research on Semantic Location Prediction of Indoor Users[J]. <strong>Geo-Information Science &#58;  地球信息科学学报</strong>, 2018, 20(12): 1689-1698 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
+  URL: https://giserwang.github.io/papers/DQXXKX-2018-12.pdf
+
+- title: 'Spatiotemporal Differences of COVID-19 Infection Among Healthcare Workers and Patients in China From January to March 2020'
+  DOI: 'DOI: 10.1109/ACCESS.2021.3058155'
+  TYPE: 'Journal Paper'
+  Year: 2021
+  Online: https://doi.org/10.1109/ACCESS.2021.3058155
+  REF: '<strong>Peixiao Wang</strong>, Xinyan Zhu, Wei Guo, el at. Spatiotemporal Differences of COVID-19 Infection Among Healthcare Workers and Patients in China From January to March 2020[J]. <strong>IEEE Access</strong>, 2021,9:28646-28657. (<strong>SCI, JCR Q2, IF=3.9</strong>) '
+  URL: https://giserwang.github.io/papers/Access-2021-02.pdf
+  
+- title: 'Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data'
+  DOI: 'DOI: 10.3390/s20185078'
+  TYPE: 'Journal Paper'
+  Year: 2020
+  Online: https://doi.org/10.3390/s20185078
+  REF: '<strong>Peixiao Wang</strong>, Fei Gao, Yuhui Zhao, el at. Detection of Indoor High-Density Crowds via Wi-Fi Tracking Data[J]. <strong>Sensors</strong>, 2020, 20(18): 5078. (<strong>SCI, JCR Q2, IF=3.9</strong>) '
+  URL: https://giserwang.github.io/papers/Sensors-2020-09.pdf
+  
+- title: 'A Hybrid Markov and LSTM Model for Indoor Location Prediction'
+  DOI: 'DOI: 10.1109/ACCESS.2019.2961559'
+  TYPE: 'Journal Paper'
+  Year: 2019
+  Online: https://doi.org/10.1109/ACCESS.2019.2961559
+  REF: '<strong>Peixiao Wang</strong>, Hongen Wang, Hengcai Zhang, el at. A Hybrid Markov and LSTM Model for Indoor Location Prediction[J]. <strong>IEEE Access</strong>, 2019,7:185928-185940. (<strong>SCI, JCR Q2, IF=3.9</strong>) '
+  URL: https://giserwang.github.io/papers/Access-2019-12.pdf
+  
+- title: 'Physics-informed Machine Learning and Its Research Prospects in GeoAI'
+  DOI: 'DOI: 10.12082/dqxxkx.2023.220795'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  Online: https://doi.org/10.12082/dqxxkx.2023.220795
+  REF: 'Tong Zhang, Renyu Liu, <strong>Peixiao Wang</strong> , et al. Physics-informed Machine Learning and Its Research Prospects in GeoAI[J]. <strong>Geo-Information Science &#58; 地球信息科学学报</strong>, 2023,25(7):1297-1311. (in Chinese). (<strong>EI, GSC Rank T2</strong>)'
+  URL: https://giserwang.github.io/papers/DQXXKX-2023-05.pdf
+
+- title: 'Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks'
+  DOI: 'DOI: 10.1109/TGRS.2023.3281784'
+  Year: 2023
+  TYPE: 'Journal Paper'
+  Online: https://doi.org/10.1109/TGRS.2023.3281784
+  REF: 'Jie Liu, Tong Zhang, Chulin Gao, and <strong>Peixiao Wang</strong>. Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks[J]. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2023, 61:1-13, Art no. 5911413. (<strong>SCI, JCR Q1, GSC Rank T1, IF=8.2</strong>) '
+  URL: https://giserwang.github.io/papers/TGRS-2023-05.pdf
+
+- title: 'Human mobility data in the COVID-19 pandemic: characteristics, applications, and challenges'
+  DOI: 'DOI: 10.1080/17538947.2021.1952324'
+  TYPE: 'Journal Paper'
+  Year: 2021
+  Online: https://doi.org/10.1080/17538947.2021.1952324
+  REF: 'Tao Hu, Siqin Wang, Bing She, Mengxi Zhang, Xiao Huang, Yunhe Cui, Jacob Khuri, Yaxin Hu, Xiaokang Fu, Xiaoyue Wang, <strong>Peixiao Wang</strong>, el at.Human mobility data in the COVID-19 pandemic: characteristics, applications, and challenges[J]. <strong>International Journal of Digital Earth</strong>,2021,14(9):1126-1147. (<strong>SCI, JCR Q1, GSC Rank T1, IF=5.1</strong>)'
+  URL: https://giserwang.github.io/papers/IJDE-2021-07.pdf
+  
+- title: 'Exploring the Spatiotemporal Characteristics of COVID-19 Infections among Healthcare Workers: A Multi-Scale Perspective'
+  DOI: 'DOI: 10.3390/ijgi10100691'
+  TYPE: 'Journal Paper'
+  Year: 2021
+  Online: https://doi.org/10.3390/ijgi10100691
+  REF: 'Hui Ren, <strong>Peixiao Wang</strong> , Wei Guo, el at.Exploring the Spatiotemporal Characteristics of COVID-19 Infections among Healthcare Workers: A Multi-Scale Perspective[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2021,10(10):691. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.4</strong>)'
+  URL: https://giserwang.github.io/papers/IJGI-2021-10.pdf
+
+- title: 'DeepIndoorCrowd: Predicting crowd flow in indoor shopping malls with an interpretable transformer network'
+  DOI: 'DOI: 10.1111/tgis.13095'
+  TYPE: 'Journal Paper'
+  Year: 2023
+  Online: https://doi.org/10.1111/tgis.13095
+  REF: 'Chen Chu, Hengcai Zhang*,  <strong>Peixiao Wang</strong>, Feng Lu. DeepIndoorCrowd: Predicting crowd flow in indoor shopping malls with an interpretable transformer network[J]. <strong>Transactions in GIS</strong>, 2023, 27(6): 1699-1723. (<strong>SSCI, JCR Q2, GSC Rank T2, IF=2.4</strong>)'
+  URL: https://giserwang.github.io/papers/TGIS-2023-08.pdf
+  
+- title: 'Automatic Construction of Indoor 3D Navigation Graph from Crowdsourcing Trajectories'
+  DOI: 'DOI: 10.3390/ijgi10030146'
+  TYPE: 'Journal Paper'
+  Year: 2021
+  Online: https://doi.org/10.3390/ijgi10030146
+  REF: 'Xin Fu, Hengcai Zhang*, and <strong>Peixiao Wang</strong>. Automatic Construction of Indoor 3D Navigation Graph from Crowdsourcing Trajectories[J]. <strong>ISPRS International Journal of Geo-Information</strong>, 2021,10(3):146. (<strong>SCI, JCR Q2, GSC Rank T3, IF=3.4</strong>)'
+  URL: https://giserwang.github.io/papers/IJGI-2021-03.pdf
+
+- title: 'Prior-Guided Gated Convolutional Networks for Rainstorm Forecasting'
+  DOI: 'DOI: 10.1016/j.jhydrol.2024.130962'
+  TYPE: 'Journal Paper'
+  Year: 2024
+  Online: https://doi.org/10.1016/j.jhydrol.2024.130962
+  REF: 'Tong Zhang, Jie Liu, Chulin Gao,  <strong>Peixiao Wang</strong>, el at. Prior-Guided Gated Convolutional Networks for Rainstorm Forecasting[J]. <strong>Journal of Hydrology</strong>, 2024. 633: 130962. (<strong>SCI, JCR Q1, IF=6.4</strong>)'
+  URL: https://giserwang.github.io/papers/JH-2024-02.pdf
+
+- title: 'Impact of the Russia-Ukraine Conflict on Global Marine Network Based on Massive Vessel Trajectories'
+  DOI: 'DOI: 10.3390/rs16081329'
+  TYPE: 'Journal Paper'
+  Year: 2024
+  Online: https://doi.org/10.3390/rs16081329
+  REF: 'Lin Cong, Hengcai Zhang, <strong>Peixiao Wang</strong>, el at. Impact of the Russia-Ukraine Conflict on Global Marine Network Based on Massive Vessel Trajectories[J]. <strong>Remote Sensing</strong>, 2024. 16(8): 1329. (<strong>SCI, JCR Q1, IF=5.0</strong>)'
+  URL: https://giserwang.github.io/papers/RS-2024-04.pdf
+
+- title: 'Inferring freeway traffic volume with spatial interaction enhanced betweenness centrality'
+  DOI: 'DOI: 10.1016/j.jag.2024.103818'
+  TYPE: 'Journal Paper'
+  Year: 2024
+  Online: https://doi.org/10.1016/j.jag.2024.103818
+  REF: 'Beibei Zhang, Shifen Cheng, <strong>Peixiao Wang</strong>,  Feng Lu. Inferring freeway traffic volume with spatial interaction enhanced betweenness centrality[J]. <strong>International Journal of Applied Earth Observation and Geoinformation</strong>, 2024. 129: 103818. (<strong>SCI, JCR Q1, IF=7.5</strong>)'
+  URL: https://giserwang.github.io/papers/JAG-2024-04.pdf
+  
+- title: 'A deep marked graph process model for citywide traffic congestion forecasting'
+  DOI: 'DOI: 10.1111/mice.13131'
+  TYPE: 'Journal Paper'
+  Year: 2024
+  Online: https://doi.org/10.1111/mice.13131
+  REF: 'Tong Zhang, Jianlong Wang, Tong Wang, Yiwei Pang, <strong>Peixiao Wang</strong>, el at. A deep marked graph process model for citywide traffic congestion forecasting[J]. <strong>Computer-Aided Civil and Infrastructure Engineering</strong>, 2024, 39(8):1180-1196. (<strong>SCI, JCR Q1, ASC Rank T1, IF=9.6</strong>)'
+  URL: https://giserwang.github.io/papers/CACAIE-2023-11.pdf
+
+- title: 'A Crowdsourcing Method for Indoor Navigation Network'
+  DOI: 'DOI: XXXX'
+  TYPE: 'Journal Paper'
+  Year: 2019
+  Online: https://kns.cnki.net/kcms/detail/41.1385.P.20190722.0941.038.html
+  REF: 'Mengying Fu, <strong>Peixiao Wang</strong>, Hengcai Zhang, el at. A Crowdsourcing Method for Indoor Navigation Network[J]. <strong>Journal of Geomatics Science and Technology &#58;  测绘科学技术学报</strong>, 2019, 36(01): 100-104 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
+  URL: https://giserwang.github.io/papers/CHKXJS-2019-01.pdf
+
+- title: 'A Method for Constructing Indoor Navigation Networks based on Moving Object Trajectory'
+  DOI: 'DOI: 10.12082/dqxxkx.2019.190024'
+  Year: 2019
+  Online: http://www.dqxxkx.cn/CN/10.12082/dqxxkx.2019.190024
+  TYPE: 'Journal Paper'
+  REF: 'Mengying Fu, Hengcai Zhang, <strong>Peixiao Wang</strong>, el at. A Method for Constructing Indoor Navigation Networks based on Moving Object Trajectory[J]. <strong>Geo-Information Science &#58;  地球信息科学学报</strong>, 2019, 21(5): 631-640 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
+  URL: https://giserwang.github.io/papers/DQXXKX-2019-03.pdf
+  
+- title: 'Building an Open Resources Repository for COVID-19 Research'
+  DOI: 'DOI: 10.2478/dim-2020-0012'
+  Online: https://doi.org/10.2478/dim-2020-0012
+  TYPE: 'Journal Paper'
+  Year: 2020
+  REF: 'Tao Hu, Weihe Wendy Guan, Xinyan Zhu, Yuanzheng Shao, Lingbo Liu, Jing Du, Hongqiang Liu, Huan Zhou, Jialei Wang, Bing She, Luyao Zhang, Zhibin Li, <strong>Peixiao Wang</strong>, el at. Building an Open Resources Repository for COVID-19 Research[J]. <strong>Data and Information Management</strong>, 2020,4(3):130-147.'
+  URL: https://giserwang.github.io/papers/DIM-2020-06.pdf
