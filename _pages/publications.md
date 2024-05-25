@@ -74,7 +74,7 @@ permalink: /publications
 <div class="col-sm-12 clearfix">
  <div class="well well-sm">
    {% for years in site.data.publist_years %}
-      <strong>{{years.year}}</strong>
+      <p style="font-weight: bold;">{{years.year}}: </p>
       {% for publi in site.data.publist_{{years.year}} %}
       <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
       {% endfor %}
