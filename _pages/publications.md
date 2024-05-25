@@ -73,11 +73,9 @@ permalink: /publications
 ##  All Publications
 <div class="col-sm-12 clearfix">
  <div class="well well-sm">
-   {% for years in site.data.publist_years %}
-      <p style="font-weight: bold;">{{years.year}}: </p>
-      {% for publi in site.data.publist_{{years.year}} %}
+   <p style="font-weight: bold;">2024: </p>
+   {% for publi in site.data.publist_2019 %}
       <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
-      {% endfor %}
    {% endfor %}
   <p><font color="red"><strong>Note:</strong>The Geographical Society of China (GSC), China Institute of Communications (CIC), Architectural Society of China (ASC), Journal Citation Reports (JCR)</font></p>
  </div>
