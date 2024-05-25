@@ -24,7 +24,7 @@ permalink: service
 
 {% for specialissue in site.data.guesteditor %}
 
-<a href="{{specialissue.url}}" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ specialissue.image }}" width="12%"  /></a>
+<a href="{{specialissue.url}}" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/specialissues/{{ specialissue.image }}" width="12%"  /></a>
 
 * <strong><a href="{{specialissue.siurl}}" target="_blank">{{specialissue.name}}</a><strong>
     - <strong>Journal Name</strong>: {{specialissue.journal}}
