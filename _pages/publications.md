@@ -5,7 +5,7 @@ excerpt: "Peixiao Wang -- Publications."
 sitemap: false
 permalink: /publications
 ---
-## Representative Publications
+## Representative Publications (Up to Five)
 {% for publi in site.data.reppublist %}
 
 <div class="col-sm-12 clearfix">
