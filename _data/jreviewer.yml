@@ -17,6 +17,14 @@
 - name: 'IEEE Transactions on Intelligent Transportation Systems'
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979
   type: 'Journal'
+
+- name: 'Cities'
+  url: https://www.sciencedirect.com/journal/cities
+  type: 'Journal'
+
+- name: 'Journal of Transport Geography'
+  url: https://www.sciencedirect.com/journal/journal-of-transport-geography
+  type: 'Journal'
   
 - name: 'The Innovation'
   url: https://www.cell.com/the-innovation/home
