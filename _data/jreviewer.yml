@@ -66,6 +66,10 @@
   url: https://www.sciencedirect.com/journal/future-generation-computer-systems
   type: 'Journal'
 
+- name: 'Journal of Cleaner Production'
+  url: https://www.sciencedirect.com/journal/journal-of-cleaner-production
+  type: 'Journal'
+
 - name: 'Science of the Total Environment'
   url: https://www.sciencedirect.com/journal/science-of-the-total-environment
   type: 'Journal'
