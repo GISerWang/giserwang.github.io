@@ -31,7 +31,14 @@
   REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang, Tong Zhang, Feng Lu. An attentional ordinary differential equation for predicting PM2.5 concentration and its interpretability analysis[J]. <strong>Geo-Information Science &#58;  地球信息科学学报</strong>, 2024, 26(6):1363-1373 (in Chinese). (<strong>EI, GSC Rank T2</strong>) '
   Online: http://doi.org/10.12082/dqxxkx.2024.230678
   URL: https://giserwang.github.io/papers/DQXXKX-2023-11.pdf
-  
+
+- title: 'Predicting Future Spatio-Temporal States Using a Robust Causal Graph Attention Model'
+  DOI: 'DOI: 10.1007/978-981-97-2966-1_18'
+  Year: 2024
+  TYPE: 'Conference Paper'
+  REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang, Feng Lu. Predicting Future Spatio-Temporal States Using a Robust Causal Graph Attention Model[C]. <strong>Spatial Data and Intelligence</strong>, Singapore: Springer Nature, 2024: 242-251. (<strong>EI</strong>) '
+  Online: http://doi.org/10.1007/978-981-97-2966-1_18
+  URL: https://giserwang.github.io/papers/SpatialDI-2024-05.pdf
 
 - title: 'Prior-Guided Gated Convolutional Networks for Rainstorm Forecasting'
   DOI: 'DOI: 10.1016/j.jhydrol.2024.130962'
