@@ -29,7 +29,11 @@
 - name: 'The Innovation'
   url: https://www.cell.com/the-innovation/home
   type: 'Journal'
-
+  
+- name: 'Pattern Recognition'
+  url: https://www.sciencedirect.com/journal/pattern-recognition
+  type: 'Journal'
+  
 - name: 'Transportation Research Part A : Policy and Practice'
   url: https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice
   type: 'Journal'
