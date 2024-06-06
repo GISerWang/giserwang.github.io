@@ -54,6 +54,10 @@
   url: https://www.sciencedirect.com/journal/building-and-environment
   type: 'Journal'
 
+- name: 'Knowledge-Based Systems'
+  url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  type: 'Journal'
+  
 - name: 'International Journal of Applied Earth Observation and Geoinformation'
   url: https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation
   type: 'Journal'
