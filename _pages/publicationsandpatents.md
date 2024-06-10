@@ -112,7 +112,7 @@ permalink: /publicationsandpatents
  </div>
 </div>
 
-##  Patents
+##  All Patents
 <div class="col-sm-12 clearfix">
  <div class="well well-sm">
   {% for publi in site.data.patents %}
