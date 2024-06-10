@@ -112,6 +112,17 @@ permalink: /publicationsandpatents
  </div>
 </div>
 
+##  Patents
+<div class="col-sm-12 clearfix">
+ <div class="well well-sm">
+  {% for publi in site.data.patents %}
+   <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
+   {% endfor %}
+ </div>
+</div>
+
+
+
 
 <p> &nbsp; </p>
 
