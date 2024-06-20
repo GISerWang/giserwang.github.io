@@ -148,7 +148,7 @@ CV was last updated on 2024.6.10. <br>
 	{% for pprogram in site.data.pprograms limit:4 %}
 		<li> {{pprogram.type}}:{{pprogram.name}}, {{pprogram.span}}, {{pprogram.role}}.</li>
 	{% endfor %}
-		<li> <a href="{{ site.url }}{{ site.baseurl }}/ProgramsAndHonors" class="btn-xs btn-success">See All Programs</a> </li>
+		<li> <a href="{{ site.url }}{{ site.baseurl }}/programsandhonors" class="btn-xs btn-success">See All Programs</a> </li>
 	</ul>
 </ul>
 
@@ -158,7 +158,7 @@ CV was last updated on 2024.6.10. <br>
     {% for cprogram  in site.data.cprograms limit:4 %}
 		<li> {{cprogram.type}}: {{cprogram.name}}, {{cprogram.span}}, {{cprogram.role}}.</li>
 	{% endfor %}
-		<li> <a href="{{ site.url }}{{ site.baseurl }}/ProgramsAndHonors" class="btn-xs btn-success">See All Programs</a> </li>
+		<li> <a href="{{ site.url }}{{ site.baseurl }}/programsandhonors" class="btn-xs btn-success">See All Programs</a> </li>
 	</ul>
 </ul>
 
