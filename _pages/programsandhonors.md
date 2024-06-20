@@ -3,7 +3,7 @@ title: "Peixiao Wang (王培晓) - Gallery"
 layout: gridlay
 excerpt: "Peixiao Wang"
 sitemap: false
-permalink: /ProgramsAndHonors
+permalink: /programsandhonors
 ---
 
 <div class="col-sm-4" align="right" style="display:table-cell; vertical-align:middle; text-align:center">
