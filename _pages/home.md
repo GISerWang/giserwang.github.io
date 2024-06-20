@@ -134,7 +134,7 @@ CV was last updated on 2024.6.10. <br>
 
 <br clear="all"/>
 
-#### <a href="{{ site.url }}{{ site.baseurl }}/publications" class="btn-xs btn-success">See All Publications</a>
+#### <a href="{{ site.url }}{{ site.baseurl }}/publicationsandpatents" class="btn-xs btn-success">See All Publications</a>
 
 <!-- #### <a href="#top" class="btn-xs btn-primary">Go Back to Top</a> -->
 
