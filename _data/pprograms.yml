@@ -1,3 +1,12 @@
+- name: '<em>Prediction modeling and explainability analysis of prior-informed missing-data-tolerant spatiotemporal graph networks</em>'
+  type: 'National Natural Science Foundation of China'
+  role: '<font color="red">Principle Investigator: 主持</font>'
+  grant: '42401524'
+  fundingamount: 'CNY 300000'
+  sponsor: 'National Natural Science Foundation of China'
+  status: '<strong>Program in Progress</strong>'
+  span: 2025.01 - now
+
 - name: '<em>A geography-aware spatiotemporal ordinary differential equation for continuous spatiotemporal prediction</em>'
   type: 'China National Postdoctoral Support Program for Innovative Talents'
   role: '<font color="red">Principle Investigator: 主持</font>'
