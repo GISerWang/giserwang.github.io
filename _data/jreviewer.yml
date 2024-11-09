@@ -29,7 +29,11 @@
 - name: 'Journal of Transport Geography'
   url: https://www.sciencedirect.com/journal/journal-of-transport-geography
   type: 'Journal'
-  
+
+- name: 'Applied Geography'
+  url: https://www.journals.elsevier.com/applied-geography/
+  type: 'Journal'
+
 - name: 'The Innovation'
   url: https://www.cell.com/the-innovation/home
   type: 'Journal'
