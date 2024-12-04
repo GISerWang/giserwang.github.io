@@ -29,7 +29,6 @@
   REF: '<strong>Peixiao Wang</strong> , Tong Zhang*, and Tao Hu. Traffic condition estimation and data quality assessment for signalized road networks using massive vehicle trajectories[J].<strong>Journal of Ambient Intelligence and Humanized Computing</strong>,2024, 15(1):305–322.(<strong>EI</strong>)'
   Online: https://doi.org/10.1007/s12652-022-03892-z
   URL: https://giserwang.github.io/papers/JAIHC-2022-07.pdf
-  
 
 - title: 'An attentional ordinary differential equation for predicting PM2.5 concentration and its interpretability analysis'
   DOI: 'DOI: 10.12082/dqxxkx.2024.230678'
@@ -94,14 +93,6 @@
   Online: https://doi.org/10.1111/mice.13131
   REF: 'Tong Zhang, Jianlong Wang, Tong Wang, Yiwei Pang, <strong>Peixiao Wang</strong>, el at. A deep marked graph process model for citywide traffic congestion forecasting[J]. <strong>Computer-Aided Civil and Infrastructure Engineering</strong>, 2024, 39(8):1180-1196. (<strong>SCI, ASC Rank T1, Latest JCR Q1, Latest CAS D1 Top, Latest IF=8.5</strong>)'
   URL: https://giserwang.github.io/papers/CACAIE-2023-11.pdf
-
-- title: 'Analyzing Dynamic Spatiotemporal Heterogeneity in Chinese Airport Delay Patterns'
-  DOI: 'DOI: In Production'
-  REF: 'Zhongyi Wang, Hengcai Zhang*, <strong>Peixiao Wang</strong>, et al. Analyzing Dynamic Spatiotemporal Heterogeneity in Chinese Airport Delay Patterns[J]. <strong>Acta Geographica Sinica: 地理学报</strong>, 2024, DOI:In Production.  (<strong>EI, GSC Rank T1</strong>)'
-  TYPE: 'Journal Paper'
-  Year: 2024
-  Online: http://dx.doi.org/XXXXXX
-  URL: https://giserwang.github.io/papers/DLXB-2024-05.pdf
 
 - title: 'A trajectory-driven multi-layer spatiotemporal graph neural network for predicting short-term urban traffic state'
   DOI: 'DOI: 10.12082/dqxxkx.2024.240175'
