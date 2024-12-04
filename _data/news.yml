@@ -1,8 +1,16 @@
+- date: 2024.11.30
+  headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2024-12.pdf">Efficient inference of large-scale air quality using a lightweight ensemble predictor</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
+- date: 2024.08.23
+  headline: 'A paper on <a href="https://giserwang.github.io/papers/SCSI-2025-01.pdf">Predicting origin-destination flows by considering heterogeneous mobility patterns</a> is accepted by Sustainable Cities and Society (SCSI).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 - date: 2024.08.23
   headline: 'I was supported by National Natural Science Foundation of China (Program Title: Prediction modeling and explainability analysis of prior-informed missing-data-tolerant spatiotemporal graph networks).'
   news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
   hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  
 
 - date: 2024.08.20
   headline: 'A paper on <a href="https://giserwang.github.io/papers/JCP-2024-08.pdf">Understanding human mobility and trip demand through sparse trajectories of private e-bikes</a> is accepted by Journal of Cleaner Production (JCP).'
