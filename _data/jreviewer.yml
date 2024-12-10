@@ -106,6 +106,10 @@
   url: https://www.mdpi.com/journal/ijgi
   type: 'Journal'
 
+- name: 'Annals of GIS'
+  url: https://www.tandfonline.com/journals/tagi20
+  type: 'Journal'
+
 - name: 'Heliyon'
   url: https://www.cell.com/Heliyon/home
   type: 'Journal'
