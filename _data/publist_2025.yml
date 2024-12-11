@@ -1,11 +1,3 @@
-- title: 'Quickly forecasting the future state of urban sensors by the missing-data-tolerant deep learning approach'
-  DOI: 'DOI: 10.1016/j.scs.2024.106044'
-  REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang*, Shifen Cheng, et al. Quickly forecasting the future state of urban sensors by the missing-data-tolerant deep learning approach[J]. <strong>Sustainable Cities and Society</strong>, 2025, 118: 106044.  (<strong>SCI, ASC Rank T1, Latest JCR Q1, Latest CAS D1 Top, Latest IF=10.5</strong>)'
-  TYPE: 'Journal Paper'
-  Year: 2025
-  Online: http://dx.doi.org/10.1016/j.scs.2024.106044
-  URL: https://giserwang.github.io/papers/SCSI-2024-12.pdf
-
 - title: 'Efficient inference of large-scale air quality using a lightweight ensemble predictor'
   DOI: 'DOI: 10.1080/13658816.2024.2437044'
   REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang*, Jie Liu, Feng Lu, et al. Efficient inference of large-scale air quality using a lightweight ensemble predictor[J]. <strong>International Journal of Geographical Information Science</strong>, 2025, DOI:10.1080/13658816.2024.2437044.  (<strong>SSCI/SCI, GSC Rank T1, Latest JCR Q1, Latest CAS D1, Latest IF=4.3</strong>)'
@@ -13,6 +5,14 @@
   Year: 2025
   Online: https://doi.org/10.1080/13658816.2024.2437044
   URL: https://giserwang.github.io/papers/IJGIS-2024-12.pdf
+
+- title: 'Quickly forecasting the future state of urban sensors by the missing-data-tolerant deep learning approach'
+  DOI: 'DOI: 10.1016/j.scs.2024.106044'
+  REF: '<strong>Peixiao Wang</strong>, Hengcai Zhang*, Shifen Cheng, et al. Quickly forecasting the future state of urban sensors by the missing-data-tolerant deep learning approach[J]. <strong>Sustainable Cities and Society</strong>, 2025, 118: 106044.  (<strong>SCI, ASC Rank T1, Latest JCR Q1, Latest CAS D1 Top, Latest IF=10.5</strong>)'
+  TYPE: 'Journal Paper'
+  Year: 2025
+  Online: http://dx.doi.org/10.1016/j.scs.2024.106044
+  URL: https://giserwang.github.io/papers/SCSI-2024-12.pdf
 
 - title: 'Predicting origin-destination flows by considering heterogeneous mobility patterns'
   DOI: 'DOI: 10.1016/j.scs.2024.106015'
