@@ -1,1 +1,8 @@
-
+@article{wang2024IJGIS,
+  title={Efficient inference of large-scale air quality using a lightweight ensemble predictor},
+  author={Wang, Peixiao and Zhang, Hengcai and Liu, Jie and Zhang, Tong and Lu, Feng},
+  journal={International Journal of Geographical Information Science},
+  year  = {2024},
+  publisher = {Taylor & Francis},
+  doi = {10.1080/13658816.2024.2437044},
+}
