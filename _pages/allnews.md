@@ -25,8 +25,8 @@ permalink: /allnews
 {% for new in site.data.news %}
 <p>{{ new.date }} <br>
 <em>{{ new.headline }}</em>
-{{new.role}}
-{{new.news}}</p>
+{{new.news}}
+{{new.hot}}</p>
 {% endfor %}
 
 </div>
