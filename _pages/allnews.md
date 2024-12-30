@@ -22,11 +22,11 @@ permalink: /allnews
 
 ## News
 
-{% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em>
-{{article.news}}
-{{article.hot}}</p>
+{% for new in site.data.news %}
+<p>{{ new.date }} <br>
+<em>{{ new.headline }}</em>
+{{new.role}}
+{{new.news}}</p>
 {% endfor %}
 
 </div>
