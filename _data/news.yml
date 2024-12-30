@@ -1,7 +1,8 @@
 - date: 2024.12.07
   headline: 'A paper on <a href="https://giserwang.github.io/papers/SCSI-2024-12.pdf">Quickly forecasting the future state of urban sensors by the missing-data-tolerant deep learning approach</a> is accepted by Sustainable Cities and Society (SCSI).'
+  role: '<img src="images/logo/FirstAuthor.gif" border="0" height="25" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
   news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/FirstAuthor.gif" border="0" height="20" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2024.11.30
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2024-12.pdf">Efficient inference of large-scale air quality using a lightweight ensemble predictor</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
