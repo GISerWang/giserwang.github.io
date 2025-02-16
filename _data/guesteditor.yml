@@ -1,5 +1,13 @@
 - name: 'Street View Imagery and GeoAI'
   journal: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  image: DQXXKX.png
+  url: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334
+  siurl: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334
+  duration: '2025.03.01 - 2025.12.31'
+  guesteditors: 'Yan Zhang, Mei-Po Kwan, Nengcheng Chen,  Marco Helbich, and <strong>Peixiao Wang</strong>'
+
+- name: 'Street View Imagery and GeoAI'
+  journal: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   image: IEEEJ-STARS.jpg
   url: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334
   siurl: https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334
