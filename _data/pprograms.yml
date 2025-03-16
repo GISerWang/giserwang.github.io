@@ -1,5 +1,6 @@
 - name: '<em>Prediction modeling and explainability analysis of prior-informed missing-data-tolerant spatiotemporal graph networks</em>'
-  type: 'National Natural Science Foundation of China [国家自然科学基金青年项目]'
+  cname: '国家自然科学基金青年项目'
+  type: 'National Natural Science Foundation of China'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: '42401524'
   fundingamount: 'CNY 300000'
