@@ -1,5 +1,5 @@
 - name: '<em>Prediction modeling and explainability analysis of prior-informed missing-data-tolerant spatiotemporal graph networks</em>'
-  type: 'National Natural Science Foundation of China'
+  type: 'National Natural Science Foundation of China [国家自然科学基金青年项目]'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: '42401524'
   fundingamount: 'CNY 300000'
@@ -8,7 +8,7 @@
   span: 2025.01 - now
 
 - name: '<em>A geography-aware spatiotemporal ordinary differential equation for continuous spatiotemporal prediction</em>'
-  type: 'China National Postdoctoral Support Program for Innovative Talents'
+  type: 'China National Postdoctoral Support Program for Innovative Talents [国家博士后创新人才支持计划项目]'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: 'BX20230360'
   fundingamount: 'CNY 640000'
@@ -17,7 +17,7 @@
   span: 2023.07 - now
 
 - name: '<em>Research on sensing and forecasting adaptation of regional economic situation with high spatiotemporal resolution</em>'
-  type: 'National Key Research and Development Program of China (Sub-Project)'
+  type: 'National Key Research and Development Program of China (Sub-Project) [国家重点研发计划子课题]'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: '2023YFB3906804'
   fundingamount: 'CNY 270000'
@@ -26,7 +26,7 @@
   span: 2023.12 - now
 
 - name: '<em>Short-term prediction of urban traffic flow based on spatiotemporal view learning</em>'
-  type: 'Special Research Assistant Program of Chinese Academy of Sciences'
+  type: 'Special Research Assistant Program of Chinese Academy of Sciences [中国科学院特别研究助理项目]'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: 'BX20230360'
   fundingamount: 'CNY 200000'
@@ -35,7 +35,7 @@
   span: 2023.07 - now
 
 - name: '<em>Spatiotemporal prediction on urban traffic congestion events guided by geographical prior knowledge</em>'
-  type: 'China Postdoctoral Science Foundation'
+  type: 'China Postdoctoral Science Foundation [中国博士后科学基金面上项目]'
   role: '<font color="red">Principle Investigator: 主持</font>'
   grant: '2023M743454'
   fundingamount: 'CNY 80000'
