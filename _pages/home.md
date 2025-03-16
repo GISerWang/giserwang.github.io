@@ -22,7 +22,7 @@ My research interests include Spatiotemporal data mining, Spatiotemporal predict
 
 ### **CV**
 You can download my latest CV (<a href="https://giserwang.github.io/papers/resume/Peixiao Wang's CV.pdf" target="_blank">English Version</a> and <a href="https://giserwang.github.io/papers/resume/王培晓的简历.pdf" target="_blank">Chinese Version</a>).<br>
-CV was last updated on 2024.6.10. <br>
+CV was last updated on 2025.3.10. <br>
 
 
 
