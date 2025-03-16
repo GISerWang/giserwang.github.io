@@ -24,7 +24,7 @@ permalink: /programsandhonors
 		<li> {{pprogram.ctype}} <font color='red'>[</font> {{pprogram.type}}:{{pprogram.name}}, {{pprogram.span}}, {{pprogram.status}}, {{pprogram.role}}.<font color='red'>]</font> <font color='white'>{{pprogram.grant}}</font></li>
 	{% endfor %}
 	{% for cprogram  in site.data.cprograms %}
-		<li style="color: gray; opacity: 0.3;"> {{pprogram.ctype}} [{{cprogram.type}}:{{cprogram.name}}, {{cprogram.span}}, {{cprogram.status}}, {{cprogram.role}}.]<font color='white'>{{cprogram.grant}}</font></li>
+		<li style="color: gray; opacity: 0.3;"> {{cprogram.ctype}} <font color='blue'>[</font>{{cprogram.type}}:{{cprogram.name}}, {{cprogram.span}}, {{cprogram.status}}, {{cprogram.role}}.<font color='blue'>]</font><font color='white'>{{cprogram.grant}}</font></li>
 	{% endfor %}
 </ol>
 
