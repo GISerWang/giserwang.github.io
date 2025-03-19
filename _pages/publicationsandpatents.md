@@ -73,42 +73,42 @@ permalink: /publicationsandpatents
 ##  All Publications
 <div class="col-sm-12 clearfix">
  <div class="well well-sm">
-  <p style="color: red; font-weight: bold;">2025(*Corresponding Author, #Students under My Supervision):</p>
+  <p style="color: red; font-weight: bold;">2025 (*Corresponding Author, #Students under My Supervision):</p>
   {% for publi in site.data.publist_2025 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
   
-  <p style="color: red; font-weight: bold;">2024(*Corresponding Author):</p>
+  <p style="color: red; font-weight: bold;">2024 (*Corresponding Author):</p>
   {% for publi in site.data.publist_2024 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
   
-  <p style="color: red; font-weight: bold;">2023(*Corresponding Author):</p>
+  <p style="color: red; font-weight: bold;">2023 (*Corresponding Author):</p>
   {% for publi in site.data.publist_2023 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
   
-  <p style="color: red; font-weight: bold;">2022(*Corresponding Author):</p>
+  <p style="color: red; font-weight: bold;">2022 (*Corresponding Author):</p>
   {% for publi in site.data.publist_2022 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
   
-  <p style="color: red; font-weight: bold;">2021(*Corresponding Author):</p>
+  <p style="color: red; font-weight: bold;">2021 (*Corresponding Author):</p>
   {% for publi in site.data.publist_2021 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
   
-  <p style="color: red; font-weight: bold;">2020(*Corresponding Author):</p>
+  <p style="color: red; font-weight: bold;">2020 (*Corresponding Author):</p>
   {% for publi in site.data.publist_2020 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
   
-  <p style="color: red; font-weight: bold;">2019(*Corresponding Author):</p>
+  <p style="color: red; font-weight: bold;">2019 (*Corresponding Author):</p>
   {% for publi in site.data.publist_2019 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
   
-  <p style="color: red; font-weight: bold;">2018(*Corresponding Author):</p>
+  <p style="color: red; font-weight: bold;">2018 (*Corresponding Author):</p>
   {% for publi in site.data.publist_2018 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
    {% endfor %}
