@@ -18,6 +18,16 @@
   status: '<strong>Program in Progress</strong>'
   span: 2023.07 - now
 
+- name: '<em>Emergency response and precision resource allocation in urban crisis management</em>'
+  ctype: '国家重点研发计划子课题'
+  type: 'National Key Research and Development Program of China (Sub-Project)'
+  role: '<font color="red">Principle Investigator: 主持</font> (国家重点研发计划子课题)'
+  grant: '2024YFC3307604'
+  fundingamount: 'CNY 500000'
+  sponsor: 'Ministry of Science and Technology of the People’s Republic of China'
+  status: '<strong>Program in Progress</strong>'
+  span: 2024.12 - now
+
 - name: '<em>Research on sensing and forecasting adaptation of regional economic situation with high spatiotemporal resolution</em>'
   ctype: '国家重点研发计划子课题'
   type: 'National Key Research and Development Program of China (Sub-Project)'
