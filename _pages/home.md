@@ -70,7 +70,7 @@ CV was last updated on 2025.3.10. <br>
 
 <!-- #### * means corresponding authors -->
 
-{% for publi in site.data.reppublist limit:3 %}
+{% for publi in site.data.reppublist limit:2 %}
 
 <div class="col-sm-11 clearfix">
  <div class="well">
