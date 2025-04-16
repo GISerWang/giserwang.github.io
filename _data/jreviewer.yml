@@ -30,6 +30,10 @@
   url: https://www.sciencedirect.com/journal/journal-of-transport-geography
   type: 'Journal'
 
+- name: 'GIScience & Remote Sensing'
+  url: https://www.tandfonline.com/journals/tgrs20
+  type: 'Journal'
+  
 - name: 'Applied Geography'
   url: https://www.sciencedirect.com/journal/applied-geography
   type: 'Journal'
