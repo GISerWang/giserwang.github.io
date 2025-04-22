@@ -13,7 +13,7 @@ permalink: /
 
 ### **About <font color="#00d1ff">Me</font> (Peixiao Wang)**
 I come from Jinan, Shandong, China, where is known as 'City of Springs'. 
-I am currently a Postdoctoral Fellow under the supervision of <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/dsjs/bssds/dtxydlxx/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> from <a href="http://www.lreis.ac.cn/" target="_blank">State Key Laboratory of Resources and Environmental Information System</a>, <a href="http://www.igsnrr.ac.cn/" target="_blank">Institute of Geographic Sciences and Nature Resources Research, Chinese Academy of Sciences</a>.
+I am currently a Postdoctoral Fellow under the supervision of <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/dsjs/bssds/dtxydlxx/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> from <a href="http://www.lreis.ac.cn/" target="_blank">State Key Laboratory of Geographic Information Science and Technology</a>, <a href="http://www.igsnrr.ac.cn/" target="_blank">Institute of Geographic Sciences and Nature Resources Research, Chinese Academy of Sciences</a>.
 I received Ph.D. degree under the supervision of <a href="http://www.lmars.whu.edu.cn/prof_web/zhangtong/index.html" target="_blank">Prof. Tong Zhang</a> from <a href="http://liesmars.whu.edu.cn/" target="_blank">State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</a>, <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a> in 2023, 
 and received the M.S. degree under the supervision of <a href="http://adcfj.cn/sirc/door/team/TeacherList/Detail?personId=422" target="_blank">Prof. Sheng Wu</a> from <a href="https://adc.fzu.edu.cn/" target="_blank">The Academy of Digital China</a>, <a href="https://www.fzu.edu.cn/" target="_blank">Fuzhou University</a> in 2020.
 <br>
@@ -53,7 +53,7 @@ CV was last updated on 2025.3.10. <br>
   
   100101 post code, A11 Datun Road, Chaoyang District (<a href="https://j.map.baidu.com/95/6bK">Maps</a>).<br>
   
-  <a href="http://www.lreis.ac.cn/" target="_blank">State Key Laboratory of Resources and Environmental Information System</a>, 
+  <a href="http://www.lreis.ac.cn/" target="_blank">State Key Laboratory of Geographic Information Science and Technology</a>, 
   
   <a href="http://www.igsnrr.ac.cn/" target="_blank">Institute of Geographic Sciences and Nature Resources Research, Chinese Academy of Sciences</a>
   ,Beijing, China. <br> 
