@@ -55,13 +55,21 @@
   URL: https://giserwang.github.io/papers/SCSI-2025-01.pdf
 
 - title: 'Capturing spatial heterogeneity of population-level human mobility via a prior-guided graph neural network'
-  DOI: 'DOI: In Production'
+  DOI: 'DOI: 10.1080/13658816.2025.2493215'
   REF: 'Zhipeng Wang, Tong Zhang*, Jing Li,<strong>Peixiao Wang</strong>, et al. Capturing spatial heterogeneity of population-level human mobility via a prior-guided graph neural network[J]. <strong>International Journal of Geographical Information Science</strong>, 2025, DOI:10.1080/13658816.2025.2493215.  (<strong>SSCI/SCI, GSC Rank T1, Latest JCR Q1, Latest CAS D1, Latest IF=4.3</strong>)'
   TYPE: 'Journal Paper'
   Year: 2025
   Online: http://dx.doi.org/10.1080/13658816.2025.2493215
   URL: https://giserwang.github.io/papers/IJGIS-2025-04.pdf
-  
+
+- title: 'A high-resolution 3D emissions inventory of airport and its hotspot detection: A case study of Beijing Capital International Airport, China'
+  DOI: 'DOI: 10.1016/j.jclepro.2025.145698'
+  REF: 'Zhoushun Han, Hengcai Zhang, Jinzi Wang, Xin Fu, <strong>Peixiao Wang</strong>, et al. A high-resolution 3D emissions inventory of airport and its hotspot detection: A case study of Beijing Capital International Airport, China[J]. <strong>Journal of Cleaner Production</strong>, 2025, 145698.  (<strong>SCI, Latest JCR Q1, Latest CAS D1, Latest IF=9.7</strong>)'
+  TYPE: 'Journal Paper'
+  Year: 2025
+  Online: http://doi.org/10.1016/j.jclepro.2025.145698
+  URL: https://giserwang.github.io/papers/JCP-2025-05.pdf
+
 - title: 'Analyzing Dynamic Spatiotemporal Heterogeneity in Chinese Airport Delay Patterns'
   DOI: 'DOI: 10.11821/dlxb202502014'
   REF: 'Zhongyi Wang, Hengcai Zhang*, <strong>Peixiao Wang</strong>, et al. Analyzing Dynamic Spatiotemporal Heterogeneity in Chinese Airport Delay Patterns[J]. <strong>Acta Geographica Sinica: 地理学报</strong>, 2025, 80(2): 490-502(In Chinese).  (<strong>EI, GSC Rank T1</strong>)'
