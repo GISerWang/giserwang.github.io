@@ -56,7 +56,7 @@
   image: IJGIS-2024-12.jpg
   description: In this study, we propose a Lightweight Ensemble Predictor (LiEnPred) for efficient air quality prediction in large-scale sparse scenarios. In our experiments, we collected air quality data from over 2000 sensors across China over the past three years and evaluated LiEnPred’s prediction performance in large-scale scenarios using PM2.5 and NO2 concentration data. The experimental results demonstrate that the proposed LiEnPred model matches or exceeds the pre dictive accuracy of eight baselines with faster time efficiency and fewer model parameters.
   authors: <strong>Peixiao Wang</strong> , Hengcai Zhang*, Jie Liu, Tong Zhang, and Feng Lu
-  venue: 2024, 39(4):900-924. <font color="red">(Journal Paper)</font> 
+  venue: 2025, 39(4):900-924. <font color="red">(Journal Paper)</font> 
   name: <strong>International Journal of Geographical Information Science</strong> (SCI, CIC Rank T, Latest JCR Q1, Latest CAS D1 Top, Latest IF=8.2)
   DOI: 'DOI: 10.1080/13658816.2024.2437044'
   number_link: 3
