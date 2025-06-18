@@ -21,7 +21,7 @@ permalink: /experience
 
 * <em>2023.07 - now</em>
     - Postdoctoral Fellow in Geography
-    - <strong>State Key Laboratory of Geographic Information Science and Technology</strong>, IGSNRR, Chinese Academy of Sciences, Beijing, China
+    - <strong>State Key Laboratory of Resources and Environmental Information System</strong>, IGSNRR, Chinese Academy of Sciences, Beijing, China
     - Supervisor: <a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> and <a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/ysdw_fyjy/yjdw_zyyhjgj/202007/t20200730_5647814.html" target="_blank">A.P. Hengcai Zhang</a>
 <br>
 
