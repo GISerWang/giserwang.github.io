@@ -1,7 +1,10 @@
-- date: 2025.08.14
-  headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGI-2025-08.pdf">Predicting the Next Location of Urban Individuals Via a Representation-Enhanced Multi-View Learning Network</a> is accepted by ISPRS International Journal of Geo-Information (IJGI).'
+- date: 2025.08.11
+  headline: 'A paper on <a href="https://giserwang.github.io/papers/TGRS-2025-08.pdf">RL-ISegNet&colon; Refining Instance Segmentation for Remote Sensing Imagery via Iterative Reward Maximization with Limited Samples</a> is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).'
   news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
+- date: 2025.08.04
+  headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGI-2025-08.pdf">Predicting the Next Location of Urban Individuals Via a Representation-Enhanced Multi-View Learning Network</a> is accepted by ISPRS International Journal of Geo-Information (IJGI).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2025.05.28
   headline: 'A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2025-05.pdf">Prior and Data Guided Model for Prediction of Urban Human Activity Intensity</a> is accepted by Geo-Information Science (Geo-Inf Sci).'
@@ -198,4 +201,5 @@
 
 - date: 2018.10.30
   headline:  A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2018-12.pdf">Research on Semantic Location Prediction of Indoor Users</a> is accepted by Geo-Information Science (Geo-Inf Sci).
+
 
