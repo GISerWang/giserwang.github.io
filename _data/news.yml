@@ -1,3 +1,7 @@
+- date: 2025.08.15
+  headline: 'A paper on <a href="https://giserwang.github.io/papers/GSIS-2025-08.pdf">A Geospatial Skeleton Framework for Unveiling the 3D Structure and Dynamics of Marine Heatwaves from Earth Observation Data</a> is accepted by Geo-spatial Information Science (GSIS).'
+  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+  
 - date: 2025.08.11
   headline: 'A paper on <a href="https://giserwang.github.io/papers/TGRS-2025-08.pdf">RL-ISegNet: Refining Instance Segmentation for Remote Sensing Imagery via Iterative Reward Maximization with Limited Samples</a> is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).'
   news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
@@ -201,6 +205,7 @@
 
 - date: 2018.10.30
   headline:  A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2018-12.pdf">Research on Semantic Location Prediction of Indoor Users</a> is accepted by Geo-Information Science (Geo-Inf Sci).
+
 
 
 
