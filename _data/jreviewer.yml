@@ -93,6 +93,10 @@
 - name: 'Future Generation Computer Systems'
   url: https://www.sciencedirect.com/journal/future-generation-computer-systems
   type: 'Journal'
+  
+- name: 'Geo-Spatial Information Science'
+  url: https://www.tandfonline.com/journals/tgsi20
+  type: 'Journal'
 
 - name: 'Journal of Cleaner Production'
   url: https://www.sciencedirect.com/journal/journal-of-cleaner-production
@@ -141,3 +145,4 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
