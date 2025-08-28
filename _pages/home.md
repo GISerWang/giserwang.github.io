@@ -16,7 +16,7 @@ I received Ph.D. degree under the supervision of <a href="http://www.lmars.whu.e
 and received the M.S. degree under the supervision of <a href="http://adcfj.cn/sirc/door/team/TeacherList/Detail?personId=422" target="_blank">Prof. Sheng Wu</a> from <a href="https://adc.fzu.edu.cn/" target="_blank">The Academy of Digital China</a>, <a href="https://www.fzu.edu.cn/" target="_blank">Fuzhou University</a> in 2020.
 <br>
 
-Currently, I am an Assistant Professor at the State Key Laboratory of Geographic Information Science and Technology, Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS). Previously, I was a Postdoctoral Fellow at IGSNRR, CAS, under the supervision of <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/dsjs/bssds/dtxydlxx/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a>. 
+Currently, I am an Assistant Professor at the <a href="http://www.lreis.ac.cn/" target="_blank">State Key Laboratory of Geographic Information Science and Technology</a>, <a href="http://www.igsnrr.ac.cn/" target="_blank">Institute of Geographic Sciences and Natural Resources Research (IGSNRR)</a>, Chinese Academy of Sciences (CAS). Previously, I was a Postdoctoral Fellow at IGSNRR, CAS, under the supervision of <a href="http://www.igsnrr.cas.cn/sourcedb_igsnrr_cas/zw/dsjs/bssds/dtxydlxx/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a>. 
 <br>
 
 My research interests include Spatiotemporal data mining, Spatiotemporal prediction, Social computing, and Public health, especially focus on Spatiotemporal prediction of transportation systems.
@@ -191,6 +191,7 @@ CV was last updated on 2025.3.10. <br>
 	    <li> <a href="{{ site.url }}{{ site.baseurl }}/service" class="btn-xs btn-success">See All Conferences</a> </li>
 	</ul>
 </ul>
+
 
 
 
