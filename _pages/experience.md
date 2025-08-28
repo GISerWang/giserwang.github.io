@@ -19,7 +19,15 @@ permalink: /experience
 ## Employment Experience
 <a href="http://www.igsnrr.ac.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/IGSNRR.png" width="12%"  /></a>
 
-* <em>2023.07 - now</em>
+* <em>2025.08 - now</em>
+    - Assistant Professor
+    - <strong>State Key Laboratory of Geographic Information Science and Technology</strong>, IGSNRR, Chinese Academy of Sciences, Beijing, China
+    - Supervisor: <a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a>
+<br>
+
+<a href="http://www.igsnrr.ac.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/IGSNRR.png" width="12%"  /></a>
+
+* <em>2023.07 - 2025.08</em>
     - Postdoctoral Fellow in Geography
     - <strong>State Key Laboratory of Resources and Environmental Information System</strong>, IGSNRR, Chinese Academy of Sciences, Beijing, China
     - Supervisor: <a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> and <a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/ysdw_fyjy/yjdw_zyyhjgj/202007/t20200730_5647814.html" target="_blank">A.P. Hengcai Zhang</a>
@@ -53,4 +61,5 @@ permalink: /experience
     - Supervisor: <a href="http://gc.sdust.edu.cn/info/1071/2896.htm" target="_blank">Prof. Naixia Mou</a>
 
 <br>
+
 
