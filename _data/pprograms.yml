@@ -52,7 +52,7 @@
   status: '<strong>Program in Progress</strong>'
   span: 2024.07 - now
 
-- name: '<em>Short-term spatiotemporal prediction model based on classical laws of geography</em>'
+- name: '<em>Deep Representation of Urban Population Trajectories and Cross-City Generative Trajectory Foundation Models</em>'
   cname: '城市人群轨迹深度表征与跨城市生成式轨迹大模型'
   ctype: '国家自然科学基金面上项目'
   type: 'National Natural Science Foundation of China'
@@ -62,6 +62,7 @@
   sponsor: 'National Natural Science Foundation of China'
   status: '<strong>Program in Progress</strong>'
   span: 2026.01 - now
+
 
 
 
