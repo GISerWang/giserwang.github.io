@@ -1,4 +1,5 @@
 - name: '<em>A geography-aware spatiotemporal ordinary differential equation for continuous spatiotemporal prediction</em>'
+  cname: '感知地理先验的深度时空常微分连续预测方法'
   ctype: '国家博士后创新人才支持计划项目'
   type: 'China National Postdoctoral Support Program for Innovative Talents'
   role: '<font color="red">Principle Investigator: 主持</font> (国家博士后创新人才支持计划项目)'
@@ -9,6 +10,7 @@
   span: 2023.07 - 2025.08
 
 - name: '<em>Short-term prediction of urban traffic flow based on spatiotemporal view learning</em>'
+  cname: '时空视图学习支持的城市交通数据短期预测'
   ctype: '中国科学院特别研究助理项目'
   type: 'Special Research Assistant Program of Chinese Academy of Sciences'
   role: '<font color="red">Principle Investigator: 主持</font> (中国科学院特别研究助理项目)'
@@ -19,7 +21,7 @@
   span: 2023.07 - 2025.08
 
 - name: '<em>Spatiotemporal prediction on urban traffic congestion events guided by geographical prior knowledge</em>'
-  cname: ''
+  cname: '地理先验知识指导的城市交通拥堵事件时空预测'
   ctype: '中国博士后科学基金面上项目'
   type: 'China Postdoctoral Science Foundation'
   role: '<font color="red">Principle Investigator: 主持</font> (中国博士后科学基金面上项目)'
@@ -38,5 +40,6 @@
   sponsor: 'Wuhan University-Huawei Geoinformatics Innovation Laboratory'
   status: '<strong>Completed Program</strong>'
   span: 2023.04 - 2024.04
+
 
 
