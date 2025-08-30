@@ -22,7 +22,7 @@ permalink: /experience
 * <em>2025.09 - now</em>
     - Assistant Professor
     - <strong>State Key Laboratory of Geographic Information Science and Technology</strong>, IGSNRR, Chinese Academy of Sciences, Beijing, China
-    - Supervisor: <a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a>
+    - Supervisor: <a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/200906/t20090626_1842363.html" target="_blank">Prof. Feng Lu</a> and <a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/ysdw_fyjy/yjdw_zyyhjgj/202007/t20200730_5647814.html" target="_blank">A.P. Hengcai Zhang</a>
 <br>
 
 <a href="http://www.igsnrr.ac.cn/" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/IGSNRR.png" width="12%"  /></a>
@@ -61,6 +61,7 @@ permalink: /experience
     - Supervisor: <a href="http://gc.sdust.edu.cn/info/1071/2896.htm" target="_blank">Prof. Naixia Mou</a>
 
 <br>
+
 
 
 
