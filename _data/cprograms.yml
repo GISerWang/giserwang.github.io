@@ -1,3 +1,13 @@
+- name: '<em>A geography-aware spatiotemporal ordinary differential equation for continuous spatiotemporal prediction</em>'
+  ctype: '国家博士后创新人才支持计划项目'
+  type: 'China National Postdoctoral Support Program for Innovative Talents'
+  role: '<font color="red">Principle Investigator: 主持</font> (国家博士后创新人才支持计划项目)'
+  grant: 'BX20230360'
+  fundingamount: 'CNY 640000'
+  sponsor: 'China Postdoctoral Science Foundation'
+  status: '<strong>Completed Program</strong>'
+  span: 2023.07 - 2025.08
+
 - name: '<em>Short-term prediction of urban traffic flow based on spatiotemporal view learning</em>'
   ctype: '中国科学院特别研究助理项目'
   type: 'Special Research Assistant Program of Chinese Academy of Sciences'
@@ -28,4 +38,5 @@
   sponsor: 'Wuhan University-Huawei Geoinformatics Innovation Laboratory'
   status: '<strong>Completed Program</strong>'
   span: 2023.04 - 2024.04
+
 
