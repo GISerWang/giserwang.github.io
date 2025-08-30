@@ -28,25 +28,7 @@
   status: '<strong>Program in Progress</strong>'
   span: 2023.12 - now
 
-- name: '<em>Short-term prediction of urban traffic flow based on spatiotemporal view learning</em>'
-  ctype: '中国科学院特别研究助理项目'
-  type: 'Special Research Assistant Program of Chinese Academy of Sciences'
-  role: '<font color="red">Principle Investigator: 主持</font> (中国科学院特别研究助理项目)'
-  grant: 'E5R50090Y4'
-  fundingamount: 'CNY 440000'
-  sponsor: 'Chinese Academy of Sciences'
-  status: '<strong>Program in Progress</strong>'
-  span: 2023.07 - now
 
-- name: '<em>Spatiotemporal prediction on urban traffic congestion events guided by geographical prior knowledge</em>'
-  ctype: '中国博士后科学基金面上项目'
-  type: 'China Postdoctoral Science Foundation'
-  role: '<font color="red">Principle Investigator: 主持</font> (中国博士后科学基金面上项目)'
-  grant: '2023M743454'
-  fundingamount: 'CNY 80000'
-  sponsor: 'China Postdoctoral Science Foundation'
-  status: '<strong>Program in Progress</strong>'
-  span: 2023.11 - now
 
 - name: '<em>Short-term prediction of urban traffic flow guided by traffic geography prior</em>'
   ctype: '武汉大学测绘遥感信息工程国家重点实验室开放基金'
@@ -77,3 +59,4 @@
   sponsor: 'Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd., Nanjing 211500, China'
   status: '<strong>Program in Progress</strong>'
   span: 2024.07 - now
+
