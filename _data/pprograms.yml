@@ -1,4 +1,5 @@
 - name: '<em>Prediction modeling and explainability analysis of prior-informed missing-data-tolerant spatiotemporal graph networks</em>'
+  cname: '融合先验的抗缺失时空图网络预测模型与可解释性分析'
   ctype: '国家自然科学基金青年项目'
   type: 'National Natural Science Foundation of China'
   role: '<font color="red">Principle Investigator: 主持</font> (国家自然科学基金青年项目)'
@@ -9,6 +10,7 @@
   span: 2025.01 - now
 
 - name: '<em>Research on sensing and forecasting adaptation of regional economic situation with high spatiotemporal resolution</em>'
+  cname: '高时空分辨率区域经济态势感知预测适配研究'
   ctype: '国家重点研发计划子课题'
   type: 'National Key Research and Development Program of China (Sub-Project)'
   role: '<font color="red">Principle Investigator: 主持</font> (国家重点研发计划子课题)'
@@ -19,6 +21,7 @@
   span: 2023.12 - now
 
 - name: '<em>Short-term prediction of urban traffic flow guided by traffic geography prior</em>'
+  cname: '交通地理先验支持的城市交通流短期预测'
   ctype: '武汉大学测绘遥感信息工程国家重点实验室开放基金'
   type: 'Open Fund of State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University'
   role: '<font color="red">Principle Investigator: 主持</font> (武汉大学测绘遥感信息工程国家重点实验室开放基金)'
@@ -29,6 +32,7 @@
   span: 2024.01 - now
 
 - name: '<em>A novel prior aware graph process model for spatiotemporal event prediction</em>'
+  cname: '一种先验感知的图过程时空事件预测模型'
   ctype: '中国地质大学（武汉）国家地理信息系统工程技术研究中心开放基金'
   type: 'Open Fund of National Engineering Research Center of Geographic Information System, China University of Geosciences, Wuhan 430074, China'
   role: '<font color="red">Principle Investigator: 主持</font> (中国地质大学国家地理信息系统工程技术研究中心开放基金)'
@@ -47,5 +51,17 @@
   sponsor: 'Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd., Nanjing 211500, China'
   status: '<strong>Program in Progress</strong>'
   span: 2024.07 - now
+
+- name: '<em>Short-term spatiotemporal prediction model based on classical laws of geography</em>'
+  cname: '城市人群轨迹深度表征与跨城市生成式轨迹大模型'
+  ctype: '国家自然科学基金面上项目'
+  type: 'National Natural Science Foundation of China'
+  role: '<font color="blue">Co-Principle Investigator: 参与</font> (国家自然科学基金面上项目)'
+  grant: '42571546'
+  fundingamount: 'CNY 420000'
+  sponsor: 'National Natural Science Foundation of China'
+  status: '<strong>Program in Progress</strong>'
+  span: 2026.01 - now
+
 
 
