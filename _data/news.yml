@@ -22,79 +22,65 @@
 
 - date: 2025.05.16
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJDE-2025-05.pdf">3D-SHI index for quantifying 3D spatial heterogeneity in big Earth data</a> is accepted by International Journal of Digital Earth (IJDE).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2025.05.11
   headline: 'A paper on <a href="https://giserwang.github.io/papers/JCP-2025-05.pdf">A high-resolution 3D emissions inventory of airport and its hotspot detection: A case study of Beijing Capital International Airport, China</a> is accepted by Journal of Cleaner Production (JCP).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2025.04.21
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2025-04.pdf">Capturing spatial heterogeneity of population-level human mobility via a prior-guided graph neural network</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2025.03.27
   headline: 'A paper on <a href="https://giserwang.github.io/papers/GISRS-2025-04.pdf">Sequence Analysis of Local Indicators of Spatio-Temporal Association for Evolutionary Pattern Discovery</a> is accepted by GIScience and Remote Sensing (GISRS).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2025.02.07
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJDE-2025-02.pdf">Lightweighting the prediction process of urban states with parameter sharing and dilated operations</a> is accepted by International Journal of Digital Earth (IJDE).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2025.01.07
   headline: 'A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2025-01.pdf">GeoAI-driven Spatiotemporal Prediction: Progress and Prospects</a> is accepted by Geo-Information Science (Geo-Inf Sci).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
   
 - date: 2025.01.01
   headline: 'A paper on <a href="https://giserwang.github.io/papers/Cities-2025-01.pdf">Spatiotemporal variations of private e-bike trips with explainable data-driven technologies</a> is accepted by Cities.'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2024.12.07
   headline: 'A paper on <a href="https://giserwang.github.io/papers/SCSI-2024-12.pdf">Quickly forecasting the future state of urban sensors by the missing-data-tolerant deep learning approach</a> is accepted by Sustainable Cities and Society (SCSI).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2024.11.30
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2024-12.pdf">Efficient inference of large-scale air quality using a lightweight ensemble predictor</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2024.08.23
   headline: 'A paper on <a href="https://giserwang.github.io/papers/SCSI-2025-01.pdf">Predicting origin-destination flows by considering heterogeneous mobility patterns</a> is accepted by Sustainable Cities and Society (SCSI).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2024.08.23
   headline: 'I was supported by National Natural Science Foundation of China (Program Title: Prediction modeling and explainability analysis of prior-informed missing-data-tolerant spatiotemporal graph networks).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2024.08.20
   headline: 'A paper on <a href="https://giserwang.github.io/papers/JCP-2024-08.pdf">Understanding human mobility and trip demand through sparse trajectories of private e-bikes</a> is accepted by Journal of Cleaner Production (JCP).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
   
 - date: 2024.07.10
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJDE-2024-07.pdf">Predicting Urban Signal-Controlled Intersection Congestion Events Using Spatio-Temporal Neural Point Process</a> is accepted by International Journal of Digital Earth (IJDE).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2024.05.20
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2024-05.pdf">An ensemble spatial prediction method considering geospatial heterogeneity</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2024.05.20
   headline: 'A paper on <a href="https://giserwang.github.io/papers/DLXB-2024-05.pdf">Analyzing Dynamic Spatiotemporal Heterogeneity in Chinese Airport Delay Patterns</a> is accepted by Acta Geographica Sinica.'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
   
 - date: 2024.05.09
   headline: 'I was supported by Open Fund of Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd. (Program Title: Short-term spatiotemporal prediction model based on classical laws of geography).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
+
 
 - date: 2024.04.24
   headline: 'A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2024-04.pdf">A trajectory-driven multi-layer spatiotemporal graph neural network for predicting short-term urban traffic state</a> is accepted by Geo-Information Science (Geo-Inf Sci).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2024.04.08
   headline: 'A paper on <a href="https://giserwang.github.io/papers/RS-2024-04.pdf">Impact of the Russia-Ukraine Conflict on Global Marine Network Based on Massive Vessel Trajectories</a> is accepted by Remote Sensing (RS).'
@@ -127,11 +113,9 @@
 
 - date: 2023.11.09
   headline: 'A paper on <a href="https://giserwang.github.io/papers/CACAIE-2023-11.pdf">A deep marked graph process model for citywide traffic congestion forecasting</a> is accepted by Computer-Aided Civil and Infrastructure Engineering (CACAIE).'
-  news: '<img src="images/logo/new3.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2023.10.21
   headline: 'I was awarded by China National Postdoctoral Support Program for Innovative Talents (Program Title: A geography-aware spatiotemporal ordinary differential equation for continuous spatiotemporal prediction).'
-  hot: '<img src="images/logo/hot1.gif" border="0" width="34" height="13" alt=" " style="background-color: #ffffff; box-shadow: 0px 0px 0px grey; margin-top: 0px; margin-bottom: 0px;"/>'
 
 - date: 2023.10.06
   headline: 'A paper on <a href="https://giserwang.github.io/papers/IJGIS-2023-10.pdf">Adding attention to the neural ordinary differential equation for spatio-temporal prediction</a> is accepted by International Journal of Geographical Information Science (IJGIS).'
@@ -210,6 +194,7 @@
 
 - date: 2018.10.30
   headline:  A paper on <a href="https://giserwang.github.io/papers/DQXXKX-2018-12.pdf">Research on Semantic Location Prediction of Indoor Users</a> is accepted by Geo-Information Science (Geo-Inf Sci).
+
 
 
 
