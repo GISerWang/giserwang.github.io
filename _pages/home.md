@@ -57,7 +57,7 @@ CV was last updated on 2025.3.10. <br>
   
   <a href="http://www.lreis.ac.cn/" target="_blank">State Key Laboratory of Geographic Information Science and Technology</a>, 
   
-  <a href="http://www.igsnrr.ac.cn/" target="_blank">Institute of Geographic Sciences and Nature Resources Research, Chinese Academy of Sciences</a>
+  <a href="http://www.igsnrr.ac.cn/" target="_blank">Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences</a>
   ,Beijing, China. <br> 
   
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=LApw56d6sOaj2ITovU21uzUMrlCCVzPAna_WqNKoZPk"></script>
@@ -191,6 +191,7 @@ CV was last updated on 2025.3.10. <br>
 	    <li> <a href="{{ site.url }}{{ site.baseurl }}/service" class="btn-xs btn-success">See All Conferences</a> </li>
 	</ul>
 </ul>
+
 
 
 
