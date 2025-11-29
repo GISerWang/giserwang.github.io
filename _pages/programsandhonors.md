@@ -33,7 +33,7 @@ permalink: /programsandhonors
 
 <ol>
 	{% for honor in site.data.honors %}
-		<li> {{honor.title}}, {{honor.year}}, {{honor.department}}. <font color='white'>{{honor.grant}}</font></li></li>
+		<li> {{honor.title}}, {{honor.year}}, {{honor.department}}. <font color='white'>{{honor.grant}}</font></li>
 	{% endfor %}
 </ol>
 
@@ -59,4 +59,5 @@ permalink: /programsandhonors
 </ol>
 
 </div>
+
 
