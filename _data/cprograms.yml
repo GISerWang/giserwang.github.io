@@ -9,6 +9,17 @@
   status: '<strong>Completed Program</strong>'
   span: 2023.07 - 2025.08
 
+- name: '<em>First Grade</em>'
+  cname: '一档'
+  ctype: '国家博士后科研业绩评估考核一档资助'
+  type: 'Research Performance Assesssment Grant of the Postdoctoral Fellowship Program'
+  role: '<font color="red">Principle Investigator: 主持</font> (国家博士后科研业绩评估考核一档资助)'
+  grant: 'YJA20250020'
+  fundingamount: 'CNY 100000'
+  sponsor: 'China Postdoctoral Science Foundation'
+  status: '<strong>Completed Program</strong>'
+  span: 2025.11 - 2025.11
+  
 - name: '<em>Short-term prediction of urban traffic flow based on spatiotemporal view learning</em>'
   cname: '时空视图学习支持的城市交通数据短期预测'
   ctype: '中国科学院特别研究助理项目'
@@ -40,6 +51,7 @@
   sponsor: 'Wuhan University-Huawei Geoinformatics Innovation Laboratory'
   status: '<strong>Completed Program</strong>'
   span: 2023.04 - 2024.04
+
 
 
 
