@@ -20,17 +20,6 @@
   status: '<strong>Program in Progress</strong>'
   span: 2023.12 - now
 
-- name: '<em>First Grade</em>'
-  cname: '一档'
-  ctype: '国家博士后科研业绩评估考核一档资助'
-  type: 'Research Performance Assesssment Grant of the Postdoctoral Fellowship Program'
-  role: '<font color="red">Principle Investigator: 主持</font> (国家博士后科研业绩评估考核一档资助)'
-  grant: 'YJA20250020'
-  fundingamount: 'CNY 100000'
-  sponsor: 'China Postdoctoral Science Foundation'
-  status: '<strong>Program in Progress</strong>'
-  span: 2025.11 - now
-
 - name: '<em>Short-term prediction of urban traffic flow guided by traffic geography prior</em>'
   cname: '交通地理先验支持的城市交通流短期预测'
   ctype: '武汉大学测绘遥感信息工程国家重点实验室开放基金'
@@ -73,6 +62,7 @@
   sponsor: 'National Natural Science Foundation of China'
   status: '<strong>Program in Progress</strong>'
   span: 2026.01 - now
+
 
 
 
