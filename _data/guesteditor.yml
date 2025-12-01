@@ -1,3 +1,11 @@
+- name: 'Remote Sensing Applied in Urban Environment Monitoring'
+  journal: 'Remote Sensing'
+  image: RS-2025.png
+  url: https://www.mdpi.com/journal/remotesensing
+  siurl: https://www.mdpi.com/journal/remotesensing/special_issues/393RK7VQEU
+  duration: '2025.12.01 - 2025.12.31'
+  guesteditors: '<strong>Peixiao Wang</strong>, Yan Zhang, and Tao Hu'
+
 - name: '城市生命体理论与实践'
   journal: 'Journal of Geo-information Science (地球信息科学<br>学报)'
   image: DQXXKX.png
