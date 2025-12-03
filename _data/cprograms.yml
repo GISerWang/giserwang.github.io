@@ -19,6 +19,17 @@
   sponsor: 'China Postdoctoral Science Foundation'
   status: '<strong>Completed Program</strong>'
   span: 2025.11 - 2025.11
+
+- name: '<em>Spatiotemporal prediction on urban traffic congestion events guided by geographical prior knowledge</em>'
+  cname: '地理先验知识指导的城市交通拥堵事件时空预测'
+  ctype: '中国博士后科学基金面上项目'
+  type: 'China Postdoctoral Science Foundation'
+  role: '<font color="red">Principle Investigator: 主持</font> (中国博士后科学基金面上项目)'
+  grant: '2023M743454'
+  fundingamount: 'CNY 80000'
+  sponsor: 'China Postdoctoral Science Foundation'
+  status: '<strong>Completed Program</strong>'
+  span: 2023.11 - 2025.08
   
 - name: '<em>Short-term prediction of urban traffic flow based on spatiotemporal view learning</em>'
   cname: '时空视图学习支持的城市交通数据短期预测'
@@ -31,17 +42,6 @@
   status: '<strong>Completed Program</strong>'
   span: 2023.07 - 2025.08
 
-- name: '<em>Spatiotemporal prediction on urban traffic congestion events guided by geographical prior knowledge</em>'
-  cname: '地理先验知识指导的城市交通拥堵事件时空预测'
-  ctype: '中国博士后科学基金面上项目'
-  type: 'China Postdoctoral Science Foundation'
-  role: '<font color="red">Principle Investigator: 主持</font> (中国博士后科学基金面上项目)'
-  grant: '2023M743454'
-  fundingamount: 'CNY 80000'
-  sponsor: 'China Postdoctoral Science Foundation'
-  status: '<strong>Completed Program</strong>'
-  span: 2023.11 - 2025.08
-
 - name: '<em>Online missing imputation and short-term prediction of urban real-time road condition based on massive vehicle trajectories</em>'
   ctype: '武大—华为空间信息技术创新实验室开放基金'
   type: 'Open Fund of Wuhan University-Huawei Geoinformatics Innovation Laboratory'
@@ -51,6 +51,7 @@
   sponsor: 'Wuhan University-Huawei Geoinformatics Innovation Laboratory'
   status: '<strong>Completed Program</strong>'
   span: 2023.04 - 2024.04
+
 
 
 
