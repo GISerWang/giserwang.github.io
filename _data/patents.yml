@@ -1,6 +1,20 @@
-- name: 'An ensemble spatial prediction method considering geospatial heterogeneity'
-  number: 'ZL202410330649.3'
-  type: 'Patent for Invention'
+- name: '一种面向大尺度稀疏采样场景的空气质量快速预测方法和装置'
+  number: 'ZL2024114286972'
+  type: '发明专利'
+  Year: 2025
+  status: '授权'
+  REF: '汤玲, <strong>王培晓</strong>. 一种面向大尺度稀疏采样场景的空气质量快速预测方法和装置. 中国. 2025-11-11. <strong>ZL2024114286972</strong>. 发明专利.'
+
+- name: '一种异质性引导的交通流量补全方法、系统、介质和设备'
+  number: 'ZL2025103531227'
+  type: '发明专利'
+  Year: 2025
+  status: '授权'
+  REF: '程诗奋, 罗霄月, <strong>王培晓</strong>, 陆锋. 一种异质性引导的交通流量补全方法、系统、介质和设备. 中国. 2025-07-01. <strong>ZL2025103531227</strong>. 发明专利.'
+
+- name: '一种顾及空间异质性的集成空间预测方法'
+  number: 'ZL2024103306493'
+  type: '发明专利'
   Year: 2024
-  status: 'authorized'
-  REF: 'Shifen Cheng, Lizeng Wang, <strong>Peixiao Wang</strong>, Feng Lu. An ensemble spatial prediction method considering geospatial heterogeneity. China. 2024-06-07. <strong>ZL2024103306493</strong>. Patent for Invention. [程诗奋, 王立增, <strong>王培晓</strong>, 陆锋. 一种顾及空间异质性的集成空间预测方法. 中国. 2024-06-07. <strong>ZL2024103306493</strong>. 发明专利.]'
+  status: '授权'
+  REF: '程诗奋, 王立增, <strong>王培晓</strong>, 陆锋. 一种顾及空间异质性的集成空间预测方法. 中国. 2024-06-07. <strong>ZL2024103306493</strong>. 发明专利.'
