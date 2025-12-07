@@ -40,6 +40,11 @@ permalink: /publicationsandpatents
 ##  All Publications
 <div class="col-sm-12 clearfix">
  <div class="well well-sm">
+  <p style="color: red; font-weight: bold;">2026 (*Corresponding Author, #Students under My Supervision):</p>
+  {% for publi in site.data.publist_2026 %}
+   <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
+   {% endfor %}
+  
   <p style="color: red; font-weight: bold;">2025 (*Corresponding Author, #Students under My Supervision):</p>
   {% for publi in site.data.publist_2025 %}
    <p>[{{forloop.index}}] {{ publi.REF }}[<a href='{{ publi.URL }}' target="_blank">{{ publi.TYPE }}</a>]</p>
