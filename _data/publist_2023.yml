@@ -20,7 +20,7 @@
   TYPE: 'Journal Paper'
   Year: 2023
   Online: https://doi.org/10.12082/dqxxkx.2023.220795
-  REF: 'Tong Zhang*, Renyu Liu, <strong>Peixiao Wang</strong> , et al. Physics-informed Machine Learning and Its Research Prospects in GeoAI[J]. <strong>Geo-Information Science &#58; 地球信息科学学报</strong>, 2023,25(7):1297-1311. (in Chinese). (<strong>EI, GSC Rank T2</strong>)'
+  REF: 'Tong Zhang\*, Renyu Liu, <strong>Peixiao Wang</strong> , et al. Physics-informed Machine Learning and Its Research Prospects in GeoAI[J]. <strong>Geo-Information Science</strong>, 2023,25(7):1297-1311. (in Chinese). [张彤\*, 刘仁宇, <strong>王培晓</strong>, 高楚林, 刘杰,王望舒. 感知物理先验的机器学习及其在地理空间智能中的研究前景[J]. <strong>地球信息科学学报</strong>, 2023,25(7):1297-1311.] (<strong>EI, GSC Rank T2</strong>)'
   URL: https://giserwang.github.io/papers/DQXXKX-2023-05.pdf
 
 - title: 'Forecasting Earthquake Magnitude and Epicenter by Incorporating Spatio-temporal Priors into Deep Neural Networks'
