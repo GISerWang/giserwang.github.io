@@ -26,6 +26,10 @@
   url: https://www.nature.com/ncomms/
   type: 'Journal'
 
+- name: 'Proceedings of the National Academy of Sciences of the United States of America'
+  url: https://www.pnas.org/
+  type: 'Journal'
+
 - name: 'International Journal of Geographical Information Science'
   url: https://www.tandfonline.com/toc/tgis20/current
   type: 'Journal'
@@ -161,6 +165,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
