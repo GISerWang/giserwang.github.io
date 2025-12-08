@@ -1,15 +1,3 @@
-- name: 'Acta Geodaetica et Cartographica Sinica : 测绘学报'
-  url: http://xb.chinasmp.com/CN/1001-1595/home.shtml
-  type: 'Journal'
-
-- name: 'Geo-Information Science : 地球信息科学学报'
-  url: https://www.dqxxkx.cn/CN/1560-8999/home.shtml
-  type: 'Journal'
-
-- name: 'Geomatics and Information Science of Wuhan University : 武汉大学学报信息科学版'
-  url: http://ch.whu.edu.cn/
-  type: 'Journal'
-
 - name: 'Nature Human Behaviour'
   url: https://www.nature.com/nathumbehav/
   type: 'Journal'
@@ -32,6 +20,18 @@
 
 - name: 'Proceedings of the National Academy of Sciences of the United States of America'
   url: https://www.pnas.org/
+  type: 'Journal'
+
+- name: 'Acta Geodaetica et Cartographica Sinica : 测绘学报'
+  url: http://xb.chinasmp.com/CN/1001-1595/home.shtml
+  type: 'Journal'
+
+- name: 'Geo-Information Science : 地球信息科学学报'
+  url: https://www.dqxxkx.cn/CN/1560-8999/home.shtml
+  type: 'Journal'
+
+- name: 'Geomatics and Information Science of Wuhan University : 武汉大学学报信息科学版'
+  url: http://ch.whu.edu.cn/
   type: 'Journal'
 
 - name: 'International Journal of Geographical Information Science'
@@ -169,6 +169,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
