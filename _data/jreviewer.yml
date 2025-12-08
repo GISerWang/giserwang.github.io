@@ -10,12 +10,16 @@
   url: http://ch.whu.edu.cn/
   type: 'Journal'
 
+- name: 'Nature Human Behaviour'
+  url: https://www.nature.com/nathumbehav/
+  type: 'Journal'
+
 - name: 'Nature Machine Intelligence'
-  url: https://www.nature.com/natmachintell
+  url: https://www.nature.com/natmachintell/
   type: 'Journal'
 
 - name: 'Nature Computational Science'
-  url: https://www.nature.com/natcomputsci
+  url: https://www.nature.com/natcomputsci/
   type: 'Journal'
 
 - name: 'Nature Communications'
@@ -157,5 +161,6 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
