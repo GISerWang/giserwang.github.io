@@ -142,10 +142,6 @@
   url: https://www.tandfonline.com/journals/tagi20
   type: 'Journal'
 
-- name: 'Heliyon'
-  url: https://www.cell.com/Heliyon/home
-  type: 'Journal'
-
 - name: 'Scientific Reports'
   url: https://www.nature.com/srep/
   type: 'Journal'
@@ -169,6 +165,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
