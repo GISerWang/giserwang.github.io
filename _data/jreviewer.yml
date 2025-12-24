@@ -42,6 +42,10 @@
   url: https://www.journals.elsevier.com/computers-environment-and-urban-systems
   type: 'Journal'
 
+- name: 'ISPRS Journal of Photogrammetry and Remote Sensing'
+  url: https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing
+  type: 'Journal'
+
 - name: 'IEEE Transactions on Intelligent Transportation Systems'
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979
   type: 'Journal'
@@ -165,6 +169,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
