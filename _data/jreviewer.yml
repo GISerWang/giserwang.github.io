@@ -10,6 +10,10 @@
   url: https://www.nature.com/natcomputsci/
   type: 'Journal'
 
+- name: 'Nature Health'
+  url: https://www.nature.com/naturehealth/
+  type: 'Journal'
+
 - name: 'Nature Communications'
   url: https://www.nature.com/ncomms/
   type: 'Journal'
@@ -173,6 +177,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
