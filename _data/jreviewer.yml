@@ -14,6 +14,10 @@
   url: https://www.nature.com/naturehealth/
   type: 'Journal'
 
+- name: 'Nature Cities'
+  url: https://www.nature.com/natcities/
+  type: 'Journal'
+
 - name: 'Nature Communications'
   url: https://www.nature.com/ncomms/
   type: 'Journal'
@@ -177,6 +181,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
