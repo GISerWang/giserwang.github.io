@@ -26,6 +26,10 @@
   url: https://www.science.org/journal/sciadv
   type: 'Journal'
 
+- name: 'Science Bulletin'
+  url: https://www.sciengine.com/SB/home
+  type: 'Journal'
+  
 - name: 'Proceedings of the National Academy of Sciences of the United States of America'
   url: https://www.pnas.org/
   type: 'Journal'
@@ -181,6 +185,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
