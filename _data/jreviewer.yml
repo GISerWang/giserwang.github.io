@@ -29,7 +29,11 @@
 - name: 'Science Bulletin'
   url: https://www.sciengine.com/SB/home
   type: 'Journal'
-  
+
+- name: 'National Science Review'
+  url: http://gjkxplywb.chinabidingnews.com/
+  type: 'Journal'
+
 - name: 'Proceedings of the National Academy of Sciences of the United States of America'
   url: https://www.pnas.org/
   type: 'Journal'
@@ -185,6 +189,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
