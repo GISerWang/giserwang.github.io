@@ -31,7 +31,7 @@
   type: 'Journal'
 
 - name: 'National Science Review'
-  url: http://gjkxplywb.chinabidingnews.com/
+  url: https://www.sciengine.com/NSR/issue
   type: 'Journal'
 
 - name: 'Proceedings of the National Academy of Sciences of the United States of America'
@@ -189,6 +189,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
