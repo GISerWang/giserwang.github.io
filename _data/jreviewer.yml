@@ -2,6 +2,10 @@
   url: https://www.nature.com/nathumbehav/
   type: 'Journal'
 
+- name: 'Nature Sustainability'
+  url: https://www.nature.com/natsustain/
+  type: 'Journal'
+
 - name: 'Nature Machine Intelligence'
   url: https://www.nature.com/natmachintell/
   type: 'Journal'
@@ -189,6 +193,7 @@
 - name: 'IEEE Access'
   url: https://ieeeaccess.ieee.org/
   type: 'Journal'
+
 
 
 
