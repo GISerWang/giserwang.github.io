@@ -20,16 +20,6 @@
   status: '<strong>Program in Progress</strong>'
   span: 2023.12 - now
 
-- name: '<em>Short-term spatiotemporal prediction model based on classical laws of geography</em>'
-  ctype: '南京北斗创新应用科技研究院开放基金'
-  type: 'Open Fund of Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd.'
-  role: '<font color="red">Principle Investigator: 主持</font> (南京北斗创新应用科技研究院开放基金)'
-  grant: '20240503'
-  fundingamount: 'CNY 20000'
-  sponsor: 'Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd., Nanjing 211500, China'
-  status: '<strong>Program in Progress</strong>'
-  span: 2024.07 - now
-
 - name: '<em>Deep Representation of Urban Population Trajectories and Cross-City Generative Trajectory Foundation Models</em>'
   cname: '城市人群轨迹深度表征与跨城市生成式轨迹大模型'
   ctype: '国家自然科学基金面上项目'
