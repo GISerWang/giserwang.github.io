@@ -50,7 +50,7 @@
   grant: '23I03'
   fundingamount: 'CNY 50000'
   sponsor: 'State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University'
-  status: '<strong>Program in Progress</strong>'
+  status: '<strong>Completed Program</strong>'
   span: 2024.01 - 2025.12
 
 - name: '<em>A novel prior aware graph process model for spatiotemporal event prediction</em>'
@@ -61,7 +61,7 @@
   grant: '2023KFJJ09'
   fundingamount: 'CNY 25000'
   sponsor: 'National Engineering Research Center of Geographic Information System, China University of Geosciences, Wuhan 430074, China'
-  status: '<strong>Program in Progress</strong>'
+  status: '<strong>Completed Program</strong>'
   span: 2024.01 - 2025.12
 
 - name: '<em>Short-term spatiotemporal prediction model based on classical laws of geography</em>'
@@ -71,7 +71,7 @@
   grant: '20240503'
   fundingamount: 'CNY 20000'
   sponsor: 'Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd., Nanjing 211500, China'
-  status: '<strong>Program in Progress</strong>'
+  status: '<strong>Completed Program</strong>'
   span: 2024.07 - 2025.12
   
 - name: '<em>Online missing imputation and short-term prediction of urban real-time road condition based on massive vehicle trajectories</em>'
