@@ -63,6 +63,16 @@
   sponsor: 'National Engineering Research Center of Geographic Information System, China University of Geosciences, Wuhan 430074, China'
   status: '<strong>Program in Progress</strong>'
   span: 2024.01 - 2025.12
+
+- name: '<em>Short-term spatiotemporal prediction model based on classical laws of geography</em>'
+  ctype: '南京北斗创新应用科技研究院开放基金'
+  type: 'Open Fund of Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd.'
+  role: '<font color="red">Principle Investigator: 主持</font> (南京北斗创新应用科技研究院开放基金)'
+  grant: '20240503'
+  fundingamount: 'CNY 20000'
+  sponsor: 'Nanjing Beidou Innovation and Applied Technology Research Institute Co., Ltd., Nanjing 211500, China'
+  status: '<strong>Program in Progress</strong>'
+  span: 2024.07 - 2025.12
   
 - name: '<em>Online missing imputation and short-term prediction of urban real-time road condition based on massive vehicle trajectories</em>'
   ctype: '武大—华为空间信息技术创新实验室开放基金'
