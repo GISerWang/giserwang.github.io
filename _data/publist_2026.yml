@@ -14,12 +14,12 @@
   Online: https://doi.org/10.1016/j.jag.2026.105161
   URL: https://giserwang.github.io/papers/JAG-2026-02.pdf
 
-- title: 'Prior- and Data-Guided Model for Predicting Urban Human Activity Intensity'
-  DOI: '10.12082/dqxxkx.2025.250198'
-  REF: 'Cheng Zhong<sup>#</sup>, Sheng Wu, <strong>Peixiao Wang\*</strong>, Hengcai Zhang, et al. Prior- and Data-Guided Model for Predicting Urban Human Activity Intensity[J]. <strong>Journal of Geo-information Science</strong>, 2025, 27(10):2453-2465 (In Chinese). [赵雨慧, 郑敏, 王靖博, <strong>王培晓\*</strong>, 阮政森, 董建锋, 陆锋. (2026). 基于城市生命体理念的模拟与决策协同治理概念框架与展望. <strong>地球信息科学学报</strong>, DOI: .]  (<strong>EI, GSC Rank T2</strong>)'
+- title: 'Simulation-decision synergistic governance under the urban organism paradigm: Conceptual framework and prospects'
+  DOI: ' 10.12082/dqxxkx.2026.250424'
+  REF: 'Yuhui Zhao, Min Zheng, Jingbo Wang, <strong>Peixiao Wang\*</strong>, Zhengsen Ruan, et al. Simulation-decision synergistic governance under the urban organism paradigm: Conceptual framework and prospects[J]. <strong>Journal of Geo-information Science</strong>, 2026, DOI: 10.12082/dqxxkx.2026.250424 (In Chinese). [赵雨慧, 郑敏, 王靖博, <strong>王培晓\*</strong>, 阮政森, 董建锋, 陆锋. (2026). 基于城市生命体理念的模拟与决策协同治理概念框架与展望. <strong>地球信息科学学报</strong>, DOI: 10.12082/dqxxkx.2026.250424.]  (<strong>EI, GSC Rank T2</strong>)'
   TYPE: 'Journal Paper'
-  Year: 2025
-  Online: https://doi.org/10.12082/dqxxkx.2025.250198
+  Year: 2026
+  Online: https://doi.org/10.12082/dqxxkx.2026.250424
   URL: https://giserwang.github.io/papers/DQXXKX-2026-05.pdf
   
 - title: 'GAGNN: a geography-aware graph neural network for citywide commuting flows prediction'
