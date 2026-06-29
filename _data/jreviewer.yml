@@ -69,7 +69,11 @@
 - name: 'IEEE Transactions on Intelligent Transportation Systems'
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979
   type: 'Journal'
-
+  
+- name: 'Humanities and Social Sciences Communications'
+  url: https://www.nature.com/palcomms/
+  type: 'Journal'
+  
 - name: 'Cities'
   url: https://www.sciencedirect.com/journal/cities
   type: 'Journal'
