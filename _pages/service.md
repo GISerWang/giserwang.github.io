@@ -19,6 +19,18 @@ permalink: service
 <div class="col-sm-8">
 
 ## Academic Service
+### Editorial Board
+{% for journal in site.data.editorialboard %}
+
+<a href="{{journal.url}}" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/specialissues/{{ journal.image }}" width="12%"  /></a>
+
+* <strong><a href="{{journal.url}}" target="_blank">{{journal.name}}</a><strong>
+    - <strong>Research Areas</strong>: {{journal.areas}}
+
+<br>
+
+{% endfor %}
+
 
 ### Guest Editor
 
