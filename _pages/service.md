@@ -22,10 +22,10 @@ permalink: service
 ### Editorial Board
 {% for journal in site.data.editorialboard %}
 
-<a href="{{journal.url}}" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/specialissues/{{ journal.image }}" width="12%"  /></a>
+<a href="{{journal.url}}" target="_blank"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/journal/{{ journal.image }}" width="12%"  /></a>
 
 * <strong><a href="{{journal.url}}" target="_blank">{{journal.name}}</a><strong>
-    - <strong>Research Areas</strong>: {{journal.areas}}
+    - <strong>Research Areas</strong>: {{journal.area}}
     - <strong>Duration of Service</strong>: {{journal.duration}}
 <br>
 
