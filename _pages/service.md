@@ -26,7 +26,7 @@ permalink: service
 
 * <strong><a href="{{journal.url}}" target="_blank">{{journal.name}}</a><strong>
     - <strong>Research Areas</strong>: {{journal.areas}}
-
+    - <strong>Duration of Service</strong>: {{journal.duration}}
 <br>
 
 {% endfor %}
